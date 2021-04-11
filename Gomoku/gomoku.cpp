@@ -2064,23 +2064,6 @@ void GameState::render(ID2D1HwndRenderTarget* pRT)
 		if (pRedBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pRedBrush);
 	}*/
 
-	std::vector<uint8_t> threats_X;// = m_board.get_threats_X();
-	std::vector<uint8_t> threats_O;// = m_board.get_threats_O();
-
-	for (int i = 0; i < threats_X.size()/16; i++) {
-		int col = threats_X[16 * i] % BOARD_DIM;
-		int row = (threats_X[16 * i] - col) / BOARD_DIM;
-		if(pRedBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pRedBrush);
-		
-	}
-
-	for (int i = 0; i < threats_O.size() / 16; i++) {
-		int col = threats_O[16 * i] % BOARD_DIM;
-		int row = (threats_O[16 * i] - col) / BOARD_DIM;
-		if (pRedBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pRedBrush);
-
-	}
-
 	SafeRelease(&pYellowBrush);
 	SafeRelease(&pRedBrush);
 	SafeRelease(&pBlueBrush);
