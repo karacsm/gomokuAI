@@ -1,0 +1,18960 @@
+eeeexxxee
+1
+7	2
+eeeoeooex
+1
+23	2
+oeeoooexe
+1
+20	1
+eooooxeee
+1
+14	0
+wexoeoooe
+1
+16	3
+eooeoeexw
+1
+22	0
+eeexxxeeo
+1
+7	1
+exxxxxxxw
+3
+0	1	0	2	0	3
+wexxxxoox
+1
+2	1
+woooooxew
+1
+12	1
+xooxxexxw
+1
+6	3
+eeexxexee
+1
+10	2
+xeoeoooew
+1
+16	2
+eoexxxxex
+2
+1	2	5	4
+ooeoow
+1
+18	0
+oooeoexoe
+1
+17	0
+exeoxexxx
+1
+4	4
+wexxxeeew
+1
+9	0
+oexexxeew
+1
+11	1
+xoxxxexxx
+3
+4	4	5	2	6	3
+eeoeooeex
+1
+23	1
+eoxoxxxex
+1
+5	4
+xoxexxxew
+1
+4	2
+exexxexox
+1
+11	0
+oeoxoeooo
+1
+16	4
+woeooo
+1
+16	1
+xxexxxeoo
+2
+4	1	6	0
+exeeoeooo
+1
+16	4
+eexxxeeow
+1
+7	0
+xooooeeeo
+1
+15	0
+eeeexexxe
+1
+11	3
+xxxexoxew
+1
+5	0
+eooxxxxxe
+1
+0	3
+eeeexxxex
+1
+5	4
+eeeoeooee
+1
+23	2
+oeeoooexx
+1
+20	1
+eeexxexex
+1
+10	2
+eoexxxxee
+1
+1	2
+xxxxxoexo
+1
+0	0
+eeoxxxexo
+1
+5	3
+oooeoexox
+1
+17	0
+wxxxxxx
+2
+0	1	0	2
+exxxxxexo
+2
+0	1	5	3
+oxexexxxx
+1
+4	3
+weeeoooeo
+1
+17	4
+eooeoexxo
+1
+22	0
+xoexxxxxo
+1
+0	3
+xoxxxexxe
+2
+5	2	6	3
+weoxxexxo
+1
+6	3
+eeoeooeee
+1
+23	1
+oexxxeew
+1
+9	0
+xeeoooow
+1
+14	2
+eeeeooooo
+1
+12	4
+exeoooeox
+1
+17	3
+exxexxoee
+1
+6	1
+xxoexxxex
+1
+5	4
+xeoooooxo
+1
+12	2
+exexxexoe
+1
+11	0
+weoexxxxw
+1
+2	3
+eeeexexxx
+1
+4	4
+eooxxxxxx
+2
+0	3	0	4
+ooeooeew
+1
+18	0
+xexxxexeo
+2
+4	0	5	2
+eeexooooo
+1
+12	4
+oxeoeooeo
+1
+23	2
+xeoexxxex
+1
+5	4
+oxoexxxxw
+1
+2	3
+xeeoooooo
+2
+12	3	12	4
+oexxxeeoo
+1
+9	0
+exexxeooe
+1
+11	0
+eooooooxo
+2
+12	1	12	2
+eeeexxexe
+1
+10	3
+oeooooow
+2
+12	2	16	0
+eooooexee
+1
+13	0
+eexxexxoo
+1
+6	2
+oooooxexw
+1
+12	0
+weeooeooo
+2
+16	4	18	3
+eeeoxexxx
+1
+4	4
+exexxeexo
+1
+11	0
+eooxxexxe
+1
+6	3
+oooeoxxoe
+1
+17	0
+ooooeoeew
+1
+17	1
+eeeexxxxe
+1
+1	3
+xxooooeeo
+1
+15	1
+exexxeoox
+1
+11	0
+xeoexxxee
+1
+9	2
+eoeeooooo
+1
+12	4
+xxxxxeexo
+1
+0	0
+eeeexxexx
+1
+6	4
+eooooexex
+1
+13	0
+eoeexexxe
+1
+11	3
+wxoexxxex
+1
+5	4
+xeexxxxoo
+1
+2	2
+eeeexxxeo
+1
+8	2
+exeooeooo
+2
+16	4	18	3
+exeeooeoe
+1
+22	3
+exxexxxoo
+2
+4	2	6	1
+oooeoxxox
+1
+17	0
+eeeexxxxx
+1
+0	4
+eoeooeoxo
+1
+23	0
+ooeoooxeo
+2
+16	1	18	0
+eooxxexxx
+2
+4	4	6	3
+wexoeooo
+1
+16	3
+exeooeoox
+1
+18	3
+exxexxxox
+2
+4	2	6	1
+eoeooeoxx
+1
+23	0
+ooeoooxex
+2
+16	1	18	0
+oooeooeow
+2
+17	0	18	1
+exexxeexe
+1
+11	0
+eooxxexxo
+1
+6	3
+oooeoxxoo
+1
+17	0
+eeeexxxxo
+1
+2	3
+oooooxew
+1
+12	0
+eeoooooee
+1
+12	2
+ooeooeeoe
+1
+18	0
+eeeoxxexx
+1
+6	4
+eeeeoeooe
+1
+23	3
+eeoooooxx
+1
+12	2
+oxxexxeoe
+1
+6	1
+wxxxxeeew
+1
+3	0
+eeeeoeooo
+1
+16	4
+xeexxxxxe
+1
+0	3
+eeexxxeox
+1
+8	1
+wxxxxeo
+1
+3	0
+eeeeooeoe
+1
+22	3
+oxexexxeo
+1
+11	2
+eooooeooo
+4
+13	0	16	4	17	2	18	3
+xxexxxeex
+2
+4	1	6	0
+xooooexew
+1
+15	0
+eeexxexxo
+1
+6	3
+wxxxxee
+1
+3	0
+eeeeooeoo
+1
+18	4
+oxexexxee
+1
+11	2
+eooooeooe
+3
+13	0	17	2	18	3
+eeexxexxe
+1
+6	3
+xxexxexxe
+2
+6	0	6	3
+eooooooeo
+3
+12	1	12	2	17	4
+oxoooooex
+1
+12	2
+eeexxxxxx
+2
+0	3	0	4
+eexxexew
+1
+10	1
+woexxexxo
+1
+6	3
+eeeeoooee
+1
+19	2
+xeeoxxxxe
+1
+3	3
+eeexooeoo
+1
+18	4
+xxexxexxx
+3
+4	4	6	0	6	3
+oxoooooee
+1
+12	2
+ooeooxeow
+1
+18	0
+eeexxxxxe
+1
+0	3
+eeeeoooex
+1
+20	2
+woexxexxe
+1
+6	3
+eeeeoooeo
+1
+17	4
+eeeoeooeo
+1
+23	2
+eeexxxeex
+1
+7	1
+oooeoooee
+3
+16	2	17	0	18	1
+wexxxxooo
+1
+2	1
+eeeeooooe
+1
+13	3
+xxxexooxx
+1
+5	0
+exxexxoeo
+1
+6	1
+xeeoeooew
+1
+23	2
+xxexxeexo
+1
+6	0
+xeoooeooo
+3
+16	4	17	2	18	3
+oxeeoooeo
+1
+17	4
+wxeoxxxex
+1
+5	4
+eexoxexxx
+1
+4	4
+oxxxxxw
+1
+0	1
+exooxexxx
+1
+4	4
+ooexxexxx
+2
+4	4	6	3
+xoooooeew
+1
+12	1
+eooooxeeo
+1
+14	0
+wexoeoooo
+1
+16	3
+eeexxxeee
+1
+7	1
+oooeoooex
+3
+16	2	17	0	18	1
+ooooeoow
+2
+17	1	18	2
+eeexxexeo
+1
+10	2
+xxxxxoexx
+1
+0	0
+eeoxxxexx
+2
+5	3	6	4
+oooeoexoo
+1
+17	0
+eeeeoooox
+1
+14	3
+exeoooeoo
+2
+17	3	18	4
+eeooeoexe
+1
+22	1
+oxexxxoxe
+1
+4	1
+xxexooeoo
+1
+18	4
+weeoooexo
+1
+20	1
+eeeoeooox
+1
+16	3
+exxexxexw
+1
+6	1
+eexxxxexo
+2
+1	1	5	3
+eeexexxee
+1
+11	2
+eeooeoexx
+1
+22	1
+eeoooeoow
+2
+17	2	18	3
+eeeoeoooe
+1
+16	3
+xeeoooew
+1
+20	1
+eexxexexo
+1
+10	1
+ooooooxxw
+2
+12	0	12	1
+xxxxxxxxe
+4
+0	0	0	1	0	2	0	3
+eoxxexxxx
+2
+4	3	6	2
+oxxxexoew
+1
+5	1
+exxxxoeoe
+1
+2	0
+ooeeoeooo
+1
+16	4
+woeexxexx
+1
+6	4
+oeoooxeox
+1
+16	0
+exeexexxe
+1
+11	3
+exxxxoxxe
+1
+2	0
+eoxxxexoo
+1
+5	2
+ooeoooexx
+2
+16	1	18	0
+xoeoxxxxx
+1
+0	4
+xxxxxxeoe
+2
+0	0	0	1
+eeexexxxo
+1
+4	3
+eeexexxex
+1
+11	2
+eoxxxexox
+1
+5	2
+ooeoooexo
+2
+16	1	18	0
+oxeexexxx
+1
+4	4
+eeexexxxx
+1
+4	3
+wxexxxoxw
+1
+4	1
+eexxxxexe
+2
+1	1	5	3
+eeexexxeo
+1
+11	2
+weeoooexx
+1
+20	1
+eeeoeoooo
+1
+16	3
+eexxexexe
+1
+10	1
+exxxxoxxo
+1
+2	0
+eoxxxexoe
+1
+5	2
+xxxxxxeoo
+2
+0	0	0	1
+eeexexxxe
+1
+4	3
+ooooxxxex
+1
+5	4
+oxeexexxe
+1
+11	3
+xexxxeow
+1
+4	0
+eeexxxeoo
+1
+8	1
+xxexxxeeo
+2
+4	1	6	0
+eeexxexxx
+2
+4	4	6	3
+weoooeoow
+2
+17	2	18	3
+woexxxxeo
+1
+1	2
+eexooooox
+1
+12	3
+wooooooow
+3
+12	1	12	2	12	3
+eeexxxexe
+1
+5	3
+exoooooox
+2
+12	2	12	3
+oeooooeow
+3
+13	1	16	0	17	3
+exoooeoxo
+1
+17	2
+xexxxoxeo
+1
+4	0
+eexoooooe
+1
+12	3
+xxexxeoxo
+1
+6	0
+exooooooe
+2
+12	2	12	3
+ooexooooe
+1
+15	3
+eeexxxexx
+2
+5	3	6	4
+exoooeoxe
+1
+17	2
+wxooeooxw
+1
+18	2
+eoooeooew
+2
+17	1	18	2
+xxexxeoxx
+1
+6	0
+eexxxexew
+1
+5	2
+eeexxxexo
+1
+5	3
+xeexxxxxx
+2
+0	3	0	4
+eeexxxeoe
+1
+8	1
+oxoooooxe
+1
+12	2
+ooxxxexoe
+1
+5	2
+eeexxxxee
+1
+1	2
+oxoooooxx
+1
+12	2
+ooxxxexox
+1
+5	2
+eeexxxxex
+2
+1	2	5	4
+weexexxe
+1
+11	2
+oxoooooxo
+1
+12	2
+ooxxxexoo
+1
+5	2
+eeexxxxeo
+1
+1	2
+eooooooex
+2
+12	1	12	2
+oxoooooeo
+2
+12	2	17	4
+eeexxxxxo
+1
+0	3
+ooxxxexee
+1
+5	2
+xxxxexoox
+1
+5	1
+eeexxxxoe
+1
+2	2
+ooxxxexex
+1
+5	2
+xxxxexooe
+1
+5	1
+eeexxxxox
+1
+2	2
+wooexxxxw
+1
+2	3
+ooxxxexeo
+1
+5	2
+eeexxxxoo
+1
+2	2
+eoxexxexx
+1
+6	4
+xoxeoooox
+1
+14	3
+oexexxxox
+1
+4	2
+wexxxexox
+1
+5	2
+woexexxeo
+1
+11	2
+eeeoooeex
+1
+19	1
+exxxexoox
+1
+5	1
+ooooeoew
+1
+17	1
+xoooxxexx
+1
+6	4
+eoeooeexo
+1
+23	0
+oeexxxeoo
+1
+8	1
+woooooeox
+2
+12	1	17	3
+eeexoeooo
+1
+16	4
+xexxxexoo
+2
+4	0	5	2
+wxexxxxew
+2
+1	2	4	1
+wxoooeoxx
+1
+17	2
+eeexoooeo
+1
+17	4
+oxeoeoooo
+1
+16	3
+eeooooxxx
+1
+14	1
+xexxxexee
+2
+4	0	5	2
+wexxxxeex
+1
+1	1
+eeooooow
+1
+12	2
+eeexooooe
+1
+15	3
+oxeoeooee
+1
+23	2
+eeeooeoeo
+1
+22	2
+xexxxxow
+2
+2	1	4	0
+xxxexoeee
+1
+5	0
+xexeooooe
+1
+13	3
+oeeeoeooe
+1
+23	3
+eeeoxxxex
+1
+5	4
+xxxexeoew
+1
+5	0
+eooxxxxeo
+1
+3	2
+eeeoxxxxe
+1
+3	3
+xeooeooeo
+1
+18	2
+eeeoxxxxx
+1
+0	4
+wxoeoooew
+1
+16	2
+xeeexxxxo
+1
+2	3
+xoooeooee
+2
+17	1	18	2
+eeeooeoee
+1
+22	2
+eoooeoeew
+1
+17	1
+xxxexoeeo
+1
+5	0
+eeeooeoex
+1
+22	2
+eeeooeooe
+1
+18	3
+xeoooeoee
+1
+17	2
+eexxexeoo
+1
+10	1
+oxeeooooe
+1
+13	3
+wexoooeoo
+2
+17	3	18	4
+eeeooeoox
+1
+18	3
+eexxexeox
+1
+10	1
+wexoooeox
+1
+17	3
+eeeooeooo
+2
+16	4	18	3
+exexxxoeo
+1
+4	1
+weoooeeoe
+1
+21	0
+oxxxxeeow
+1
+3	0
+eoxexxexe
+1
+10	3
+xoxeooooe
+1
+13	3
+oexexxxoe
+1
+4	2
+wexxxexoe
+1
+5	2
+woeeoooow
+1
+14	3
+eeeoooeee
+1
+19	1
+exxxexooe
+1
+5	1
+wooxxxxx
+1
+0	3
+xoxeooooo
+1
+12	4
+oexexxxoo
+1
+4	2
+wexxxexoo
+1
+5	2
+woexexxex
+1
+11	2
+eeeoooeeo
+1
+19	1
+exxxexooo
+1
+5	1
+eooeoeoow
+1
+22	0
+eoeooeexx
+1
+23	0
+xoooooxew
+1
+12	1
+exexxxoee
+1
+4	1
+weoooeeoo
+1
+21	0
+woeooooo
+2
+12	3	16	1
+woxxxxexo
+2
+3	1	5	3
+exexxexxw
+2
+6	3	11	0
+xxexooooe
+1
+15	3
+eexxxxeex
+1
+1	1
+ooxoeoooe
+1
+16	3
+weexooeoo
+1
+18	4
+exxxxxeeo
+1
+0	1
+ooooooeex
+2
+12	0	12	1
+eooeoexeo
+1
+22	0
+eeeoooexe
+1
+20	1
+ooxoxexxx
+1
+4	4
+xoexxxxeo
+1
+1	2
+eexxxxeee
+1
+1	1
+ooxoeooox
+1
+16	3
+eeeoooexx
+1
+20	1
+wxeeoooow
+1
+14	3
+eooeoexee
+1
+22	0
+exxxxxeee
+1
+0	1
+eeeoooexo
+1
+20	1
+wxxoxxxxx
+1
+0	4
+xoexxxxee
+1
+1	2
+xoxeoooee
+1
+21	2
+oexexxxee
+1
+4	2
+wexxxexee
+1
+5	2
+eeeoooeoe
+1
+17	3
+exxxexoee
+1
+5	1
+eeoeooow
+1
+16	2
+oexexxxex
+2
+4	2	5	4
+wexxxexex
+1
+5	2
+eeeoooeox
+1
+17	3
+exxxexoex
+1
+5	1
+xoxeoooeo
+1
+17	4
+oexexxxeo
+1
+4	2
+wexxxexeo
+1
+5	2
+eeeoooeoo
+2
+17	3	18	4
+exxxexoeo
+1
+5	1
+exxoxxxxe
+1
+3	3
+ooeoooeew
+2
+16	1	18	0
+xxxxxexee
+2
+0	0	5	2
+xxexxeoeo
+1
+6	0
+xxexxoeoe
+1
+6	0
+xooooeoxe
+2
+15	0	17	2
+oeoxxxxee
+1
+3	2
+xxexxxew
+2
+4	1	6	0
+oxoooeoxw
+1
+17	2
+xeeooooex
+1
+13	2
+oexxxeeex
+1
+9	0
+oxxooooow
+1
+12	3
+eeeooooee
+1
+13	2
+exeexxxee
+1
+7	2
+xxxxexxoe
+2
+5	1	6	2
+xexxxoxxo
+1
+4	0
+eoxxexxew
+1
+6	2
+wxxxxxee
+1
+0	1
+eeooxxxxe
+1
+3	3
+exxoxxxxx
+1
+0	4
+eeooooxow
+1
+14	1
+xxxxxexex
+2
+0	0	5	2
+xxexxoeox
+1
+6	0
+xeooeoeeo
+1
+22	1
+xooooeoxx
+2
+15	0	17	2
+oexoeooow
+1
+16	3
+oeoxxxxex
+2
+3	2	5	4
+wxxxex
+1
+5	1
+xeeooooee
+1
+13	2
+oexxxeeee
+1
+9	0
+eeeooooex
+1
+13	2
+exxxxooxo
+1
+2	0
+exeexxxex
+1
+5	4
+wooeooow
+2
+16	2	18	1
+wxxxxxex
+2
+0	1	5	3
+eeooxxxxx
+1
+0	4
+oxeoooeew
+1
+21	1
+xxxxexxox
+2
+5	1	6	2
+eeeooooeo
+2
+13	2	17	4
+exxxxooxx
+1
+2	0
+exeexxxeo
+1
+8	2
+eeeooooxe
+1
+14	2
+xoooooxw
+1
+12	1
+exeexxxxe
+1
+1	3
+exxoxxxex
+1
+5	4
+xxxxxexxx
+4
+0	0	4	4	5	2	6	3
+exeexxxxx
+1
+0	4
+oeeeooeoo
+1
+18	4
+wxexxxeew
+1
+4	1
+eeeooooxx
+1
+14	2
+wxxxxxxx
+3
+0	1	0	2	0	3
+eeooxxxex
+1
+5	4
+eeeooooxo
+1
+14	2
+wxxxxxoew
+1
+0	1
+exeexxxxo
+1
+2	3
+wxxxxxoe
+1
+0	1
+eeoxexxxo
+1
+4	3
+xxxxexxee
+2
+5	1	6	2
+xeoeooexo
+1
+23	1
+exexxeoex
+1
+11	0
+eooooexox
+1
+13	0
+exxxexxxo
+3
+4	3	5	1	6	2
+xxxxxexoe
+2
+0	0	5	2
+xxexxoeee
+1
+6	0
+xeooooxxx
+1
+14	1
+eeeoooooe
+1
+12	3
+wxxxxxox
+1
+0	1
+eoxeoeooo
+1
+16	4
+ooooooxew
+2
+12	0	12	1
+xxxxexxex
+2
+5	1	6	2
+exexxeoee
+1
+11	0
+xeeeoeooe
+1
+23	3
+eeeooooox
+1
+12	3
+wxxxxxoo
+1
+0	1
+eeoxexxxe
+1
+4	3
+xxxxexxeo
+2
+5	1	6	2
+oeooooeew
+2
+13	1	16	0
+xeoeooexe
+1
+23	1
+weoooeoew
+1
+17	2
+xxxxexxxx
+3
+4	3	5	1	6	2
+exxxexxxe
+3
+4	3	5	1	6	2
+oxoxooeoo
+1
+18	4
+xxxxxexoo
+2
+0	0	5	2
+xxexxoeeo
+1
+6	0
+eeeoooooo
+2
+12	3	12	4
+eexexexxe
+1
+11	3
+exooooeex
+1
+15	1
+eexexexxx
+1
+4	4
+exooooeee
+1
+15	1
+oooexxxxx
+1
+0	4
+xxxxxoooe
+1
+0	0
+exxxxexoe
+2
+1	0	5	2
+eooooxoeo
+1
+14	0
+weexxxxxo
+1
+0	3
+weeoooeox
+1
+17	3
+eooooxxxw
+1
+14	0
+eexexxeee
+1
+11	1
+xoooooxow
+1
+12	1
+oooexxxxe
+1
+1	3
+xxxxxooox
+1
+0	0
+xexxxxoxo
+2
+2	1	4	0
+exxxxexox
+2
+1	0	5	2
+eeooxexxx
+1
+4	4
+weeoooeoe
+1
+17	3
+eexexxeex
+1
+11	1
+eooeoeoew
+1
+22	0
+ooxexxexx
+1
+6	4
+xxxxxoooo
+1
+0	0
+xexxxxoxx
+2
+2	1	4	0
+exxxxexoo
+2
+1	0	5	2
+eooooxoee
+1
+14	0
+weexxxxxe
+1
+0	3
+eexexxeeo
+1
+11	1
+eoxxxxeoe
+1
+3	1
+eexexxxew
+1
+4	2
+eooeooooe
+3
+13	3	16	2	18	1
+eexexxexe
+2
+10	3	11	1
+oeoooeoxx
+2
+16	0	17	2
+exxexexoe
+1
+10	0
+xexxxw
+1
+4	0
+eooeoooox
+3
+14	3	16	2	18	1
+eeooeooxo
+1
+18	2
+xoooeow
+1
+17	1
+wxxxexexo
+1
+5	1
+eoxxxxeox
+1
+3	1
+exxexexox
+1
+10	0
+oooxoeooo
+1
+16	4
+eexexxexx
+2
+6	4	11	1
+oeoooeoxe
+2
+16	0	17	2
+eooeooxw
+1
+18	1
+eooeooooo
+3
+12	4	16	2	18	1
+eeooeooxx
+1
+18	2
+wxxxexexx
+1
+5	1
+eoxxxxeoo
+1
+3	1
+eexexxexo
+1
+11	1
+exexxxxxw
+2
+0	3	4	1
+exxexexoo
+1
+10	0
+weooooxxx
+1
+14	1
+eoeoooxoo
+1
+16	1
+wxexxxoxe
+1
+4	1
+eexxxxexw
+2
+1	1	5	3
+wxeeooeoo
+1
+18	4
+exxexxexo
+1
+6	1
+eeoexexxe
+1
+11	3
+exxxxxoee
+1
+0	1
+xxxxxooee
+1
+0	0
+eexxxxoox
+1
+2	1
+exxxxexee
+2
+1	0	5	2
+eooeoooxe
+2
+16	2	18	1
+eoxxxxexe
+2
+3	1	5	3
+eexexxeoe
+1
+11	1
+exxexexxe
+2
+10	0	11	3
+xxxxxooex
+1
+0	0
+eexxxxooe
+1
+2	1
+exxxxexex
+2
+1	0	5	2
+eooeoooxx
+2
+16	2	18	1
+eoxxxxexx
+3
+3	1	5	3	6	4
+eexexxeox
+1
+11	1
+exxexexxx
+2
+4	4	10	0
+weooooxxe
+1
+14	1
+eoeoxxexx
+1
+6	4
+woexxxxow
+1
+2	2
+ooooooooe
+4
+12	0	12	1	12	2	12	3
+eoxexxxoo
+1
+4	2
+woxxexxoo
+1
+6	2
+eeoexexxx
+1
+4	4
+eexxxeoxo
+1
+8	0
+exxxxxoex
+1
+0	1
+eoooeoxxo
+1
+17	1
+eoeoooxoe
+1
+16	1
+eooxooeoo
+1
+18	4
+woooooow
+2
+12	1	12	2
+eoxexxxox
+1
+4	2
+woxxexxox
+1
+6	2
+eexxxeoxx
+1
+8	0
+exxxxxoeo
+1
+0	1
+wxoooooee
+1
+12	2
+eoooeoxxx
+1
+17	1
+wxexxxoxo
+1
+4	1
+eeexexxew
+1
+11	2
+wxeeooeoe
+1
+22	3
+oeooooew
+2
+13	1	16	0
+exxexxexe
+2
+6	1	10	3
+xxxxxooeo
+1
+0	0
+exxxxexeo
+2
+1	0	5	2
+eooeoooxo
+2
+16	2	18	1
+eeoexxexe
+1
+10	3
+eoxxxxexo
+2
+3	1	5	3
+oexooooow
+1
+12	3
+eexexxeoo
+1
+11	1
+exxexexxo
+1
+10	0
+eooeoooow
+3
+14	3	16	2	18	1
+eexexxxee
+1
+4	2
+exxexexow
+1
+10	0
+exexxxxxo
+2
+0	3	4	1
+eexexxexw
+1
+11	1
+eexexxxex
+2
+4	2	5	4
+eexexxxeo
+1
+4	2
+weooooex
+1
+13	1
+exexxxxxe
+2
+0	3	4	1
+xexxxooox
+1
+4	0
+wexoooooe
+1
+12	3
+eexexxxxe
+2
+1	3	4	2
+eoxxxexow
+1
+5	2
+xexxxoooe
+1
+4	0
+oeeooooeo
+2
+13	2	17	4
+xeoeooew
+1
+23	1
+eexxxxxxo
+2
+0	2	0	3
+wexooooox
+1
+12	3
+eexexxxxx
+2
+0	4	4	2
+eexxxxxxx
+3
+0	2	0	3	0	4
+wexoooooo
+2
+12	3	12	4
+oxxxxxoow
+1
+0	1
+eexexxxxo
+2
+2	3	4	2
+exxxxxeox
+1
+0	1
+eooooooow
+3
+12	1	12	2	12	3
+eexexxxoe
+1
+4	2
+eooeoexox
+1
+22	0
+eexexxxox
+1
+4	2
+eooeoexoe
+1
+22	0
+exxxxxeoe
+1
+0	1
+eexexxxoo
+1
+4	2
+exeoeoooe
+1
+16	3
+exoeoeooe
+1
+23	3
+eoeoooexe
+1
+16	1
+xoexxexxe
+1
+6	3
+weoxxxxxe
+1
+0	3
+xxoooeow
+1
+17	2
+ooexxxeew
+1
+9	1
+eexeoeooe
+1
+23	3
+woooeooxw
+2
+17	1	18	2
+exeoeoooo
+1
+16	3
+exoeoeooo
+1
+16	4
+woooeoeox
+1
+17	1
+eoeoooexo
+1
+16	1
+xoexxexxo
+1
+6	3
+weoxxxxxo
+1
+0	3
+eexeoeooo
+1
+16	4
+xxxxxoxex
+1
+0	0
+eeoxxxxex
+2
+3	2	5	4
+exxxxeoex
+1
+1	0
+eoexxexxx
+2
+4	4	6	3
+xxxexoxeo
+1
+5	0
+xxeexxexe
+1
+10	3
+ooeooexxx
+1
+18	0
+exoeooeoe
+1
+22	3
+eoxoxexxx
+1
+4	4
+woxxxxxoe
+1
+0	2
+eexeooeoe
+1
+22	3
+eooeoeeex
+1
+22	0
+exxxxxxex
+3
+0	1	0	2	5	4
+xoxexxxeo
+1
+4	2
+xooexexxx
+1
+4	4
+weeoeooe
+1
+23	2
+xxxeoeooo
+1
+16	4
+eexxxeeoo
+1
+7	0
+xoexxxeex
+1
+9	1
+woxxxxxoo
+1
+0	2
+wxeoxexxx
+1
+4	4
+eexeooeoo
+1
+18	4
+xoxexxxee
+1
+4	2
+weeoeooo
+1
+16	3
+xxxeoeooe
+1
+23	3
+eexxxeeoe
+1
+7	0
+eexeoooee
+1
+21	2
+eooeooexe
+1
+18	1
+oooooooxw
+3
+12	0	12	1	12	2
+xxxoxxxex
+1
+5	4
+xxxxexoeo
+1
+5	1
+xxxxexoee
+1
+5	1
+wxoexexxx
+1
+4	4
+eexeoooeo
+1
+17	4
+eooeooexo
+1
+18	1
+eeooooexo
+1
+13	1
+eoxexxxxw
+2
+2	3	4	2
+exoeooooe
+2
+13	3	16	2
+eoxoeoooo
+1
+16	3
+xeexxexxe
+1
+6	3
+eexeooooe
+1
+13	3
+xeexxexxx
+2
+4	4	6	3
+eexeoooox
+1
+14	3
+xexxxeoox
+1
+4	0
+exoeooooo
+2
+12	4	16	2
+wooeooew
+1
+18	1
+eeooooexe
+1
+13	1
+wexxxxexw
+2
+1	1	5	3
+eoxoeoooe
+1
+16	3
+xeexxexxo
+1
+6	3
+eexeooooo
+1
+12	4
+eexxexeee
+1
+10	1
+xxoeoooox
+2
+14	3	16	2
+xeoooeeeo
+1
+21	0
+eexxexeex
+1
+10	1
+xxoeooooe
+2
+13	3	16	2
+xexxxxxoo
+2
+0	2	4	0
+eeooxxexx
+1
+6	4
+eexxexeeo
+1
+10	1
+xeoooeeee
+1
+21	0
+eeooeoexo
+1
+22	1
+eexxexexx
+1
+10	1
+eoeexxxew
+1
+8	2
+xeoooeoeo
+1
+17	2
+eexxexeoe
+1
+10	1
+oxeeooooo
+1
+12	4
+xxoooeoew
+1
+17	2
+xxxxxeeex
+1
+0	0
+eexxexxee
+1
+6	2
+xxxxxeeee
+1
+0	0
+eexxexxex
+1
+6	2
+wexeooooo
+1
+12	4
+weeooeoex
+1
+22	2
+eeoooeoxo
+1
+17	2
+weeooeoeo
+1
+22	2
+eeoooeoxx
+1
+17	2
+eexxexxeo
+1
+6	2
+wexeoooox
+1
+14	3
+exxxexeex
+1
+5	1
+eexxxxxeo
+1
+0	2
+xxxxxow
+1
+0	0
+xxxxexxxw
+3
+4	3	5	1	6	2
+oeeooooxo
+1
+14	2
+weoooeoex
+1
+17	2
+woxoxxexx
+1
+6	4
+eexxexxxe
+2
+4	3	6	2
+xxxexeeoo
+1
+5	0
+exxxexeee
+1
+5	1
+exxxexxxw
+3
+4	3	5	1	6	2
+weoooeoee
+1
+17	2
+eexxexxxx
+2
+4	3	6	2
+xeooooxxw
+1
+14	1
+eexxxxxee
+1
+0	2
+oeeooooxe
+1
+14	2
+eooooexow
+1
+13	0
+eexxexxxo
+2
+4	3	6	2
+xxeoxexxx
+1
+4	4
+weeooeooe
+1
+18	3
+eexxexxoe
+1
+6	2
+eexxexxox
+1
+6	2
+xxxexoxoe
+1
+5	0
+eooooeexe
+1
+13	0
+oeeexxxxx
+1
+0	4
+xeooeoeoo
+1
+22	1
+wooxxxxex
+2
+3	2	5	4
+eoeoooxxx
+1
+16	1
+eeoooexow
+1
+20	0
+xooooow
+1
+12	1
+exxexxeox
+1
+6	1
+ooxexxxex
+2
+4	2	5	4
+weoxxxexx
+2
+5	3	6	4
+xexooooox
+1
+12	3
+xoxexxxoe
+1
+4	2
+oexxexeow
+1
+10	1
+eexxxeeee
+1
+7	0
+eooooxxow
+1
+14	0
+xxxexoxox
+1
+5	0
+eooooeexx
+1
+13	0
+oeeexxxxe
+1
+1	3
+wooxxxxee
+1
+3	2
+eoeoooxxe
+1
+16	1
+exxexxeoe
+1
+6	1
+ooxexxxee
+1
+4	2
+weoxxxexe
+1
+5	3
+xexoooooe
+1
+12	3
+xoxexxxox
+1
+4	2
+eexxxeeex
+1
+7	0
+oeexexxxo
+1
+4	3
+weoooooeo
+2
+12	2	17	4
+oxxoxxexx
+1
+6	4
+eexxxeeeo
+1
+7	0
+oeexexxxx
+1
+4	3
+weoooooex
+1
+12	2
+woeoooxox
+1
+16	1
+eeoeoeooe
+1
+23	3
+eexxxeexe
+1
+7	0
+woooooexo
+1
+12	1
+woeoooxoe
+1
+16	1
+xxexoooeo
+1
+17	4
+eexxxeexx
+1
+7	0
+woooooexx
+1
+12	1
+eeoeoeooo
+1
+16	4
+eexxxeexo
+1
+7	0
+oeooxxxex
+1
+5	4
+xxxxxoxeo
+1
+0	0
+eeoxxxxeo
+1
+3	2
+exxxxeoeo
+1
+1	0
+eoexxexxo
+1
+6	3
+eoxexxxee
+1
+4	2
+wxoxxxex
+1
+5	3
+xoeoooxow
+1
+16	1
+eooeoeeeo
+1
+22	0
+oxxxexw
+1
+5	1
+exxxxxxeo
+2
+0	1	0	2
+xoxexxxex
+2
+4	2	5	4
+exexxexow
+1
+11	0
+xxxexexw
+1
+5	0
+eexxxeeox
+1
+7	0
+xoexxxeeo
+1
+9	1
+eexxxexee
+1
+5	2
+wxooeooxe
+1
+18	2
+eoooeooee
+2
+17	1	18	2
+xexexxxoo
+1
+4	2
+eexxxexxo
+2
+5	2	6	3
+wxooeooeo
+1
+18	2
+eoooeooxo
+2
+17	1	18	2
+wxeexxxex
+1
+5	4
+exoxxexxo
+1
+6	3
+xxexxeoxw
+1
+6	0
+eexxxexex
+1
+5	2
+wxooeooxx
+1
+18	2
+eoooeooex
+2
+17	1	18	2
+xexexxxox
+1
+4	2
+xoxeooeoe
+1
+22	3
+exxxexeoe
+1
+5	1
+eexxxexxx
+3
+4	4	5	2	6	3
+wxooeooex
+1
+18	2
+eoooeooxx
+2
+17	1	18	2
+wxeexxxeo
+1
+8	2
+exoxxexxx
+2
+4	4	6	3
+oeooooeoe
+3
+13	1	16	0	17	3
+ooeoxexxx
+1
+4	4
+eexxxexeo
+1
+5	2
+wxooeooxo
+1
+18	2
+eoooeooeo
+2
+17	1	18	2
+exxxexeox
+1
+5	1
+xexexxxoe
+1
+4	2
+eexxxexxe
+2
+5	2	6	3
+wxooeooee
+1
+18	2
+eoooeooxe
+2
+17	1	18	2
+xoexexxeo
+1
+11	2
+oxoxoeooo
+1
+16	4
+eoxxxxxox
+1
+0	2
+xexxexeoo
+1
+10	1
+exxexeeox
+1
+10	0
+oexxoooeo
+1
+17	4
+xexexxxxe
+2
+1	3	4	2
+xxxexeeew
+1
+5	0
+eexxxexoe
+1
+5	2
+eoooeoooe
+3
+16	3	17	1	18	2
+eeoeoooxo
+1
+16	2
+eoxxxxxoe
+1
+0	2
+eoooeoexw
+1
+17	1
+xxxexxoew
+2
+5	0	6	1
+exxexeeoe
+1
+10	0
+xexexxxxx
+2
+0	4	4	2
+eexxxexox
+1
+5	2
+eoooeooox
+3
+16	3	17	1	18	2
+xoexexxee
+1
+11	2
+eeoeoooxx
+1
+16	2
+xexexxxxo
+2
+2	3	4	2
+exxexxoow
+1
+6	1
+eexxxexoo
+1
+5	2
+eoooeoooo
+3
+16	3	17	1	18	2
+eexxxeoee
+1
+8	0
+ooeoooeox
+3
+16	1	17	3	18	0
+eoooeoxee
+1
+17	1
+xeoxxxxeo
+1
+3	2
+exeoxxexx
+1
+6	4
+wxxxexxxo
+3
+4	3	5	1	6	2
+oxxxxxoxe
+1
+0	1
+xxexxxxeo
+3
+1	2	4	1	6	0
+eexxxeoex
+1
+8	0
+ooexxxxoo
+1
+2	2
+ooeoooeoe
+3
+16	1	17	3	18	0
+eoooeoxex
+1
+17	1
+xxexxxxex
+4
+1	2	4	1	5	4	6	0
+eexxxeoeo
+1
+8	0
+ooexxxxox
+1
+2	2
+eoooeoxeo
+1
+17	1
+weooooxxo
+1
+14	1
+eoeoooxox
+1
+16	1
+ooooooooo
+5
+12	0	12	1	12	2	12	3	12	4
+eoxexxxoe
+1
+4	2
+woxxexxoe
+1
+6	2
+eexxxeoxe
+1
+8	0
+wxoooooex
+1
+12	2
+wxexoeooo
+1
+16	4
+eoooeoxxe
+1
+17	1
+exxexxexx
+2
+6	1	6	4
+eeoexxexx
+1
+6	4
+eexxxxooo
+1
+2	1
+eeooooxeo
+1
+14	1
+eoooeoxoe
+1
+17	1
+xoooxxxxe
+1
+3	3
+woooeoew
+1
+17	1
+woxxexxxe
+2
+4	3	6	2
+eexxxeooe
+1
+8	0
+eoxooeooe
+1
+18	3
+xooooexox
+1
+15	0
+oeooeooxo
+1
+18	2
+weoexxxee
+1
+9	2
+xooeoeooe
+1
+23	3
+oxeoooeoo
+2
+17	3	18	4
+wooeooeo
+1
+18	1
+eoxexxxxe
+2
+1	3	4	2
+eoooeoxox
+1
+17	1
+xoooxxxxx
+1
+0	4
+woxxexxxx
+2
+4	3	6	2
+eexxxeoox
+1
+8	0
+eoxooeoox
+1
+18	3
+xooooexoe
+1
+15	0
+weoexxxex
+1
+5	4
+eoxexxxxx
+2
+0	4	4	2
+xxeoeooeo
+1
+23	2
+eeooooxee
+1
+14	1
+wexxxxexe
+2
+1	1	5	3
+eoxoeooow
+1
+16	3
+eoexoeooo
+1
+16	4
+woxxexxxo
+2
+4	3	6	2
+eexxxeooo
+1
+8	0
+eoooeoxoo
+1
+17	1
+eoxooeooo
+2
+16	4	18	3
+oeooeooxe
+1
+18	2
+wooeooee
+1
+18	1
+eoxexxxxo
+2
+2	3	4	2
+eeooooexw
+1
+13	1
+xxeoeooex
+1
+23	2
+xooeoeooo
+1
+16	4
+oxeoooeoe
+1
+17	3
+eexxxxeeo
+1
+1	1
+eexxxxexx
+3
+1	1	5	3	6	4
+woeexexxx
+1
+4	4
+eeoeoooeo
+2
+16	2	17	4
+exxeoooeo
+1
+17	4
+eexxxxeoe
+1
+1	1
+oooeoeexx
+1
+17	0
+eexxxxeox
+1
+1	1
+oooeoeexe
+1
+17	0
+xexxoooeo
+1
+17	4
+oooxxxxxx
+2
+0	3	0	4
+eeoeoooee
+1
+16	2
+exxeoooee
+1
+21	2
+eexxxxeoo
+1
+1	1
+xxxexeeoe
+1
+5	0
+exxxexeeo
+1
+5	1
+xoxxexxw
+1
+6	2
+xxexxoeew
+1
+6	0
+eexxxxxex
+2
+0	2	5	4
+exxxxoxxw
+1
+2	0
+exexxxw
+1
+4	1
+xexxxoooo
+1
+4	0
+oeeooooee
+1
+13	2
+oxxexxoew
+1
+6	1
+eexxxxxxe
+2
+0	2	0	3
+exxoeooox
+1
+16	3
+weeexxxeo
+1
+8	2
+oxexxxeox
+1
+4	1
+wxooooexx
+1
+15	1
+exeoooooo
+2
+12	3	12	4
+ooooooxoe
+2
+12	0	12	1
+wxxxexeox
+1
+5	1
+xxxexxooo
+2
+5	0	6	1
+eexxxxxoe
+1
+0	2
+eeooeooox
+2
+16	3	18	2
+woexxxexx
+2
+5	3	6	4
+eoooooeex
+1
+12	1
+woxxxexoo
+1
+5	2
+eeooeoooe
+2
+16	3	18	2
+woexxxexe
+1
+5	3
+eoooooeee
+1
+12	1
+wxxxexeoe
+1
+5	1
+eexxxxxox
+1
+0	2
+weooeoexw
+1
+22	1
+xexxxeoex
+1
+4	0
+exeoooooe
+1
+12	3
+ooooooxoo
+2
+12	0	12	1
+xxxexxooe
+2
+5	0	6	1
+eexxxxxoo
+1
+0	2
+eexxxxoee
+1
+2	1
+eooooxooe
+1
+14	0
+oooooooex
+3
+12	0	12	1	12	2
+woexooooe
+1
+15	3
+eoeexxexe
+1
+10	3
+eexxxxoxo
+1
+2	1
+weooooxoo
+1
+14	1
+xxxxexoew
+1
+5	1
+eexxxxoex
+1
+2	1
+oxeeooeoe
+1
+22	3
+eexxxxoxx
+1
+2	1
+weooooxox
+1
+14	1
+eexxxxoeo
+1
+2	1
+wxexxxexw
+2
+4	1	5	3
+eexxxxoxe
+1
+2	1
+eexxoeooo
+1
+16	4
+eexxooeoo
+1
+18	4
+eoxxexxoo
+1
+6	2
+eooooxexw
+1
+14	0
+wooeoow
+1
+18	1
+eexxoooeo
+1
+17	4
+eexxooooe
+1
+15	3
+oooooxexe
+1
+12	0
+weoeoooxx
+1
+16	2
+weeooeoow
+1
+18	3
+eexxooooo
+1
+12	4
+oooooxexo
+1
+12	0
+xoxxxexee
+1
+5	2
+eeoeooexe
+1
+23	1
+eexoeoooe
+1
+16	3
+eoxoxxxxe
+1
+3	3
+xoxxxexex
+1
+5	2
+eeoeooexx
+1
+23	1
+eexoeooox
+1
+16	3
+eoxoxxxxx
+1
+0	4
+ooeooxeox
+1
+18	0
+xxexxexxw
+2
+6	0	6	3
+exexoeooo
+1
+16	4
+xoxxxexeo
+1
+5	2
+eeoeooexo
+1
+23	1
+eexoeoooo
+1
+16	3
+eexoxxexx
+1
+6	4
+xeoeooexx
+1
+23	1
+exexxeoeo
+1
+11	0
+eeoxexxxx
+1
+4	3
+eoxeoeooe
+1
+23	3
+exoxexxxw
+1
+4	3
+xoeooooeo
+3
+13	2	16	1	17	4
+xxexxxxox
+3
+2	2	4	1	6	0
+exooxxxex
+1
+5	4
+ooexxxxex
+2
+1	2	5	4
+xxexxoexe
+1
+6	0
+xooooeooe
+3
+15	0	17	2	18	3
+oeooooxxx
+2
+14	1	16	0
+eexxexxxw
+2
+4	3	6	2
+xxxxexxxe
+3
+4	3	5	1	6	2
+eooooexoo
+1
+13	0
+exxxexxxx
+3
+4	3	5	1	6	2
+xeooooxxo
+1
+14	1
+eexoxxxex
+1
+5	4
+eexoxxxxe
+1
+3	3
+xooeooeeo
+1
+18	1
+exxxexxee
+2
+5	1	6	2
+eexoxxxxx
+1
+0	4
+exexxeew
+1
+11	0
+exxxexxex
+2
+5	1	6	2
+wxxxexeew
+1
+5	1
+exexooooo
+1
+12	4
+oxxxxxxoe
+2
+0	1	0	2
+exoooeooe
+2
+17	2	18	3
+exxexxoox
+1
+6	1
+exeooooeo
+2
+13	2	17	4
+weoeooeex
+1
+23	1
+xxxexxoeo
+2
+5	0	6	1
+eexooeooe
+1
+18	3
+xexoooeox
+1
+17	3
+xxxexeeeo
+1
+5	0
+exoooeoox
+2
+17	2	18	3
+exxexxooe
+1
+6	1
+eexooeoox
+1
+18	3
+xexoooeoe
+1
+17	3
+xxxexeeex
+1
+5	0
+exoooeooo
+3
+16	4	17	2	18	3
+ooexoeooo
+1
+16	4
+exeooooee
+1
+13	2
+xxoxxxexx
+2
+5	3	6	4
+xxxexxoee
+2
+5	0	6	1
+eexooeooo
+2
+16	4	18	3
+exxexeeow
+1
+10	0
+eexoooeoe
+1
+17	3
+eexoooeox
+1
+17	3
+eexoooeoo
+2
+17	3	18	4
+eexooooee
+1
+15	2
+xxoooeoxe
+1
+17	2
+xxxexexeo
+1
+5	0
+oooooeooo
+4
+12	0	16	4	17	2	18	3
+xeooeooxw
+1
+18	2
+xoexoooeo
+1
+17	4
+wxxeooeoo
+1
+18	4
+eexooooex
+1
+15	2
+xeeexxxew
+1
+8	2
+xxoooeoxx
+1
+17	2
+eexooooeo
+2
+15	2	17	4
+xxoooeoxo
+1
+17	2
+oooooeoox
+3
+12	0	17	2	18	3
+xxxexexee
+1
+5	0
+woexxxxex
+2
+1	2	5	4
+xexxxoxee
+1
+4	0
+eexoooooo
+2
+12	3	12	4
+exxexxxee
+2
+4	2	6	1
+ooxxxxxow
+1
+0	2
+xxxexooox
+1
+5	0
+wxexxexe
+1
+10	2
+eooeoeoxo
+1
+22	0
+exeooeoee
+1
+22	2
+exexxxexe
+2
+4	1	5	3
+ooeoooxoe
+2
+16	1	18	0
+eeoexxxee
+1
+9	2
+oeoexxexe
+1
+10	3
+exxxxeexo
+1
+1	0
+exxexxxxo
+3
+2	3	4	2	6	1
+exexxxexx
+3
+4	1	5	3	6	4
+ooeoooxox
+2
+16	1	18	0
+eooxexxxw
+1
+4	3
+eeoexxxex
+1
+5	4
+eoxxoeooo
+1
+16	4
+oeoexxexx
+1
+6	4
+exeooeoex
+1
+22	2
+exexxxeeo
+1
+4	1
+eoeooeooo
+3
+16	4	18	3	23	0
+xoxoxxexx
+1
+6	4
+eoeoooeow
+2
+16	1	17	3
+eeoexxxxo
+1
+2	3
+xoooeooxe
+2
+17	1	18	2
+xxxexoooe
+1
+5	0
+weooxexxx
+1
+4	4
+exxexxxex
+3
+4	2	5	4	6	1
+exxexxxxe
+3
+1	3	4	2	6	1
+weooooeow
+2
+13	1	17	3
+exxxxeexx
+1
+1	0
+oexxxxoew
+1
+2	1
+xxxexoooo
+1
+5	0
+eooeoeoxx
+1
+22	0
+eeoexxxxe
+1
+1	3
+xoooeooxo
+2
+17	1	18	2
+exexxxeee
+1
+4	1
+eoeooeooe
+2
+18	3	23	0
+exxexxxxx
+3
+0	4	4	2	6	1
+exexxxexo
+2
+4	1	5	3
+ooeoooxoo
+2
+16	1	18	0
+exxxxeexe
+1
+1	0
+exxexxxeo
+2
+4	2	6	1
+eooeoeoxe
+1
+22	0
+exeooeoeo
+1
+22	2
+exexxxeex
+1
+4	1
+eoeooeoox
+2
+18	3	23	0
+eeoexxxxx
+1
+0	4
+eoexxxxeo
+1
+1	2
+xxxxxoexe
+1
+0	0
+eeoxxxexe
+1
+5	3
+eoxxxxxw
+1
+0	2
+exxxxxexe
+2
+0	1	5	3
+ooeooeoxx
+1
+18	0
+weeeoooee
+1
+19	2
+eooeoexxe
+1
+22	0
+xoexxxxxe
+1
+0	3
+xoxxxexxo
+2
+5	2	6	3
+weoxxexxe
+1
+6	3
+eeoeooeeo
+1
+23	1
+oxoxxxexx
+2
+5	3	6	4
+oxoooeoxo
+1
+17	2
+eeoeooeoe
+2
+22	3	23	1
+eoexxxexe
+1
+5	3
+oxoxxxexe
+1
+5	3
+eeoeooeox
+1
+23	1
+eoexxxexx
+2
+5	3	6	4
+oexoeoooo
+1
+16	3
+eeooooxoo
+1
+14	1
+ooeooxexx
+1
+18	0
+xxxexeexe
+1
+5	0
+xxeoxxxxx
+1
+0	4
+oxoooeoxe
+1
+17	2
+oeoxxxxew
+1
+3	2
+eeoeooeoo
+2
+18	4	23	1
+eoexxxexo
+1
+5	3
+oexoeooox
+1
+16	3
+xxxxxexew
+2
+0	0	5	2
+ooeoooeee
+2
+16	1	18	0
+exxxxow
+1
+2	0
+eeooooxox
+1
+14	1
+ooeooxexo
+1
+18	0
+xooeooxxw
+1
+18	1
+oooxxxxxe
+1
+0	3
+xoooeoxw
+1
+17	1
+eeoeoooex
+1
+16	2
+xoexexxex
+1
+11	2
+eeoeoooxe
+1
+16	2
+eoxxxxxoo
+1
+0	2
+xexxexeox
+1
+10	1
+exxexeeoo
+1
+10	0
+eexooeoow
+1
+18	3
+eeoeooooe
+2
+13	3	16	2
+xxxxexeex
+1
+5	1
+wxxxexeeo
+1
+5	1
+xxexexxex
+1
+11	2
+oeoeoooow
+2
+14	3	16	2
+eeooeooeo
+1
+18	2
+eoooooeoo
+3
+12	1	17	3	18	4
+eeoeoooox
+2
+14	3	16	2
+xxxxexeee
+1
+5	1
+oexxxxeeo
+1
+1	1
+xeooxxxxx
+1
+0	4
+eeoeooooo
+2
+12	4	16	2
+eeooeooee
+1
+18	2
+oeeoxxexx
+1
+6	4
+wexxoeooo
+1
+16	4
+eoooooeoe
+2
+12	1	17	3
+oxxeooooo
+1
+12	4
+xxxxxooxe
+1
+0	0
+exxxxexxe
+3
+1	0	5	2	6	3
+eooeoooee
+2
+16	2	18	1
+exxexeexw
+1
+10	0
+eoxxxxeee
+1
+3	1
+oeexxxeex
+1
+7	1
+exxexexee
+1
+10	0
+exxxxxoxe
+1
+0	1
+oxooeoow
+1
+18	2
+eeoxxexxe
+1
+6	3
+xxxxxooxx
+1
+0	0
+exxexxoxo
+1
+6	1
+exxxxexxx
+4
+1	0	4	4	5	2	6	3
+eooeoooex
+2
+16	2	18	1
+eoxxxxeex
+1
+3	1
+oeexxxeee
+1
+7	1
+exxexexex
+1
+10	0
+exxxxxoxx
+1
+0	1
+xoxxxxxxw
+2
+0	2	0	3
+eeoxxexxx
+2
+4	4	6	3
+xoxexexxx
+1
+4	4
+oxxeooooe
+1
+13	3
+xxxxxooxo
+1
+0	0
+exxexxoxx
+1
+6	1
+exxxxexxo
+3
+1	0	5	2	6	3
+eooeoooeo
+3
+16	2	17	4	18	1
+eoxxxxeeo
+1
+3	1
+eooxxxexw
+1
+5	3
+oeoooxxew
+1
+16	0
+exxexexeo
+1
+10	0
+exxxxxoxo
+1
+0	1
+eeoxxexxo
+1
+6	3
+xxxxxoxee
+1
+0	0
+eeoxxxxee
+1
+3	2
+exxxxeoee
+1
+1	0
+eoexxexxe
+1
+6	3
+eoxexxxeo
+1
+4	2
+wexexxxxx
+2
+0	4	4	2
+xxxxxoxxe
+1
+0	0
+eeoxxxxxe
+1
+0	3
+exxxxeoxe
+1
+1	0
+eoexxexee
+1
+10	2
+xxxxxoxxx
+1
+0	0
+eeoxxxxxx
+2
+0	3	0	4
+exxxxeoxx
+1
+1	0
+eoexxexex
+1
+10	2
+xxxxxoxxo
+1
+0	0
+eeoxxxxxo
+1
+0	3
+exxxxeoxo
+1
+1	0
+eoexxexeo
+1
+10	2
+wxoxxxxew
+1
+3	2
+xeooooeow
+2
+13	1	17	3
+eeoxoeooo
+1
+16	4
+xoeoooxw
+1
+16	1
+eeoxooeoo
+1
+18	4
+weooooee
+1
+13	1
+exexxxxxx
+3
+0	3	0	4	4	1
+xxxexeoxo
+1
+5	0
+eeoxoooeo
+1
+17	4
+eeoooexeo
+1
+20	0
+weeoeooex
+1
+23	2
+eeoxooooe
+1
+15	3
+eoeoeooex
+1
+23	2
+xxxexoxow
+1
+5	0
+eooooeexw
+1
+13	0
+eooooxxox
+1
+14	0
+eeoooexoe
+1
+20	0
+eeoxooooo
+1
+12	4
+eeoooexoo
+1
+20	0
+exexxxoxx
+1
+4	1
+oxexxxoee
+1
+4	1
+weoxxxxx
+1
+0	3
+wxeooooox
+1
+12	3
+oeooeoeeo
+1
+22	1
+eeooeoeee
+1
+22	1
+exexxxoxe
+1
+4	1
+oxexxxoex
+1
+4	1
+wxeooeoow
+1
+18	3
+eooeooxeo
+1
+18	1
+exxexeoeo
+1
+10	0
+weoxoeooo
+1
+16	4
+wooooeexo
+1
+15	0
+eeooeoeex
+1
+22	1
+eooeooxex
+1
+18	1
+woeoooeoe
+2
+16	1	17	3
+exxexeoex
+1
+10	0
+wooooeexx
+1
+15	0
+eeooeoeeo
+1
+22	1
+eeooeoeoe
+1
+22	1
+xoeoooeoo
+3
+16	1	17	3	18	4
+xexxexew
+1
+10	1
+eoxexexxx
+1
+4	4
+exexxeeoo
+1
+11	0
+xoooxexxx
+1
+4	4
+oxexxxoox
+1
+4	1
+eeooeoeox
+1
+22	1
+exexxeeox
+1
+11	0
+oxexxxooo
+1
+4	1
+xxxexooee
+1
+5	0
+xxxxexow
+1
+5	1
+eeooeoeoo
+1
+22	1
+wxxxexeex
+1
+5	1
+xxexexxeo
+1
+11	2
+eeooeooex
+1
+18	2
+oxexxxxow
+2
+2	2	4	1
+eoooooeox
+2
+12	1	17	3
+eeooeooxe
+1
+18	2
+exxoeoooo
+1
+16	3
+weeexxxex
+1
+5	4
+xxoxxxxee
+1
+3	2
+oxexxxeoo
+1
+4	1
+xexxxeoee
+1
+4	0
+wxooooexo
+1
+15	1
+exeooooox
+1
+12	3
+wxxxexeoo
+1
+5	1
+xxxexxoox
+2
+5	0	6	1
+woxxxexoe
+1
+5	2
+eeooeoooo
+2
+16	3	18	2
+woexxxexo
+1
+5	3
+eoooooeeo
+1
+12	1
+eeoooeeee
+1
+19	0
+eeoooeeex
+1
+19	0
+eeoooeeeo
+1
+19	0
+xeeoeoooe
+1
+16	3
+eeoooeexe
+1
+19	0
+exxooooew
+1
+15	2
+xeeoeooox
+1
+16	3
+weoeooo
+1
+16	2
+oeexxxxew
+1
+1	2
+eeoooeexx
+1
+19	0
+wooexxexe
+1
+10	3
+xeeoeoooo
+1
+16	3
+wxxexxexw
+1
+6	1
+eeoooeexo
+1
+19	0
+exooooew
+1
+15	1
+eeoooeeoe
+1
+19	0
+eeoooeeox
+1
+19	0
+eeoooeeoo
+1
+19	0
+xxeexxxew
+1
+8	2
+eeoooexee
+1
+20	0
+eeoooexex
+1
+20	0
+weeoeooeo
+1
+23	2
+eeoooexxe
+1
+20	0
+xxexxxooo
+2
+4	1	6	0
+exexxxxeo
+2
+1	2	4	1
+wxexxxeo
+1
+4	1
+eeoooexxx
+1
+20	0
+woeoooooe
+2
+12	3	16	1
+xxexxxoox
+2
+4	1	6	0
+oeoexxxex
+1
+5	4
+exexxxxex
+3
+1	2	4	1	5	4
+wxexxxex
+2
+4	1	5	3
+eeoooexxo
+1
+20	0
+eoeoeooee
+1
+23	2
+eooooxxoe
+1
+14	0
+wooxxxxew
+1
+3	2
+eeoooexox
+1
+20	0
+eoeoooxxw
+1
+16	1
+woooeoooo
+3
+16	3	17	1	18	2
+eeoooeoee
+1
+17	2
+eeoooeoex
+1
+17	2
+woexxexe
+1
+10	2
+woooeoooe
+3
+16	3	17	1	18	2
+eeoooeoeo
+1
+17	2
+eooooxxw
+1
+14	0
+xxxxxeeeo
+1
+0	0
+wexeooooe
+1
+13	3
+eeoooeoxe
+1
+17	2
+xeexoooeo
+1
+17	4
+oeeoxxxex
+1
+5	4
+weeoooooo
+2
+12	3	12	4
+eeoooeooe
+2
+17	2	18	3
+eeoooeoox
+2
+17	2	18	3
+eeooeoexw
+1
+22	1
+weeoooooe
+1
+12	3
+eoooeow
+1
+17	1
+eeoooeooo
+3
+16	4	17	2	18	3
+eeooooeee
+1
+13	1
+eeooooeex
+1
+13	1
+eeooooeeo
+1
+13	1
+xexxxeooe
+1
+4	0
+eeooooexx
+1
+13	1
+eeooooeoe
+2
+13	1	17	3
+oxeexxxxw
+1
+2	3
+eeooooeox
+2
+13	1	17	3
+ooeooeoew
+2
+18	0	22	2
+eeooooeoo
+3
+13	1	17	3	18	4
+woxxxexew
+1
+5	2
+eeooooxex
+1
+14	1
+eeooooxxe
+1
+14	1
+xexxxexex
+2
+4	0	5	2
+woooeoeew
+1
+17	1
+eeooooxxo
+1
+14	1
+xxxexeexo
+1
+5	0
+ooeoooeex
+2
+16	1	18	0
+eeooooxoe
+1
+14	1
+xoooooeow
+2
+12	1	17	3
+eeoooooex
+1
+12	2
+wxeoooeox
+1
+17	3
+ooooxxxxe
+1
+3	3
+oxoeoooxw
+1
+16	2
+eeoooooeo
+2
+12	2	17	4
+oeoooexow
+1
+16	0
+oooxooeoo
+1
+18	4
+eeoooooxe
+1
+12	2
+oxxexxeox
+1
+6	1
+eeoooooxo
+1
+12	2
+wxoxoooeo
+1
+17	4
+xxooxexxx
+1
+4	4
+eooexxxxe
+1
+1	3
+ooeooeeee
+1
+18	0
+weooeooew
+1
+18	2
+xeooooxoo
+1
+14	1
+eooooexxo
+1
+13	0
+eeooooooe
+2
+12	2	12	3
+eooexxxxx
+1
+0	4
+oexoxxexx
+1
+6	4
+eeoooooox
+2
+12	2	12	3
+oxxooeoow
+1
+18	3
+eooexxxxo
+1
+2	3
+ooeooeeeo
+1
+18	0
+xeooooxoe
+1
+14	1
+eooooexxe
+1
+13	0
+eeooooooo
+3
+12	2	12	3	12	4
+xxxxxxxxx
+5
+0	0	0	1	0	2	0	3	0	4
+eoxxexxxe
+2
+4	3	6	2
+exxxxoeox
+1
+2	0
+xoxxxxeoe
+1
+3	1
+oeoxxexxx
+2
+4	4	6	3
+wxexxx
+1
+4	1
+xexxxoexo
+1
+4	0
+exeexexxx
+1
+4	4
+eoxeoooow
+1
+14	3
+woeexxexe
+1
+10	3
+oeoooxeoe
+1
+16	0
+eoeeooooe
+1
+13	3
+xxxxxeexe
+1
+0	0
+eooooooxx
+2
+12	1	12	2
+exeexxexe
+1
+10	3
+xxooxxexx
+1
+6	4
+xeeoooooe
+1
+12	3
+oexxxeeoe
+1
+9	0
+oxeooooew
+1
+13	2
+xxooooeex
+1
+15	1
+exexxeooo
+1
+11	0
+eoeeoooox
+1
+14	3
+xxxxxeexx
+1
+0	0
+eooooexeo
+1
+13	0
+eooooeoxw
+2
+13	0	17	2
+eooooooxe
+2
+12	1	12	2
+exeexxexx
+1
+6	4
+exeeoeooe
+1
+23	3
+xxxoxxxxe
+1
+3	3
+xeoooooxx
+1
+12	2
+xxexxxeoe
+2
+4	1	6	0
+exeooeooe
+1
+18	3
+oeoxooeoo
+1
+18	4
+exeeooeoo
+1
+18	4
+exxexxxoe
+2
+4	2	6	1
+eoeooeoxe
+1
+23	0
+ooeoooxee
+2
+16	1	18	0
+exexxeexx
+1
+11	0
+woeoooow
+2
+14	2	16	1
+woxxxxexw
+2
+3	1	5	3
+exexxexxo
+2
+6	3	11	0
+exeeoooee
+1
+19	2
+wexexexxx
+1
+4	4
+exeeoooex
+1
+20	2
+wexexexxe
+1
+11	3
+exexxexxe
+2
+6	3	11	0
+oeoxoooeo
+1
+17	4
+oeoexexxe
+1
+11	3
+exeeoooeo
+1
+17	4
+exeeooooe
+1
+13	3
+exeeoooox
+1
+14	3
+exeeooooo
+1
+12	4
+exexexxee
+1
+11	2
+xxoxxxxxx
+2
+0	3	0	4
+xxxexexow
+1
+5	0
+exexexxex
+1
+11	2
+xxoxxxxxe
+1
+0	3
+exexexxeo
+1
+11	2
+exexexxxe
+1
+4	3
+oeoooeooe
+3
+16	0	17	2	18	3
+exxxxoeeo
+1
+2	0
+exexexxxx
+1
+4	3
+exxxxoeex
+1
+2	0
+xxooeooxw
+1
+18	2
+exexexxxo
+1
+4	3
+exexxeeee
+1
+11	0
+exexxeeex
+1
+11	0
+exoooooxo
+1
+12	2
+xxooooexw
+1
+15	1
+eoooooxow
+1
+12	1
+exexxeeeo
+1
+11	0
+oooexxexe
+1
+10	3
+weooooxee
+1
+14	1
+exoooooxx
+1
+12	2
+exexxeeoe
+1
+11	0
+xxxexooex
+1
+5	0
+xxeoooeow
+1
+17	3
+eooeooxxo
+1
+18	1
+exxexeoxo
+1
+10	0
+exexxexee
+2
+10	2	11	0
+woeooooxw
+2
+14	2	16	1
+exexxexex
+2
+10	2	11	0
+eooeooxxe
+1
+18	1
+wxxoeooow
+1
+16	3
+xxxxxeeox
+1
+0	0
+weooooeee
+1
+13	1
+exxexeoxe
+1
+10	0
+exexxexeo
+2
+10	2	11	0
+eexxxxeew
+1
+1	1
+exexxexxx
+3
+4	4	6	3	11	0
+exexxexoo
+1
+11	0
+xoexoeooo
+1
+16	4
+xxexxxeox
+2
+4	1	6	0
+xoexxxeew
+1
+9	1
+xxxoxxxxx
+1
+0	4
+xeoooooxe
+1
+12	2
+weooeoox
+1
+18	2
+xxooxxxex
+1
+5	4
+exexxeoxe
+1
+11	0
+exexxeoxx
+1
+11	0
+exexxeoxo
+1
+11	0
+wxxxexoew
+1
+5	1
+exexxxeoe
+1
+4	1
+eoeooeoee
+2
+22	2	23	0
+ooeoooxxe
+2
+16	1	18	0
+xxxxooeoo
+1
+18	4
+exexxxeox
+1
+4	1
+eoeooeoex
+2
+22	2	23	0
+ooeoooxxx
+2
+16	1	18	0
+woeoooxxw
+1
+16	1
+wexxxxoew
+1
+2	1
+exexxxeoo
+1
+4	1
+eoeooeoeo
+2
+22	2	23	0
+ooeoooxxo
+2
+16	1	18	0
+woeooooox
+2
+12	3	16	1
+xxexxxooe
+2
+4	1	6	0
+oeoexxxee
+1
+9	2
+exexxxxee
+2
+1	2	4	1
+xxexxxoee
+2
+4	1	6	0
+wxxexxow
+1
+6	1
+exexxxxoe
+2
+2	2	4	1
+xoxxexxxe
+2
+4	3	6	2
+xexexxxw
+1
+4	2
+eoeeoeooe
+1
+23	3
+xxexxxoex
+2
+4	1	6	0
+exexxxxox
+2
+2	2	4	1
+xxexxxoeo
+2
+4	1	6	0
+exexxxxoo
+2
+2	2	4	1
+eoeooeexe
+1
+23	0
+exexxxoex
+1
+4	1
+wxeoooooo
+2
+12	3	12	4
+oeooeoeex
+1
+22	1
+exexxxoxo
+1
+4	1
+eooeooxee
+1
+18	1
+woeoooeox
+2
+16	1	17	3
+exxexeoee
+1
+10	0
+exooooexw
+1
+15	1
+xxxooeoox
+1
+18	3
+exexxxooe
+1
+4	1
+oexoxexxx
+1
+4	4
+xxxooeooe
+1
+18	3
+exexxxoox
+1
+4	1
+exexxxooo
+1
+4	1
+exexooeoo
+1
+18	4
+exooooexe
+1
+15	1
+exexoooeo
+1
+17	4
+xxxexxexo
+2
+5	0	6	1
+woxexxxxx
+2
+0	4	4	2
+exexooooe
+1
+15	3
+oxxxxxxoo
+2
+0	1	0	2
+xeeoooexx
+1
+20	1
+exeoeooee
+1
+23	2
+xeeoooexe
+1
+20	1
+exeoeooex
+1
+23	2
+exeoeooeo
+1
+23	2
+exeoeooox
+1
+16	3
+oeoooxxxo
+1
+16	0
+xxoexexxe
+1
+11	3
+exeoxxxex
+1
+5	4
+xoxxxxxxo
+2
+0	2	0	3
+eoxxxxxxx
+3
+0	2	0	3	0	4
+exxexeexx
+1
+10	0
+exeoxxxxe
+1
+3	3
+eooxxxexo
+1
+5	3
+eoxxxxeew
+1
+3	1
+exxexeexe
+1
+10	0
+xxxxxooxw
+1
+0	0
+exxxxexxw
+3
+1	0	5	2	6	3
+eooeoooew
+2
+16	2	18	1
+exeoxxxxx
+1
+0	4
+xoxxxxxeo
+1
+0	2
+xxxexow
+1
+5	0
+eoxxxxxxe
+2
+0	2	0	3
+eoeooooox
+2
+12	3	16	1
+exxexeeew
+1
+10	0
+exeoooeee
+1
+21	1
+oxxxxxoeo
+1
+0	1
+eoxxxxxew
+1
+0	2
+eoeoooooe
+2
+12	3	16	1
+wxxexxxo
+2
+4	2	6	1
+exeoooeex
+1
+21	1
+wxxexxxx
+2
+4	2	6	1
+exeoooeeo
+1
+21	1
+oxxxxxoee
+1
+0	1
+exeoooeoe
+1
+17	3
+exxexxoex
+1
+6	1
+xxoexxxee
+1
+9	2
+xxxexooxo
+1
+5	0
+eoooeooow
+3
+16	3	17	1	18	2
+xxxexeeee
+1
+5	0
+eexxxexow
+1
+5	2
+xexexxxxw
+2
+2	3	4	2
+exxexxooo
+1
+6	1
+exeooooex
+1
+13	2
+weoeooeeo
+1
+23	1
+wxxexxoew
+1
+6	1
+xxoxxxexe
+1
+5	3
+xxxooooox
+1
+12	3
+exeooooxe
+1
+14	2
+xxxoooooe
+1
+12	3
+exeooooxx
+1
+14	2
+xexeoooow
+1
+14	3
+ooeexexxx
+1
+4	4
+wxoexxexe
+1
+10	3
+exeooooxo
+1
+14	2
+eoxxxxxee
+1
+0	2
+exeoooeew
+1
+21	1
+wooeooexo
+1
+18	1
+oxxexxeex
+1
+6	1
+weoxooeoo
+1
+18	4
+exxexeeee
+1
+10	0
+woxxxxxo
+1
+0	2
+xooeoooxo
+2
+16	2	18	1
+oxxexxeee
+1
+6	1
+eoxxxxxex
+2
+0	2	5	4
+exxexeeex
+1
+10	0
+eoeooooow
+2
+12	3	16	1
+woxxxxxx
+2
+0	2	0	3
+wooeooexe
+1
+18	1
+xooeoooxx
+2
+16	2	18	1
+oxxxxxoew
+1
+0	1
+eoxxxxxeo
+1
+0	2
+exxexeeeo
+1
+10	0
+eooxxxexe
+1
+5	3
+exxexeexo
+1
+10	0
+xoxxxxxee
+1
+0	2
+eoxxxxxxo
+2
+0	2	0	3
+eooxoooeo
+1
+17	4
+eooeooxxx
+1
+18	1
+xeooooeew
+1
+13	1
+xexxxeexw
+1
+4	0
+xxxxxeeoe
+1
+0	0
+weooooeex
+1
+13	1
+exxexeoxx
+1
+10	0
+eooeooxoe
+1
+18	1
+xxexxeeox
+1
+6	0
+xeoooeoxx
+1
+17	2
+exxexeooe
+1
+10	0
+oexxxxeow
+1
+1	1
+eooeooxox
+1
+18	1
+xxexxeeoe
+1
+6	0
+xeoooeoxe
+1
+17	2
+exxexeoox
+1
+10	0
+eooeooxoo
+1
+18	1
+exxexeooo
+1
+10	0
+weexxxeo
+1
+8	1
+xexxxoeoo
+1
+4	0
+exxexxeee
+1
+6	1
+oeeooeooo
+2
+16	4	18	3
+ooxexxxoe
+1
+4	2
+xxxexoew
+1
+5	0
+exxexxeex
+1
+6	1
+ooxexxxox
+1
+4	2
+weexxxee
+1
+7	1
+xexxxoeoe
+1
+4	0
+exxexxeeo
+1
+6	1
+oeeooeooe
+1
+18	3
+ooxexxxoo
+1
+4	2
+oeeexxxxo
+1
+2	3
+xeooeoeox
+1
+22	1
+wooxxxxeo
+1
+3	2
+eoeoooxxo
+1
+16	1
+exxexxeoo
+1
+6	1
+ooxexxxeo
+1
+4	2
+weoxxxexo
+1
+5	3
+xoxexexxe
+1
+11	3
+oxxeoooox
+1
+14	3
+exxexxoxe
+1
+6	1
+xeooooexo
+1
+13	1
+xexxxeeeo
+1
+4	0
+exxeoeooe
+1
+23	3
+weoooow
+1
+14	1
+xeooooexe
+1
+13	1
+xexxxeeee
+1
+4	0
+exxeoeooo
+1
+16	4
+oexexxxxx
+2
+0	4	4	2
+wexxxexxx
+3
+4	4	5	2	6	3
+exxxexoxx
+1
+5	1
+xexxxoxxw
+1
+4	0
+eoxxexxeo
+1
+6	2
+exxeooeoe
+1
+22	3
+exooeooxe
+1
+18	2
+xooexxexe
+1
+10	3
+eoexxxxoe
+1
+2	2
+xxxxxxw
+2
+0	0	0	1
+xxxxexxow
+2
+5	1	6	2
+eoxxexxee
+1
+6	2
+oxeoooeex
+1
+21	1
+wxxxxxew
+1
+0	1
+wooeooox
+2
+16	2	18	1
+exxeooeoo
+1
+18	4
+exooeooxo
+1
+18	2
+xxexxooxx
+1
+6	0
+eoexxxxoo
+1
+2	2
+oooeoxexo
+1
+17	0
+xxexxoxex
+1
+6	0
+exxeooooe
+1
+13	3
+xxexxoxee
+1
+6	0
+eoxeoooeo
+1
+17	4
+exxeoooox
+1
+14	3
+exxeooooo
+1
+12	4
+exxxexexe
+1
+5	1
+exxxexexx
+1
+5	1
+exxxexexo
+1
+5	1
+xoxeooeoo
+1
+18	4
+exxxexeoo
+1
+5	1
+xxxxexeew
+1
+5	1
+exxxexxeo
+2
+5	1	6	2
+exxxexxoe
+2
+5	1	6	2
+exxxexxox
+2
+5	1	6	2
+exxxexxoo
+2
+5	1	6	2
+xeooooexx
+1
+13	1
+xexxxeeex
+1
+4	0
+oxooxexxx
+1
+4	4
+oexexxxxe
+2
+1	3	4	2
+wexxxexxe
+2
+5	2	6	3
+exxxexoxe
+1
+5	1
+oexexxxxo
+2
+2	3	4	2
+wexxxexxo
+2
+5	2	6	3
+exxxexoxo
+1
+5	1
+xxeeoooee
+1
+19	2
+exxxxeeee
+1
+1	0
+eooooeoeo
+2
+13	0	17	2
+xxeeoooex
+1
+20	2
+exxxxeeex
+1
+1	0
+exxxxxoow
+1
+0	1
+xxeeoooeo
+1
+17	4
+exxxxeeeo
+1
+1	0
+eooooeoee
+2
+13	0	17	2
+xxoooooxx
+1
+12	2
+exxxxeeoe
+1
+1	0
+xxeeooooe
+1
+13	3
+oooeoxxxo
+1
+17	0
+xxoooooxe
+1
+12	2
+exxxxeeox
+1
+1	0
+oeexxxeow
+1
+8	1
+xxeeoooox
+1
+14	3
+xxeeooooo
+1
+12	4
+oooeoxxxx
+1
+17	0
+exxxxeeoo
+1
+1	0
+oooooeeeo
+1
+12	0
+woxeoooox
+1
+14	3
+xxxxxoxoe
+1
+0	0
+xxexexxxe
+1
+4	3
+exxxxeooe
+1
+1	0
+xxeeooeoe
+1
+22	3
+woxeooooe
+1
+13	3
+xxxxxoxox
+1
+0	0
+xxexexxxx
+1
+4	3
+xexxexxoo
+1
+6	2
+exxxxeoox
+1
+1	0
+oooooeeee
+1
+12	0
+xxxxxoxoo
+1
+0	0
+xxexexxxo
+1
+4	3
+xexxexxox
+1
+6	2
+exxxxeooo
+1
+1	0
+xxeeooeoo
+1
+18	4
+eooeoexex
+1
+22	0
+eoeooeeow
+1
+23	0
+exxxxxeex
+1
+0	1
+ooooooeeo
+2
+12	0	12	1
+wxxxxxo
+1
+0	1
+exxxxxexx
+3
+0	1	5	3	6	4
+oxexexxxo
+1
+4	3
+ooeooeoxe
+1
+18	0
+weeeoooex
+1
+20	2
+eooeoexxx
+1
+22	0
+eooeoexoo
+1
+22	0
+exxxxxeoo
+1
+0	1
+eooeoeeee
+1
+22	0
+exxxxxxee
+2
+0	1	0	2
+wexoeooow
+1
+16	3
+eooeoeexe
+1
+22	0
+xoooooeeo
+1
+12	1
+eooooxeew
+1
+14	0
+exxxxxxxe
+3
+0	1	0	2	0	3
+eooeoeexx
+1
+22	0
+wexxxxoow
+1
+2	1
+exxxxxxxx
+4
+0	1	0	2	0	3	0	4
+exxxxxxxo
+3
+0	1	0	2	0	3
+eeexxxeew
+1
+7	1
+eooeoeexo
+1
+22	0
+xoooooeee
+1
+12	1
+wxxoooooo
+2
+12	3	12	4
+eooeoeeoe
+1
+22	0
+weoooeo
+1
+17	2
+exxxxxxoe
+2
+0	1	0	2
+eooeoeeox
+1
+22	0
+oxxexxow
+1
+6	1
+exxxxxxox
+2
+0	1	0	2
+oeoooxow
+1
+16	0
+wxxoooooe
+1
+12	3
+eooeoeeoo
+1
+22	0
+weoooee
+1
+21	0
+exxxxxxoo
+2
+0	1	0	2
+exxxxxooe
+1
+0	1
+ooexexxeo
+1
+11	2
+exxoxexxx
+1
+4	4
+exxxxxoox
+1
+0	1
+exxxxeeew
+1
+1	0
+exxxxxooo
+1
+0	1
+ooexexxee
+1
+11	2
+oeoooeooo
+4
+16	0	16	4	17	2	18	3
+xxeoooeew
+1
+21	1
+exxxxoeee
+1
+2	0
+eoeooexeo
+1
+23	0
+oxxxxxeee
+1
+0	1
+xxxxxxxoe
+3
+0	0	0	1	0	2
+exxxxoexe
+1
+2	0
+oxxxxxeex
+1
+0	1
+xxxxxxxox
+3
+0	0	0	1	0	2
+oxxxexxxw
+3
+4	3	5	1	6	2
+exxxxoexx
+1
+2	0
+xoexxxxow
+1
+2	2
+eoeooexee
+1
+23	0
+oxxxxxeeo
+1
+0	1
+xxxxxxxoo
+3
+0	0	0	1	0	2
+exxxxoexo
+1
+2	0
+xxxxxxxxo
+4
+0	0	0	1	0	2	0	3
+exxxxoeoo
+1
+2	0
+ooeeoeooe
+1
+23	3
+wxoeooeoo
+1
+18	4
+exxxxoxee
+1
+2	0
+woooooeeo
+1
+12	1
+exxxxoxex
+1
+2	0
+woooooeex
+1
+12	1
+wxoeooeoe
+1
+22	3
+exxxxoxeo
+1
+2	0
+exxxxoxxx
+1
+2	0
+ooeoooexe
+2
+16	1	18	0
+exxxxoxoe
+1
+2	0
+xeeooooxo
+1
+14	2
+oexxxeexo
+1
+9	0
+oeoooxoex
+1
+16	0
+weeeoooow
+1
+14	3
+exxxxoxox
+1
+2	0
+eooexxxee
+1
+9	2
+xxxxxxexo
+3
+0	0	0	1	5	3
+oxxxexxew
+2
+5	1	6	2
+xeeooooxx
+1
+14	2
+oexxxeexx
+1
+9	0
+oeoooxoeo
+1
+16	0
+oxoeoeooo
+1
+16	4
+ooeooeexe
+1
+18	0
+exxxxoxoo
+1
+2	0
+exooooeox
+2
+15	1	17	3
+xeooeoexe
+1
+22	1
+xeoxexxxx
+1
+4	3
+oxxexxxox
+2
+4	2	6	1
+oxxxexeow
+1
+5	1
+eoooxexxx
+1
+4	4
+exxxxooee
+1
+2	0
+eoooeoeoo
+1
+17	1
+exooooeoe
+2
+15	1	17	3
+xeooeoexx
+1
+22	1
+wxoxxxxeo
+1
+3	2
+xeooooeoo
+3
+13	1	17	3	18	4
+xeoxexxxe
+1
+4	3
+oxxexxxoe
+2
+4	2	6	1
+exxxxooex
+1
+2	0
+eoooeoeoe
+1
+17	1
+wxoxxxxex
+2
+3	2	5	4
+xeooooeox
+2
+13	1	17	3
+exxxxooeo
+1
+2	0
+oxoxxxexw
+1
+5	3
+xeeooooeo
+2
+13	2	17	4
+oexxxeeeo
+1
+9	0
+exxxxooxe
+1
+2	0
+exxxxoooe
+1
+2	0
+xxooooew
+1
+15	1
+exxxxooox
+1
+2	0
+eoooooxw
+1
+12	1
+exxxxoooo
+1
+2	0
+exxxoeooo
+1
+16	4
+wooooeee
+1
+15	0
+oxexxxexw
+2
+4	1	5	3
+xoxoxxxxx
+1
+0	4
+oxoxexxxe
+1
+4	3
+ooxxexxex
+1
+6	2
+xxooeooox
+2
+16	3	18	2
+exxxooeoo
+1
+18	4
+xxxxxeoew
+1
+0	0
+oooeoeeex
+1
+17	0
+exxxoooeo
+1
+17	4
+exxxooooe
+1
+15	3
+exxxooooo
+1
+12	4
+xxoxxxxeo
+1
+3	2
+oxexxxeoe
+1
+4	1
+exxoeoooe
+1
+16	3
+exxoxxexx
+1
+6	4
+eoexexxxo
+1
+4	3
+exxooeooe
+1
+18	3
+eoeexxxeo
+1
+8	2
+ooxoxxxxe
+1
+3	3
+exxooeoox
+1
+18	3
+eoeexxxex
+1
+5	4
+eexxexexw
+1
+10	1
+eoexexxxe
+1
+4	3
+exxooeooo
+2
+16	4	18	3
+exxoooeoe
+1
+17	3
+exxxxxxw
+2
+0	1	0	2
+exxoooeox
+1
+17	3
+exxoooeoo
+2
+17	3	18	4
+exxooooee
+1
+15	2
+xeeoeooow
+1
+16	3
+exxooooex
+1
+15	2
+wxeeoeooe
+1
+23	3
+wxxexxexx
+2
+6	1	6	4
+eoooxxxex
+1
+5	4
+oeexxxxeo
+1
+1	2
+exxooooeo
+2
+15	2	17	4
+eoeooexxe
+1
+23	0
+exxoooooe
+1
+12	3
+oxxeooeoo
+1
+18	4
+eoeooexxx
+1
+23	0
+exxooooox
+1
+12	3
+eoeooexxo
+1
+23	0
+exxoooooo
+2
+12	3	12	4
+oxxeooeoe
+1
+22	3
+exoexexxe
+1
+11	3
+eoeoooeeo
+1
+16	1
+exoexexxx
+1
+4	4
+xxeeoeooe
+1
+23	3
+exoexxexe
+1
+10	3
+exoexxexx
+1
+6	4
+ooxxexxeo
+1
+6	2
+xxooeoooo
+2
+16	3	18	2
+exoexxxee
+1
+9	2
+wooooeeo
+1
+15	0
+oxoxexxxo
+1
+4	3
+exoexxxex
+1
+5	4
+exoexxxxe
+1
+1	3
+oxxxxeoex
+1
+3	0
+eoxeooooo
+1
+12	4
+exoxxxxxo
+1
+0	3
+exoexxxxx
+1
+0	4
+exoxxxxxx
+2
+0	3	0	4
+ooeoxxxxx
+1
+0	4
+xoxxxxeow
+1
+3	1
+exoexxxxo
+1
+2	3
+eoxeooooe
+1
+13	3
+eoxexxxex
+2
+4	2	5	4
+wexexxxxo
+2
+2	3	4	2
+xxxexoxee
+1
+5	0
+xoooxxxex
+1
+5	4
+eooxxxxxw
+1
+0	3
+exoeooeoo
+1
+18	4
+weoexxxxx
+1
+0	4
+exoeoooee
+1
+16	2
+exoeoooex
+1
+16	2
+wxexxxexx
+3
+4	1	5	3	6	4
+ooxxooooe
+1
+15	3
+woooooxo
+1
+12	1
+eoxxxexeo
+1
+5	2
+exoeoooeo
+2
+16	2	17	4
+woooooxx
+1
+12	1
+eoxxxexex
+1
+5	2
+exoeoooxe
+1
+16	2
+exoeoooxx
+1
+16	2
+exoeoooxo
+1
+16	2
+xexxxeooo
+1
+4	0
+exoeoooox
+2
+14	3	16	2
+oexeooeoo
+1
+18	4
+exxxxxw
+1
+0	1
+exoxexxxe
+1
+4	3
+wooooooex
+2
+12	1	12	2
+exoxxxxeo
+1
+3	2
+exoxexxxx
+1
+4	3
+xoeooooew
+2
+13	2	16	1
+oexeooeoe
+1
+22	3
+exoxexxxo
+1
+4	3
+oeexoeooo
+1
+16	4
+exoxxxxee
+1
+3	2
+exoxxexxe
+1
+6	3
+oeooooeox
+3
+13	1	16	0	17	3
+exoxxxexe
+1
+5	3
+exoxxxexx
+2
+5	3	6	4
+ooeoxxexx
+1
+6	4
+exoxxxexo
+1
+5	3
+wooooooeo
+3
+12	1	12	2	17	4
+exoxxxxex
+2
+3	2	5	4
+ooeoxxxex
+1
+5	4
+oxexxxxw
+2
+2	2	4	1
+exoxxxxxe
+1
+0	3
+ooeoxxxxe
+1
+3	3
+oxxxxeoeo
+1
+3	0
+eoxeoooox
+1
+14	3
+eeooeoeow
+1
+22	1
+exoxoeooo
+1
+16	4
+ooeooeooo
+3
+16	4	18	0	18	3
+wxxxexxxe
+3
+4	3	5	1	6	2
+oxxxxxoxo
+1
+0	1
+xxexxxxee
+3
+1	2	4	1	6	0
+exoxooeoo
+1
+18	4
+ooexxxxoe
+1
+2	2
+ooeoooeoo
+4
+16	1	17	3	18	0	18	4
+exoxoooeo
+1
+17	4
+ooeooooeo
+4
+13	2	16	1	17	4	18	0
+wxxxxexxw
+3
+3	0	5	2	6	3
+xxeooooow
+1
+12	3
+exoxooooe
+1
+15	3
+ooeoooooe
+3
+12	3	16	1	18	0
+exoxooooo
+1
+12	4
+ooeoooooo
+4
+12	3	12	4	16	1	18	0
+exooeooee
+1
+18	2
+xeoooeexw
+1
+21	0
+exooeooex
+1
+18	2
+exooeooeo
+1
+18	2
+oxeoooeeo
+1
+21	1
+wooeoooo
+2
+16	2	18	1
+exooeooxx
+1
+18	2
+ooeooxxox
+1
+18	0
+xeexxxew
+1
+8	1
+eoxoxxexx
+1
+6	4
+xooexxexx
+1
+6	4
+xxxxxxoxw
+2
+0	0	0	1
+xxexxooxo
+1
+6	0
+eoexxxxox
+1
+2	2
+xeeeooooe
+1
+13	3
+eoexxxxxe
+1
+0	3
+exooeoooe
+2
+16	3	18	2
+xeeeoooox
+1
+14	3
+eoexxxxxx
+2
+0	3	0	4
+ooeooxxxx
+1
+18	0
+xxeoxxexx
+1
+6	4
+exooeooox
+2
+16	3	18	2
+xoxooeooo
+2
+16	4	18	3
+xoxexxexe
+1
+10	3
+xeeeooooo
+1
+12	4
+oxeooeoow
+1
+18	3
+eoexxxxxo
+1
+0	3
+exooeoooo
+2
+16	3	18	2
+xoxooeoox
+1
+18	3
+xexxxxooo
+2
+2	1	4	0
+exooxxexx
+1
+6	4
+ooexxxexx
+2
+5	3	6	4
+exooxxxxe
+1
+3	3
+ooexxxxxe
+1
+0	3
+oooooxeeo
+1
+12	0
+oeooooxee
+2
+14	1	16	0
+oooeoxexw
+1
+17	0
+exooxxxxx
+1
+0	4
+ooexxxxxx
+2
+0	3	0	4
+oeooooxex
+2
+14	1	16	0
+exoooeoee
+1
+17	2
+xoxooooex
+1
+15	2
+wexxxxxow
+1
+0	2
+oxoeoooew
+1
+16	2
+xexxooeoo
+1
+18	4
+exoooeoex
+1
+17	2
+xoxooooee
+1
+15	2
+wexooooew
+1
+15	2
+exoooeoeo
+1
+17	2
+xxexxeoxe
+1
+6	0
+exooooooo
+3
+12	2	12	3	12	4
+ooexooooo
+1
+12	4
+exoooeoxx
+1
+17	2
+exooooeeo
+1
+15	1
+exooooexx
+1
+15	1
+exooooexo
+1
+15	1
+exooooeoo
+3
+15	1	17	3	18	4
+ooexooeoo
+1
+18	4
+exoooooee
+1
+12	2
+exoooooex
+1
+12	2
+xxeoeoooo
+1
+16	3
+exoooooeo
+2
+12	2	17	4
+ooexoooeo
+1
+17	4
+xxeoeooox
+1
+16	3
+oooexxexx
+1
+6	4
+weooooxex
+1
+14	1
+exoooooxe
+1
+12	2
+oeoooexxw
+1
+16	0
+eoeexexxx
+1
+4	4
+wxoexxxee
+1
+9	2
+xxexxxoxo
+2
+4	1	6	0
+eooooxoox
+1
+14	0
+oooooooee
+3
+12	0	12	1	12	2
+eoeexxexx
+1
+6	4
+eoeexxxee
+1
+7	2
+eoexexxxx
+1
+4	3
+oeoooexw
+1
+16	0
+oooeoeeew
+1
+17	0
+xxxxxeoex
+1
+0	0
+xoxxxexw
+1
+5	2
+eoeexxxxe
+1
+1	3
+xxxxxeoee
+1
+0	0
+eoeexxxxx
+1
+0	4
+eoeexxxxo
+1
+2	3
+xoxxexxxo
+2
+4	3	6	2
+oeoooeexx
+1
+16	0
+eoeeoeooo
+1
+16	4
+eoeeooeoe
+1
+22	3
+woeooooxx
+2
+14	2	16	1
+exexxexew
+2
+10	2	11	0
+eoeeooeoo
+1
+18	4
+eoxooooex
+1
+15	2
+oxoxxxxxo
+1
+0	3
+wxxexxeeo
+1
+6	1
+eoeeoooee
+1
+19	2
+xoeooow
+1
+16	1
+eoeeoooex
+1
+20	2
+wxxexxeee
+1
+6	1
+eoooxxxxe
+1
+3	3
+eoeeoooeo
+1
+17	4
+eoexexxee
+1
+11	2
+weeexxexe
+1
+10	3
+woxxxexow
+1
+5	2
+eoexexxex
+1
+11	2
+weeexxexx
+1
+6	4
+eoexexxeo
+1
+11	2
+eoexxxeee
+1
+9	1
+oexxxexox
+1
+5	2
+weexxxeoo
+1
+8	1
+wxxxxeeex
+1
+3	0
+xoxxxexoe
+1
+5	2
+eoexxxeex
+1
+9	1
+oexxxexoe
+1
+5	2
+wxxxxeeee
+1
+3	0
+xoxxxexox
+1
+5	2
+eoexxxeeo
+1
+9	1
+weexxxeoe
+1
+8	1
+xoxxxexoo
+1
+5	2
+eoexooeoo
+1
+18	4
+wxoxxxxxx
+2
+0	3	0	4
+xexxxeeox
+1
+4	0
+eoexoooeo
+1
+17	4
+eoexooooe
+1
+15	3
+eoexooooo
+1
+12	4
+eoeoeooeo
+1
+23	2
+eoeoeoooe
+1
+16	3
+woooooex
+1
+12	1
+eoxxxexxx
+3
+4	4	5	2	6	3
+eoeoeooox
+1
+16	3
+woooooee
+1
+12	1
+eoxxxexxe
+2
+5	2	6	3
+eoeoeoooo
+1
+16	3
+wexxxexx
+2
+5	2	6	3
+eoeoxexxx
+1
+4	4
+oxooooew
+1
+15	1
+eoeoxxxex
+1
+5	4
+wxexxxoew
+1
+4	1
+xeeoooeox
+1
+17	3
+ooooeooee
+2
+17	1	18	2
+exxxxxoxw
+1
+0	1
+eoeoxxxxe
+1
+3	3
+xeeoooeoe
+1
+17	3
+ooooeooex
+2
+17	1	18	2
+xooooexxo
+1
+15	0
+eoeoxxxxx
+1
+0	4
+eoooeoeeo
+1
+17	1
+woexexxxe
+1
+4	3
+xxxexxoxo
+2
+5	0	6	1
+eoeooeeee
+1
+23	0
+eoeooeeex
+1
+23	0
+eoooeoeee
+1
+17	1
+eeeooeoew
+1
+22	2
+weeexexxx
+1
+4	4
+wooeooeew
+1
+18	1
+woexexxxo
+1
+4	3
+xxxexxoxe
+2
+5	0	6	1
+oxxxxeexx
+1
+3	0
+oxooooeex
+1
+15	1
+eoeooeeeo
+1
+23	0
+eooooxoxo
+1
+14	0
+weexxxxeo
+1
+1	2
+oexxxxxw
+1
+0	2
+eoeooeeoe
+1
+23	0
+wxeeoooox
+1
+14	3
+eoeooeeox
+1
+23	0
+eooeoexew
+1
+22	0
+wxeeooooe
+1
+13	3
+exxxxxeew
+1
+0	1
+eooooxoxe
+1
+14	0
+xoxoxexxx
+1
+4	4
+weexxxxee
+1
+1	2
+eoeooeeoo
+1
+23	0
+eoeooexex
+1
+23	0
+ooxeoooeo
+1
+17	4
+eoeooexoe
+1
+23	0
+eoeooexox
+1
+23	0
+oooxxexxo
+1
+6	3
+eoeooexoo
+1
+23	0
+oooxxexxx
+2
+4	4	6	3
+ooxeoooee
+1
+21	2
+eoeoooeee
+1
+16	1
+eoeoooeex
+1
+16	1
+woooeoeoo
+1
+17	1
+eoeoooexx
+1
+16	1
+eoeoooeoe
+2
+16	1	17	3
+eoeoooeox
+2
+16	1	17	3
+wexeoooeo
+1
+17	4
+weoxooooe
+1
+15	3
+eoeoooeoo
+3
+16	1	17	3	18	4
+exexxxeew
+1
+4	1
+eoeooeoow
+2
+18	3	23	0
+eeoexxxxw
+1
+2	3
+wooxxxxxe
+1
+0	3
+xoeooeooo
+2
+16	4	18	3
+eoeoooxee
+1
+16	1
+wooxxxxxx
+2
+0	3	0	4
+eoeoooxex
+1
+16	1
+xxxxxxooo
+2
+0	0	0	1
+wooxxxxxo
+1
+0	3
+xoeooeooe
+1
+18	3
+eoeoooxeo
+1
+16	1
+xxxxxxoox
+2
+0	0	0	1
+xxxxxeoxo
+1
+0	0
+eoeooooee
+2
+13	2	16	1
+eoeooooex
+2
+13	2	16	1
+xxxxxeoxe
+1
+0	0
+eoeooooeo
+3
+13	2	16	1	17	4
+eoeooooxe
+2
+14	2	16	1
+xxxexxxxo
+4
+2	3	4	2	5	0	6	1
+eoeooooxx
+2
+14	2	16	1
+eoeooooxo
+2
+14	2	16	1
+xxxexxxxe
+4
+1	3	4	2	5	0	6	1
+eoeoooooo
+3
+12	3	12	4	16	1
+eoxexexxe
+1
+11	3
+weooxxxex
+1
+5	4
+eoxeooeoe
+1
+22	3
+eoxeooeoo
+1
+18	4
+ooexxxxxw
+1
+0	3
+oooeoxexx
+1
+17	0
+oeooooxew
+2
+14	1	16	0
+xxexxoxeo
+1
+6	0
+eoxeoooee
+1
+21	2
+eoxxexxex
+1
+6	2
+oxeoooeee
+1
+21	1
+eoxxexxxo
+2
+4	3	6	2
+eoxxexxoe
+1
+6	2
+weoexxexx
+1
+6	4
+wexxxxxew
+1
+0	2
+oxoeoooow
+2
+14	3	16	2
+xoeeoeooe
+1
+23	3
+eoxxexxox
+1
+6	2
+weoexxexe
+1
+10	3
+ooxxooooo
+1
+12	4
+woooooxe
+1
+12	1
+eoxxxexee
+1
+5	2
+woooooeo
+2
+12	1	17	3
+eoxxxexxo
+2
+5	2	6	3
+weooooeoe
+2
+13	1	17	3
+eoxxooeoo
+1
+18	4
+eooxexxxo
+1
+4	3
+exxexxxxw
+3
+2	3	4	2	6	1
+xexxexxxw
+2
+4	3	6	2
+eoxxoooeo
+1
+17	4
+ooeoeoooe
+1
+16	3
+eoxxooooe
+1
+15	3
+eoxxooooo
+1
+12	4
+eoxoeooox
+1
+16	3
+eoxoooeoe
+1
+17	3
+ooeooooxe
+3
+14	2	16	1	18	0
+eoxoooeox
+1
+17	3
+ooeooooxx
+3
+14	2	16	1	18	0
+weexoeooo
+1
+16	4
+xxeexexxe
+1
+11	3
+eoxoooeoo
+2
+17	3	18	4
+ooeooooxo
+3
+14	2	16	1	18	0
+eoxooooee
+1
+15	2
+wxxxxeow
+1
+3	0
+eoxooooeo
+2
+15	2	17	4
+oxoxxxxxx
+2
+0	3	0	4
+eoxoooooe
+1
+12	3
+exeoooow
+1
+14	2
+xxoeooeoo
+1
+18	4
+eeoooeeew
+1
+19	0
+eoxooooox
+1
+12	3
+eoxoooooo
+2
+12	3	12	4
+weeoooow
+1
+14	2
+oeooooexw
+2
+13	1	16	0
+eooexexxe
+1
+11	3
+eooexexxx
+1
+4	4
+eooexxexe
+1
+10	3
+oexoxxxxe
+1
+3	3
+oeexxxeoe
+1
+8	1
+woooooeoo
+3
+12	1	17	3	18	4
+eooexxexx
+1
+6	4
+oexoxxxxx
+1
+0	4
+xxeeoooow
+1
+14	3
+oeexxxeox
+1
+8	1
+eooexxxex
+1
+5	4
+weeoooeow
+1
+17	3
+eooooxxxx
+1
+14	0
+xoooooew
+1
+12	1
+eooeoeoee
+1
+22	0
+eooooxxxe
+1
+14	0
+eooeoeoex
+1
+22	0
+eexexxeew
+1
+11	1
+eooeoeoeo
+1
+22	0
+eooeoeooe
+2
+22	0	23	3
+eoeooeexw
+1
+23	0
+eooeoeoox
+1
+22	0
+eooeoeooo
+2
+16	4	22	0
+eooeooeee
+1
+18	1
+oooeoeoeo
+1
+17	0
+eooeooeex
+1
+18	1
+xoeoeoooo
+1
+16	3
+eooeooeeo
+1
+18	1
+oooeoeoee
+1
+17	0
+xoeoeooox
+1
+16	3
+eooeooexx
+1
+18	1
+xxoooeoow
+2
+17	2	18	3
+xeexxexee
+1
+10	2
+oexxexxoo
+1
+6	2
+eooeooeoe
+2
+18	1	22	3
+xeexxexex
+1
+10	2
+eooeooeox
+1
+18	1
+xeexxexeo
+1
+10	2
+oexxexxoe
+1
+6	2
+eooeooeoo
+2
+18	1	18	4
+eooxexxxe
+1
+4	3
+ooeoooxow
+2
+16	1	18	0
+eooxexxxx
+1
+4	3
+exexxxexw
+2
+4	1	5	3
+eooxxxexx
+2
+5	3	6	4
+eooxxxxee
+1
+3	2
+xeooeooex
+1
+18	2
+xeeexxxxx
+1
+0	4
+eooxxxxex
+2
+3	2	5	4
+xeooeooee
+1
+18	2
+xeeexxxxe
+1
+1	3
+xoooeooeo
+2
+17	1	18	2
+ooxxexxxw
+2
+4	3	6	2
+xeeoxexxx
+1
+4	4
+eooxxxxxo
+1
+0	3
+wooxxxxxw
+1
+0	3
+eoeoooxew
+1
+16	1
+xxexxxeee
+2
+4	1	6	0
+oeeexxxew
+1
+8	2
+eooxoeooo
+1
+16	4
+eooxooooe
+1
+15	3
+xeooooxex
+1
+14	1
+eooxooooo
+1
+12	4
+eoooeoeex
+1
+17	1
+eoooeoexe
+1
+17	1
+eoxxxxxow
+1
+0	2
+eoooeoexx
+1
+17	1
+eoooeoexo
+1
+17	1
+xoxxoooeo
+1
+17	4
+eeoeoooxw
+1
+16	2
+eoooeoeox
+1
+17	1
+wxoxxxxee
+1
+3	2
+xeooooeoe
+2
+13	1	17	3
+xeoxexxxo
+1
+4	3
+oxxexxxoo
+2
+4	2	6	1
+eoooxxexx
+1
+6	4
+weexexxxo
+1
+4	3
+wxxexxeex
+1
+6	1
+eoooxxxxx
+1
+0	4
+eooooeeee
+1
+13	0
+eooooeeex
+1
+13	0
+eooooeeeo
+1
+13	0
+xxxexoxoo
+1
+5	0
+eooooeexo
+1
+13	0
+xeooeoeoe
+1
+22	1
+xxxexoxxe
+1
+5	0
+eooooeeoe
+1
+13	0
+xxxexoxxx
+1
+5	0
+eooooeeox
+1
+13	0
+ooxxxxeow
+1
+3	1
+xxxexoxxo
+1
+5	0
+eooooeeoo
+1
+13	0
+xeooooxox
+1
+14	1
+eooooexxx
+1
+13	0
+oeeooooxw
+1
+14	2
+xxxxexxxo
+3
+4	3	5	1	6	2
+eooooexoe
+1
+13	0
+xxxxxexox
+2
+0	0	5	2
+xxexxoeex
+1
+6	0
+xeooooxxe
+1
+14	1
+eexxxxxew
+1
+0	2
+eeoooeew
+1
+19	0
+eooooeoex
+2
+13	0	17	2
+eooooooxw
+2
+12	1	12	2
+eooooeoxe
+2
+13	0	17	2
+oeoxxxexw
+1
+5	3
+eooooxxeo
+1
+14	0
+oexxxexee
+1
+5	2
+eooooeoxx
+2
+13	0	17	2
+eooooxxex
+1
+14	0
+eooooeoxo
+2
+13	0	17	2
+eooooexew
+1
+13	0
+wxxxxex
+2
+3	0	5	2
+oxexexxex
+1
+11	2
+eooooeoox
+3
+13	0	17	2	18	3
+eooooxeex
+1
+14	0
+wexoeooox
+1
+16	3
+oooeoooeo
+4
+16	2	17	0	17	4	18	1
+wexxxxooe
+1
+2	1
+eooooxexe
+1
+14	0
+eooooxexx
+1
+14	0
+eooooxexo
+1
+14	0
+wooeooeox
+1
+18	1
+eooooxeoe
+1
+14	0
+wooeooeoe
+2
+18	1	22	3
+eooooxeox
+1
+14	0
+eooooxeoo
+1
+14	0
+xeexoeooo
+1
+16	4
+eooooxxee
+1
+14	0
+oexxxexeo
+1
+5	2
+weexxxxxw
+1
+0	3
+eooooxxxo
+1
+14	0
+eooooxoew
+1
+14	0
+eooooxxoo
+1
+14	0
+eooooxoex
+1
+14	0
+weexxxxxx
+2
+0	3	0	4
+weeoooeoo
+2
+17	3	18	4
+eooooxoxx
+1
+14	0
+weexxxxex
+2
+1	2	5	4
+eooooxooo
+1
+14	0
+oxxxexeex
+1
+5	1
+woexxxeee
+1
+9	1
+eoooooexe
+1
+12	1
+oxxxexeee
+1
+5	1
+woexxxeex
+1
+9	1
+eoooooexx
+1
+12	1
+woexxxeeo
+1
+9	1
+eoooooexo
+1
+12	1
+eoooooxee
+1
+12	1
+oexxxxoox
+1
+2	1
+xoeoooxeo
+1
+16	1
+woeooow
+1
+16	1
+wooooeeee
+1
+15	0
+weooxxexx
+1
+6	4
+eoooooxex
+1
+12	1
+oexxxxooe
+1
+2	1
+xoeoooxex
+1
+16	1
+eoooooxeo
+1
+12	1
+wxxoxxxex
+1
+5	4
+oooeoxoxo
+1
+17	0
+xxooooeoe
+2
+15	1	17	3
+eoooooxxe
+1
+12	1
+xxooooeox
+2
+15	1	17	3
+eoooooxxx
+1
+12	1
+weoooeeew
+1
+21	0
+oooeoxoxe
+1
+17	0
+xxooooeoo
+3
+15	1	17	3	18	4
+eoooooxxo
+1
+12	1
+xxooooexe
+1
+15	1
+eoooooxoe
+1
+12	1
+xxooooexx
+1
+15	1
+xexxxxexo
+3
+1	1	4	0	5	3
+eoooooxox
+1
+12	1
+exexxeeew
+1
+11	0
+xxooooexo
+1
+15	1
+xexxxxexx
+4
+1	1	4	0	5	3	6	4
+eoooooxoo
+1
+12	1
+ooeooew
+1
+18	0
+xxexxexxo
+2
+6	0	6	3
+eooooooee
+2
+12	1	12	2
+eexexxxow
+1
+4	2
+eoooooooe
+3
+12	1	12	2	12	3
+eooeoexow
+1
+22	0
+eooooooox
+3
+12	1	12	2	12	3
+exxxxxeow
+1
+0	1
+eoooooooo
+4
+12	1	12	2	12	3	12	4
+xeeexexxe
+1
+11	3
+xeeexexxx
+1
+4	4
+oooexexxx
+1
+4	4
+woeeoooeo
+1
+17	4
+xeeexxexe
+1
+10	3
+oooexexxe
+1
+11	3
+xeeexxexx
+1
+6	4
+xeooeooxe
+1
+18	2
+xeeexxxee
+1
+7	2
+xeooeooxx
+1
+18	2
+xeeexxxex
+1
+5	4
+eexooooew
+1
+15	2
+xeooeooxo
+1
+18	2
+xeeexxxeo
+1
+8	2
+xeeeoeooo
+1
+16	4
+xeeeooeoe
+1
+22	3
+xeeeooeoo
+1
+18	4
+xeeeoooee
+1
+19	2
+wxxexxeoo
+1
+6	1
+xeeeoooex
+1
+20	2
+wxxexxeox
+1
+6	1
+xeeeoooeo
+1
+17	4
+xeexexxee
+1
+11	2
+wxxxxxxxw
+3
+0	1	0	2	0	3
+xeexexxex
+1
+11	2
+xeexexxeo
+1
+11	2
+xeexexxxe
+1
+4	3
+xooeooexe
+1
+18	1
+xeoxxxxxo
+1
+0	3
+xeexexxxx
+1
+4	3
+wxooeooow
+2
+16	3	18	2
+xeoxxxxxx
+2
+0	3	0	4
+xexexxxew
+1
+4	2
+xeexexxxo
+1
+4	3
+woeoooeeo
+1
+16	1
+xeexxxeee
+1
+7	1
+xeexxxeex
+1
+7	1
+woeoooeee
+1
+16	1
+xeexxxeeo
+1
+7	1
+xeexxxexe
+1
+5	3
+ooeoeooex
+1
+23	2
+xeexxxexx
+2
+5	3	6	4
+ooeoeooee
+1
+23	2
+ooeooxeew
+1
+18	0
+xeexxxexo
+1
+5	3
+xxxxexexw
+1
+5	1
+xeexxxeoe
+1
+8	1
+xeexxxeox
+1
+8	1
+xeexxxeoo
+1
+8	1
+xeexxxxee
+1
+1	2
+xeexxxxex
+2
+1	2	5	4
+xeexxxxeo
+1
+1	2
+xeexxxxxo
+1
+0	3
+wxxexexxe
+1
+11	3
+xxexxxoxx
+2
+4	1	6	0
+xeexxxxoe
+1
+2	2
+wxxexexxx
+1
+4	4
+xxexxxoxe
+2
+4	1	6	0
+xeexxxxox
+1
+2	2
+xeexooeoo
+1
+18	4
+exeooooxw
+1
+14	2
+xoeexxexe
+1
+10	3
+xexeooooo
+1
+12	4
+oeeeoeooo
+1
+16	4
+oeooeoexx
+1
+22	1
+xeexooooe
+1
+15	3
+ooeooxoxe
+1
+18	0
+xexeooeoe
+1
+22	3
+xeexooooo
+1
+12	4
+ooeooxoxo
+1
+18	0
+xexeooeoo
+1
+18	4
+xxxxexeoo
+1
+5	1
+xeeoeooee
+1
+23	2
+ooeooexeo
+1
+18	0
+xeeoeooex
+1
+23	2
+xexxexeeo
+1
+10	1
+oxeeoooew
+1
+20	2
+xxxxexeoe
+1
+5	1
+xeeoeooeo
+1
+23	2
+ooeooexee
+1
+18	0
+xxexxeexw
+1
+6	0
+xeoooeoow
+2
+17	2	18	3
+xexxexeex
+1
+10	1
+xeeoxxexx
+1
+6	4
+eexxxxew
+1
+1	1
+woooeooxo
+2
+17	1	18	2
+exeoeooow
+1
+16	3
+xxoxxexxx
+2
+4	4	6	3
+xeeoxxxex
+1
+5	4
+xeeoxxxxx
+1
+0	4
+woexxxxe
+1
+1	2
+xeeooeoee
+1
+22	2
+woexxxxx
+1
+0	3
+xeeooeoex
+1
+22	2
+woexxxxo
+1
+2	2
+xeeooeoeo
+1
+22	2
+xxxxxoeeo
+1
+0	0
+xeeooeooe
+1
+18	3
+eeoooexw
+1
+20	0
+xeeooeoox
+1
+18	3
+xxxxxoeee
+1
+0	0
+xeeooeooo
+2
+16	4	18	3
+oooeoeow
+1
+17	0
+weooeooex
+1
+18	2
+xeeoooeee
+1
+19	1
+eeoooooow
+2
+12	2	12	3
+xxexxooeo
+1
+6	0
+oeooeoooo
+2
+16	3	18	2
+weooeooee
+1
+18	2
+ooeooeeew
+1
+18	0
+xeeoooeex
+1
+19	1
+xxexxooex
+1
+6	0
+oeooeooox
+2
+16	3	18	2
+xeeoooeeo
+1
+19	1
+xeeoooexo
+1
+20	1
+xeeoooeoo
+2
+17	3	18	4
+xeeooooxe
+1
+14	2
+oexxxeexe
+1
+9	0
+ooeooeexx
+1
+18	0
+xeeooooox
+1
+12	3
+oexxxeeox
+1
+9	0
+xxooooeee
+1
+15	1
+xexexexxe
+1
+11	3
+xexexexxx
+1
+4	4
+xeoxxexxx
+2
+4	4	6	3
+oxexxexee
+1
+10	2
+weeoxxxex
+1
+5	4
+xxexxexw
+1
+6	0
+xexexxeee
+1
+11	1
+xexxxexow
+2
+4	0	5	2
+xeoxxexxe
+1
+6	3
+oxexxexex
+1
+10	2
+oxeoeooow
+1
+16	3
+wxexxxxeo
+2
+1	2	4	1
+xexexxeex
+1
+11	1
+oxexxexeo
+1
+10	2
+wxoooeoxw
+1
+17	2
+wxexxxxex
+3
+1	2	4	1	5	4
+xexexxeeo
+1
+11	1
+oxexxexxe
+1
+6	3
+xexexxexe
+2
+10	3	11	1
+oxexxexxx
+2
+4	4	6	3
+xexexxexx
+2
+6	4	11	1
+oxexxexxo
+1
+6	3
+xexexxexo
+1
+11	1
+weeooooew
+1
+13	2
+wxxxxeooo
+1
+3	0
+xexexxeoe
+1
+11	1
+xexexxeox
+1
+11	1
+wxxxxeooe
+1
+3	0
+xexexxeoo
+1
+11	1
+xexexxxee
+1
+4	2
+xexexxxex
+2
+4	2	5	4
+xexexxxeo
+1
+4	2
+xeexexxxw
+1
+4	3
+woeexxxxo
+1
+2	3
+xeoexxxxx
+1
+0	4
+xexeoeooe
+1
+23	3
+oeeeooooe
+1
+13	3
+woeexxxxe
+1
+1	3
+xexeoeooo
+1
+16	4
+oeeeooooo
+1
+12	4
+xexeoooee
+1
+21	2
+xexeoooeo
+1
+17	4
+xexeoooox
+1
+14	3
+oeooeoexo
+1
+22	1
+xxxxexeox
+1
+5	1
+oexxooooe
+1
+15	3
+ooeooexex
+1
+18	0
+xexxexeee
+1
+10	1
+weexxxxo
+1
+2	2
+xexxexexe
+1
+10	1
+xexxexexx
+1
+10	1
+weexxxxe
+1
+1	2
+xexxexexo
+1
+10	1
+eeexxxew
+1
+8	1
+xexxexeoe
+1
+10	1
+xexxexxee
+1
+6	2
+xexxexxex
+1
+6	2
+xexxexxeo
+1
+6	2
+xeoooooex
+1
+12	2
+ooeoeooow
+1
+16	3
+xexxexxxe
+2
+4	3	6	2
+xeoooooee
+1
+12	2
+ooxxxexw
+1
+5	2
+xexxexxxx
+2
+4	3	6	2
+oxooooow
+1
+12	2
+xexxexxxo
+2
+4	3	6	2
+oooooeeex
+1
+12	0
+ooxeoooow
+1
+14	3
+woxeooooo
+1
+12	4
+xexxexxoe
+1
+6	2
+wxxoeooox
+1
+16	3
+xxxxxeeow
+1
+0	0
+xeooooeee
+1
+13	1
+xexxxeexe
+1
+4	0
+weooooeew
+1
+13	1
+wxxoeoooe
+1
+16	3
+xeooooeex
+1
+13	1
+xexxxeexx
+1
+4	0
+xeooooeeo
+1
+13	1
+xexxxeexo
+1
+4	0
+wxoxxxxxe
+1
+0	3
+xexxxeeoe
+1
+4	0
+wxoxxxxxo
+1
+0	3
+xexxxeeoo
+1
+4	0
+xexxxexxe
+3
+4	0	5	2	6	3
+xeoooooox
+2
+12	2	12	3
+xexxxexxx
+4
+4	0	4	4	5	2	6	3
+xeooooooe
+2
+12	2	12	3
+eooooeeew
+1
+13	0
+xexxxexxo
+3
+4	0	5	2	6	3
+xeoxxexxw
+1
+6	3
+xexxxexoe
+2
+4	0	5	2
+xoeoxxexx
+1
+6	4
+xexxxexox
+2
+4	0	5	2
+xexxxeoeo
+1
+4	0
+xexxxeoxe
+1
+4	0
+xexxxeoxx
+1
+4	0
+xexxxeoxo
+1
+4	0
+xexxxxeee
+2
+1	1	4	0
+xexooooow
+1
+12	3
+oeoooeeoo
+1
+16	0
+xexxxxeex
+2
+1	1	4	0
+oeoooeeox
+1
+16	0
+xexxxxeeo
+2
+1	1	4	0
+xexxxxexe
+3
+1	1	4	0	5	3
+xexxxxeoe
+2
+1	1	4	0
+xexxxxeox
+2
+1	1	4	0
+xexxxxeoo
+2
+1	1	4	0
+xexxxxxee
+2
+0	2	4	0
+xexxxxxex
+3
+0	2	4	0	5	4
+xexxxxxeo
+2
+0	2	4	0
+xexxxxxxe
+3
+0	2	0	3	4	0
+xoeooooxo
+2
+14	2	16	1
+xexxxxxxx
+4
+0	2	0	3	0	4	4	0
+oxxxxxxw
+2
+0	1	0	2
+oooooexew
+1
+12	0
+oxoxxexxw
+1
+6	3
+xoeooooxx
+2
+14	2	16	1
+xexxxxxxo
+3
+0	2	0	3	4	0
+xexxxxxoe
+2
+0	2	4	0
+xexxxxxox
+2
+0	2	4	0
+xexxxxoee
+2
+2	1	4	0
+xexxxxoex
+2
+2	1	4	0
+xxxoooeow
+1
+17	3
+xexxxxoeo
+2
+2	1	4	0
+ooxexxexe
+1
+10	3
+oooexxxxo
+1
+2	3
+oooeoexxw
+1
+17	0
+xexxxxoxe
+2
+2	1	4	0
+ooeooooex
+3
+13	2	16	1	18	0
+xexxxxooe
+2
+2	1	4	0
+ooeooooee
+3
+13	2	16	1	18	0
+xexxxxoox
+2
+2	1	4	0
+xeoexexxe
+1
+11	3
+oxxxxexox
+2
+3	0	5	2
+xexxxoeee
+1
+4	0
+wexexxeow
+1
+11	1
+xeoexexxx
+1
+4	4
+oxeooeoeo
+1
+22	2
+oxxxxexoe
+2
+3	0	5	2
+ooeoooow
+3
+14	2	16	1	18	0
+xxexxexoo
+1
+6	0
+xexxxoeex
+1
+4	0
+oxeooeoex
+1
+22	2
+xxexxexox
+1
+6	0
+xexxxoeeo
+1
+4	0
+xoxxxxeoo
+1
+3	1
+exoexxxxw
+1
+2	3
+xexxxoexe
+1
+4	0
+oeoxxexxo
+1
+6	3
+xexxxoexx
+1
+4	0
+weexxxex
+1
+5	3
+xexxxoeox
+1
+4	0
+woexxxxee
+1
+1	2
+xexxxoxex
+1
+4	0
+xooooeew
+1
+15	0
+wxxxxxeo
+1
+0	1
+exooeooxw
+1
+18	2
+xxxxexxoo
+2
+5	1	6	2
+xexxxoxxe
+1
+4	0
+xexxxoxxx
+1
+4	0
+xexxxoxoe
+1
+4	0
+xexxxoxox
+1
+4	0
+oeeexexxe
+1
+11	3
+xexxxoxoo
+1
+4	0
+xxexxxow
+2
+4	1	6	0
+xxexxxexo
+3
+4	1	5	3	6	0
+oxxooooew
+1
+15	2
+xexxxooee
+1
+4	0
+xexxxooex
+1
+4	0
+xxexxxexe
+3
+4	1	5	3	6	0
+wxoxoeooo
+1
+16	4
+xoeexexxe
+1
+11	3
+xexxxooeo
+1
+4	0
+xexxxooxe
+1
+4	0
+oxoeooooo
+2
+12	4	16	2
+wexxxxxeo
+1
+0	2
+xexxxooxx
+1
+4	0
+oxxxxeooo
+1
+3	0
+xxooeoow
+1
+18	2
+xeoexxexx
+1
+6	4
+xexxxooxo
+1
+4	0
+oxxxxeoox
+1
+3	0
+oxoeooooe
+2
+13	3	16	2
+wexxxxxee
+1
+0	2
+xexxoeooo
+1
+16	4
+xoeoeooew
+1
+23	2
+xexxooooe
+1
+15	3
+xexxooooo
+1
+12	4
+xeoooeew
+1
+21	0
+xooooooxo
+2
+12	1	12	2
+xexoeoooe
+1
+16	3
+eeexxxeow
+1
+8	1
+xexoeooox
+1
+16	3
+xooooooxe
+2
+12	1	12	2
+xexoeoooo
+1
+16	3
+xexoxexxx
+1
+4	4
+oxxxexoeo
+1
+5	1
+woxxoooeo
+1
+17	4
+wxeexexxe
+1
+11	3
+wxxxexxw
+2
+5	1	6	2
+xexoxxexx
+1
+6	4
+xexoxxxex
+1
+5	4
+xoexxexeo
+1
+10	2
+xexoxxxxe
+1
+3	3
+weoxxxxeo
+1
+3	2
+xxxexexoo
+1
+5	0
+xexoxxxxx
+1
+0	4
+xexooeooe
+1
+18	3
+xexooeoox
+1
+18	3
+xexooeooo
+2
+16	4	18	3
+xexoooeoo
+2
+17	3	18	4
+xxxexxoex
+2
+5	0	6	1
+xexooooee
+1
+15	2
+oxoxxexxo
+1
+6	3
+oooooexeo
+1
+12	0
+woxoooooo
+2
+12	3	12	4
+xexooooex
+1
+15	2
+xoeooooxw
+2
+14	2	16	1
+oxoxxexxx
+2
+4	4	6	3
+oooooexex
+1
+12	0
+woxooooox
+1
+12	3
+xexooooeo
+2
+15	2	17	4
+oeoooeeow
+1
+16	0
+xexoooooo
+2
+12	3	12	4
+xeoexxexe
+1
+10	3
+ooxxoooeo
+1
+17	4
+eoxxexxow
+1
+6	2
+wxeooeooo
+2
+16	4	18	3
+eooeooxew
+1
+18	1
+xeoexxxxe
+1
+1	3
+oeeeoooox
+1
+14	3
+woeexxxxx
+1
+0	4
+xeoexxxxo
+1
+2	3
+wxoxxexxw
+1
+6	3
+xeoeoeooe
+1
+23	3
+eooooxeow
+1
+14	0
+xxexxooox
+1
+6	0
+xeoeoeooo
+1
+16	4
+oeooeooex
+1
+18	2
+xeoeooeee
+1
+23	1
+oxexxxeew
+1
+4	1
+xxoexxxxo
+1
+2	3
+xeoeooeex
+1
+23	1
+xxoexxxxx
+1
+0	4
+xeoeooeeo
+1
+23	1
+xeoeooeoe
+2
+22	3	23	1
+xxxexoxxw
+1
+5	0
+ooxxxxeoo
+1
+3	1
+eooooeeow
+1
+13	0
+xeoeooeox
+1
+23	1
+oxooeooxo
+1
+18	2
+ooxxxxeox
+1
+3	1
+xeoeooeoo
+2
+18	4	23	1
+oxooeooxx
+1
+18	2
+xeoeoooee
+1
+16	2
+woooooxex
+1
+12	1
+xooxxexxx
+2
+4	4	6	3
+ooxxexxoo
+1
+6	2
+xxooeooeo
+1
+18	2
+xeoeoooex
+1
+16	2
+eoexxxxew
+1
+1	2
+woooooxeo
+1
+12	1
+xooxxexxo
+1
+6	3
+ooxxexxox
+1
+6	2
+xxooeooex
+1
+18	2
+xeoeoooeo
+2
+16	2	17	4
+xeoeoooxe
+1
+16	2
+xeoeoooxx
+1
+16	2
+xeoeoooxo
+1
+16	2
+xeoeooooe
+2
+13	3	16	2
+xeoeoooox
+2
+14	3	16	2
+xeoeooooo
+2
+12	4	16	2
+xeoxxexxo
+1
+6	3
+xeoxxxexe
+1
+5	3
+ooxxxxxxo
+2
+0	2	0	3
+xeoxxxexx
+2
+5	3	6	4
+ooxxxxxxx
+3
+0	2	0	3	0	4
+xeoxxxexo
+1
+5	3
+xeoxxxxee
+1
+3	2
+xxexxxexw
+3
+4	1	5	3	6	0
+xeoxxxxex
+2
+3	2	5	4
+xooeooexo
+1
+18	1
+xeoxxxxxe
+1
+0	3
+xeoxoeooo
+1
+16	4
+xeoxooeoo
+1
+18	4
+xeoxoooeo
+1
+17	4
+xeoxooooe
+1
+15	3
+xeoxooooo
+1
+12	4
+xxxexeexw
+1
+5	0
+xxexxeoex
+1
+6	0
+xeooeoeee
+1
+22	1
+xxxxxexeo
+2
+0	0	5	2
+xxexxeoee
+1
+6	0
+xxexxoeoo
+1
+6	0
+xeooeoeex
+1
+22	1
+xooooeoxo
+2
+15	0	17	2
+xeooeoexo
+1
+22	1
+exooeooow
+2
+16	3	18	2
+xeooeoooe
+2
+16	3	18	2
+xeooeooox
+2
+16	3	18	2
+xeooeoooo
+2
+16	3	18	2
+oooeooexw
+2
+17	0	18	1
+ooeooooox
+3
+12	3	16	1	18	0
+wxeooooeo
+2
+13	2	17	4
+xeooxexxx
+1
+4	4
+xxxooeooo
+2
+16	4	18	3
+xeooxxexx
+1
+6	4
+xeooxxxex
+1
+5	4
+xxxxexeeo
+1
+5	1
+exxxexxew
+2
+5	1	6	2
+xeooxxxxe
+1
+3	3
+ooeooexoo
+1
+18	0
+wexoxxexx
+1
+6	4
+xxoeooooo
+2
+12	4	16	2
+xeoooeeex
+1
+21	0
+oeexxxxxx
+2
+0	3	0	4
+xeoooeexe
+1
+21	0
+xooooexw
+1
+15	0
+xeoooeexx
+1
+21	0
+exooeooew
+1
+18	2
+oeexxxxxe
+1
+0	3
+xeoooeexo
+1
+21	0
+xeoooeeoe
+1
+21	0
+wexxexxox
+1
+6	2
+xeoooeeox
+1
+21	0
+wexxexxoe
+1
+6	2
+oooeooxow
+2
+17	0	18	1
+xeoooeeoo
+1
+21	0
+xeoooeoex
+1
+17	2
+ooooooeow
+3
+12	0	12	1	17	3
+xxexxeeoo
+1
+6	0
+xeoooeoxo
+1
+17	2
+xxexxeexe
+1
+6	0
+xeoooeooe
+2
+17	2	18	3
+xexxexeew
+1
+10	1
+xxexxeexx
+1
+6	0
+xeoooeoox
+2
+17	2	18	3
+xeooooxee
+1
+14	1
+xeooooxeo
+1
+14	1
+xeoooooeo
+2
+12	2	17	4
+xeooooooo
+3
+12	2	12	3	12	4
+xxeexexxx
+1
+4	4
+xxeexxexx
+1
+6	4
+ooeooexxe
+1
+18	0
+xxeexxxee
+1
+7	2
+eeoooexew
+1
+20	0
+xxeexxxex
+1
+5	4
+xxxexxxoo
+3
+4	2	5	0	6	1
+xxeexxxeo
+1
+8	2
+woxoooeow
+1
+17	3
+xxxexxxox
+3
+4	2	5	0	6	1
+xxeexxxxe
+1
+1	3
+xxexxxxxo
+3
+0	3	4	1	6	0
+oeooooxoo
+2
+14	1	16	0
+xxeexxxxx
+1
+0	4
+xxexxxxxx
+4
+0	3	0	4	4	1	6	0
+oeooooxox
+2
+14	1	16	0
+xxeexxxxo
+1
+2	3
+xxeeoeooo
+1
+16	4
+woxexxxxw
+2
+2	3	4	2
+xxexexxee
+1
+11	2
+xxexxeeee
+1
+6	0
+xxexxeeex
+1
+6	0
+xxexxeeeo
+1
+6	0
+oxeooeooe
+1
+18	3
+xxexxexee
+2
+6	0	10	2
+oxeooeoox
+1
+18	3
+xxexxexex
+2
+6	0	10	2
+oxeooeooo
+2
+16	4	18	3
+eoexxxxxw
+1
+0	3
+xxexxexeo
+2
+6	0	10	2
+oxeooeoee
+1
+22	2
+oxxxxexoo
+2
+3	0	5	2
+xxexxexoe
+1
+6	0
+xxexxeooe
+1
+6	0
+xxexxeoox
+1
+6	0
+xxexxeooo
+1
+6	0
+xeoxxxxew
+1
+3	2
+xxexxxexx
+4
+4	1	5	3	6	0	6	4
+xoeexexxx
+1
+4	4
+xxexxxxxe
+3
+0	3	4	1	6	0
+wooooooew
+2
+12	1	12	2
+ooexxxxee
+1
+1	2
+xxexxoexx
+1
+6	0
+xooooeoox
+3
+15	0	17	2	18	3
+oeooooxxe
+2
+14	1	16	0
+xxexxxxoe
+3
+2	2	4	1	6	0
+xoeooooex
+2
+13	2	16	1
+xxexxxxoo
+3
+2	2	4	1	6	0
+xoeooooee
+2
+13	2	16	1
+exoxxxxew
+1
+3	2
+xxexxoexo
+1
+6	0
+xooooeooo
+4
+15	0	16	4	17	2	18	3
+xxexxoxxe
+1
+6	0
+xxexxoxxx
+1
+6	0
+oxooooeoo
+3
+15	1	17	3	18	4
+xxexxoxxo
+1
+6	0
+oxooooeox
+2
+15	1	17	3
+xoexxxexe
+1
+5	3
+xxexxoxoe
+1
+6	0
+xoexxxexx
+2
+5	3	6	4
+xxeooeooo
+2
+16	4	18	3
+xxexxoxox
+1
+6	0
+xoexxxexo
+1
+5	3
+xxeooeoox
+1
+18	3
+xxexxoxoo
+1
+6	0
+eooooexxw
+1
+13	0
+xxexxooee
+1
+6	0
+oeooeoooe
+2
+16	3	18	2
+xxexxooxe
+1
+6	0
+xxexxoooe
+1
+6	0
+oeooeooee
+1
+18	2
+eoeooexw
+1
+23	0
+xxexxoooo
+1
+6	0
+oeooeooeo
+1
+18	2
+exxxexow
+1
+5	1
+xoeoooooe
+2
+12	3	16	1
+xxexoeooo
+1
+16	4
+xxexooooo
+1
+12	4
+ooxoeoooo
+1
+16	3
+xxeoeooee
+1
+23	2
+oxeoooeox
+1
+17	3
+xxeoeoooe
+1
+16	3
+ooeooxeex
+1
+18	0
+xxeoxxxex
+1
+5	4
+xxexxeoew
+1
+6	0
+xxxexeexx
+1
+5	0
+xxeoxxxxe
+1
+3	3
+ooeoooeeo
+2
+16	1	18	0
+ooeooxexe
+1
+18	0
+xxeooeoee
+1
+22	2
+wexexxeex
+1
+11	1
+xxxeooooo
+1
+12	4
+xxeooeoex
+1
+22	2
+wexexxeee
+1
+11	1
+xxxeoooox
+1
+14	3
+xxeooeoeo
+1
+22	2
+ooexxexxw
+1
+6	3
+xxeooeooe
+1
+18	3
+xxeoooeee
+1
+21	1
+oxeexxexe
+1
+10	3
+exxxxoeew
+1
+2	0
+xxeoooeex
+1
+21	1
+oxeexxexx
+1
+6	4
+oeoooeoow
+3
+16	0	17	2	18	3
+xooxoeooo
+1
+16	4
+xxeoooeeo
+1
+21	1
+xxeoooeoe
+1
+17	3
+xxeoooeox
+1
+17	3
+xexxxow
+1
+4	0
+xxeoooeoo
+2
+17	3	18	4
+eooeooxxw
+1
+18	1
+eeoooexxw
+1
+20	0
+xxeooooee
+1
+13	2
+xxeooooex
+1
+13	2
+xxeooooeo
+2
+13	2	17	4
+oexeoeooe
+1
+23	3
+weooeooox
+2
+16	3	18	2
+wxxxxexoe
+2
+3	0	5	2
+xxeooooxe
+1
+14	2
+weooeoooe
+2
+16	3	18	2
+wxxxxexox
+2
+3	0	5	2
+xxeooooxx
+1
+14	2
+oexeoeooo
+1
+16	4
+wxxxxexoo
+2
+3	0	5	2
+xxeooooxo
+1
+14	2
+ooeooooow
+3
+12	3	16	1	18	0
+wxxxxexxe
+3
+3	0	5	2	6	3
+xxeoooooe
+1
+12	3
+oooeooexx
+2
+17	0	18	1
+wxxxxexxx
+4
+3	0	4	4	5	2	6	3
+xxeooooox
+1
+12	3
+oooeooexe
+2
+17	0	18	1
+wxxxxexxo
+3
+3	0	5	2	6	3
+xxeoooooo
+2
+12	3	12	4
+xxxexeeox
+1
+5	0
+oooooeooe
+3
+12	0	17	2	18	3
+xxxexexex
+1
+5	0
+xxxexexxe
+2
+5	0	11	3
+xxxexexxx
+2
+4	4	5	0
+xxxexexxo
+1
+5	0
+xoexxexex
+1
+10	2
+weoxxxxex
+2
+3	2	5	4
+eooooeew
+1
+13	0
+xxxexexoe
+1
+5	0
+xoexxexee
+1
+10	2
+weoxxxxee
+1
+3	2
+xxxexexox
+1
+5	0
+exexexxew
+1
+11	2
+xxxexeoee
+1
+5	0
+xxxexeoex
+1
+5	0
+xxxexeoeo
+1
+5	0
+eooxxxxew
+1
+3	2
+xxxexeoxe
+1
+5	0
+xxxexeoxx
+1
+5	0
+xxxexeooe
+1
+5	0
+xxxexeoox
+1
+5	0
+xxxexeooo
+1
+5	0
+xxxexxeee
+2
+5	0	6	1
+oeoooxeeo
+1
+16	0
+xxxexxeex
+2
+5	0	6	1
+xxxexxeeo
+2
+5	0	6	1
+oeoooxeee
+1
+16	0
+xxxexxexe
+3
+5	0	6	1	10	3
+xxxexxexx
+3
+5	0	6	1	6	4
+xxxexxeoe
+2
+5	0	6	1
+eeoooeoew
+1
+17	2
+xxxexxeox
+2
+5	0	6	1
+xxxexxeoo
+2
+5	0	6	1
+xxxexxxee
+3
+4	2	5	0	6	1
+xxxexxxex
+4
+4	2	5	0	5	4	6	1
+xxxexxxeo
+3
+4	2	5	0	6	1
+exexxeoxw
+1
+11	0
+xxxexxxxx
+4
+0	4	4	2	5	0	6	1
+xxxexxxoe
+3
+4	2	5	0	6	1
+weeexexxe
+1
+11	3
+xxxexxoxx
+2
+5	0	6	1
+oxxxxeexe
+1
+3	0
+oxooooeee
+1
+15	1
+woeoeooe
+1
+23	2
+xxxexoeex
+1
+5	0
+xxxexoexe
+1
+5	0
+xooexxxxo
+1
+2	3
+oeoeoeooe
+1
+23	3
+xxxexoexx
+1
+5	0
+xxxexoexo
+1
+5	0
+xooexxxxe
+1
+1	3
+xxxexoeoe
+1
+5	0
+xxxexoeox
+1
+5	0
+xxxexoeoo
+1
+5	0
+xxxexoxex
+1
+5	0
+ooeooexxo
+1
+18	0
+oxexxxooe
+1
+4	1
+xxxexooeo
+1
+5	0
+xxxexooxe
+1
+5	0
+xxxeooeoe
+1
+22	3
+xxxeooeoo
+1
+18	4
+xxxeoooee
+1
+21	2
+xxxeoooeo
+1
+17	4
+xxoxooeoo
+1
+18	4
+xxxeooooe
+1
+13	3
+wexexxeeo
+1
+11	1
+xxxxexexe
+1
+5	1
+xeexxxeow
+1
+8	1
+xxxooooeo
+2
+15	2	17	4
+xxxxexexx
+1
+5	1
+oxeoxexxx
+1
+4	4
+oxxxxxew
+1
+0	1
+oooooexxw
+1
+12	0
+xxxooooex
+1
+15	2
+xxxxexexo
+1
+5	1
+xxxxexoex
+1
+5	1
+eexxxxoew
+1
+2	1
+wxxexxoeo
+1
+6	1
+xooxexxxx
+1
+4	3
+weoeooeew
+1
+23	1
+xxxxexoxe
+1
+5	1
+xooxexxxe
+1
+4	3
+xxxxexoxx
+1
+5	1
+xxxxexoxo
+1
+5	1
+xxxxexooo
+1
+5	1
+xxxxxeeoo
+1
+0	0
+xxxxxexxe
+3
+0	0	5	2	6	3
+eooeoeow
+1
+22	0
+xxxxxexxo
+3
+0	0	5	2	6	3
+xxxxxeoeo
+1
+0	0
+xxxxxeoxx
+1
+0	0
+xxxxxeooe
+1
+0	0
+wexxxxeox
+1
+1	1
+xxxxxeoox
+1
+0	0
+wexxxxeoe
+1
+1	1
+xxxxxeooo
+1
+0	0
+xxxxxxeee
+2
+0	0	0	1
+xxxxxxeex
+2
+0	0	0	1
+eexexxew
+1
+11	1
+xxxxxxeeo
+2
+0	0	0	1
+wooooeoxw
+2
+15	0	17	2
+xxxxxxexe
+3
+0	0	0	1	5	3
+xxxxxxexx
+4
+0	0	0	1	5	3	6	4
+xoeoxxxxe
+1
+3	3
+xxxxxxeox
+2
+0	0	0	1
+oxxxxxeoe
+1
+0	1
+weexxexew
+1
+10	2
+wooeooxoo
+1
+18	1
+xxxxxxxee
+3
+0	0	0	1	0	2
+xxxxxxxex
+4
+0	0	0	1	0	2	5	4
+oxoxooooo
+1
+12	4
+wxooooeo
+2
+15	1	17	3
+oxxxxxeox
+1
+0	1
+wxooooex
+1
+15	1
+oxxxxxeoo
+1
+0	1
+wooeooxoe
+1
+18	1
+xxxxxxxeo
+3
+0	0	0	1	0	2
+weeexxxxo
+1
+2	3
+xxxxxxoee
+2
+0	0	0	1
+xxxxxxoex
+2
+0	0	0	1
+weexxxxow
+1
+2	2
+weeexxxxe
+1
+1	3
+xxxxxxoeo
+2
+0	0	0	1
+xxxxxxoxe
+2
+0	0	0	1
+xxxxxxoxx
+2
+0	0	0	1
+eoexxxxow
+1
+2	2
+xxexxooxw
+1
+6	0
+xxxxxxoxo
+2
+0	0	0	1
+xxxxxxooe
+2
+0	0	0	1
+xoeooeoox
+1
+18	3
+xxxxxoeex
+1
+0	0
+xxxxxoeoe
+1
+0	0
+weeeooooo
+1
+12	4
+xxxxxoeox
+1
+0	0
+xexexxew
+1
+11	1
+weeeoooox
+1
+14	3
+exxxxoxow
+1
+2	0
+xxxxxoeoo
+1
+0	0
+eeeoeooew
+1
+23	2
+xoeooeoex
+1
+22	2
+xxxxoeooo
+1
+16	4
+xxxxoooeo
+1
+17	4
+xxxxooooe
+1
+15	3
+xxxxooooo
+1
+12	4
+oeooeoow
+1
+18	2
+xxxoeoooe
+1
+16	3
+xxxoeooox
+1
+16	3
+xxexxoow
+1
+6	0
+xxxoeoooo
+1
+16	3
+xxxxxxxow
+3
+0	0	0	1	0	2
+xxxoxexxx
+1
+4	4
+oxxxxxeew
+1
+0	1
+xoexxxxoo
+1
+2	2
+xxxoxxexx
+1
+6	4
+ooooeoxee
+1
+17	1
+oeoooeow
+2
+16	0	17	2
+xxxoooeoe
+1
+17	3
+ooooeoxex
+1
+17	1
+xxxoooeox
+1
+17	3
+wxooxxexx
+1
+6	4
+ooooeoxeo
+1
+17	1
+xexxxxoew
+2
+2	1	4	0
+xxxoooeoo
+2
+17	3	18	4
+xxxooooee
+1
+15	2
+xxxoooooo
+2
+12	3	12	4
+oexoxxxex
+1
+5	4
+wexexxeo
+1
+11	1
+xxoexexxx
+1
+4	4
+oeoooeew
+1
+16	0
+oooeoeexw
+1
+17	0
+oexxxxoxo
+1
+2	1
+xxoexxexe
+1
+10	3
+eexxxxeow
+1
+1	1
+xxoexxexx
+1
+6	4
+xxoexxxxe
+1
+1	3
+xxoeoeooe
+1
+23	3
+oxoooooox
+2
+12	2	12	3
+ooxxxexxx
+3
+4	4	5	2	6	3
+woeooooow
+2
+12	3	16	1
+xxoeoeooo
+1
+16	4
+xxoeooeoe
+1
+22	3
+xeooooew
+1
+13	1
+xxoeoooee
+1
+16	2
+xexxxeew
+1
+4	0
+xxoeoooex
+1
+16	2
+xxoeoooeo
+2
+16	2	17	4
+xxoeoooxe
+1
+16	2
+xxoeoooxx
+1
+16	2
+xxoeoooxo
+1
+16	2
+xxexxow
+1
+6	0
+woeoxxexx
+1
+6	4
+xxoxexxxe
+1
+4	3
+xxoxexxxx
+1
+4	3
+xxoxexxxo
+1
+4	3
+xxoxxexxe
+1
+6	3
+xxoxxexxo
+1
+6	3
+xxxxexoxw
+1
+5	1
+weoeooeee
+1
+23	1
+xxoxxxexo
+1
+5	3
+weeexxxee
+1
+7	2
+xxoxxxxex
+2
+3	2	5	4
+xxoxxxxxo
+1
+0	3
+xxoxoeooo
+1
+16	4
+xxoxoooeo
+1
+17	4
+ooxoxxexx
+1
+6	4
+xoeoooeeo
+1
+16	1
+wxxxxeew
+1
+3	0
+xxoxooooe
+1
+15	3
+xoeoooeee
+1
+16	1
+xxoxooooo
+1
+12	4
+ooxxexxoe
+1
+6	2
+woxxxxeew
+1
+3	1
+xxooeooee
+1
+18	2
+xxooeooxe
+1
+18	2
+oxxeoooeo
+1
+17	4
+xxooeooxx
+1
+18	2
+xxooeooxo
+1
+18	2
+exexexxxw
+1
+4	3
+wooooeex
+1
+15	0
+oeoooeoew
+2
+16	0	17	2
+xoxoxxxxe
+1
+3	3
+oxoxexxxx
+1
+4	3
+ooxxexxee
+1
+6	2
+xxooeoooe
+2
+16	3	18	2
+xeexxxxw
+1
+2	2
+xxooxxxxe
+1
+3	3
+eexoooeow
+1
+17	3
+xxooxxxxx
+1
+0	4
+oxoeooeoo
+1
+18	4
+xxoooeoee
+1
+17	2
+eexxexxew
+1
+6	2
+xxxxxeeew
+1
+0	0
+xxoooeoex
+1
+17	2
+xxoooeoeo
+1
+17	2
+xxoooeooe
+2
+17	2	18	3
+xeexxexew
+1
+10	2
+xxoooeoox
+2
+17	2	18	3
+xxoooeooo
+3
+16	4	17	2	18	3
+xxoooooee
+1
+12	2
+xxoooooex
+1
+12	2
+ooooooexo
+2
+12	0	12	1
+eexxxxoow
+1
+2	1
+xxoooooeo
+2
+12	2	17	4
+ooooooexx
+2
+12	0	12	1
+oooeoxxxe
+1
+17	0
+xxoooooxo
+1
+12	2
+xxooooooe
+2
+12	2	12	3
+oeoooxxoo
+1
+16	0
+xxoooooox
+2
+12	2	12	3
+xxooooooo
+3
+12	2	12	3	12	4
+oeoooxxoe
+1
+16	0
+xoeexxexx
+1
+6	4
+oeooeoexe
+1
+22	1
+xoeexxxee
+1
+7	2
+weeoeoooo
+1
+16	3
+xoeexxxex
+1
+5	4
+xoeexxxeo
+1
+8	2
+weeoeoooe
+1
+16	3
+wexeoeooo
+1
+16	4
+xoeexxxxe
+1
+1	3
+oexxxxexo
+2
+1	1	5	3
+xoeexxxxx
+1
+0	4
+wexeoeooe
+1
+23	3
+xoeexxxxo
+1
+2	3
+oexxxxexe
+2
+1	1	5	3
+xexxxooxw
+1
+4	0
+xoeeoeooo
+1
+16	4
+xoeeooeoe
+1
+22	3
+oexexxeoo
+1
+11	1
+wexxxeeoo
+1
+9	0
+xoeeooeoo
+1
+18	4
+oexexxeoe
+1
+11	1
+wexxxeeoe
+1
+9	0
+oooeoeoxe
+1
+17	0
+oooooeow
+2
+12	0	17	2
+xoeeoooee
+1
+19	2
+oooeoeoxx
+1
+17	0
+xoeeoooex
+1
+20	2
+oooeoeoxo
+1
+17	0
+xoeeoooeo
+1
+17	4
+xoeeooooe
+1
+13	3
+eexxxeexw
+1
+7	0
+xoeeoooox
+1
+14	3
+oooooeeoo
+1
+12	0
+xoeeooooo
+1
+12	4
+oooooeeox
+1
+12	0
+eooooxoow
+1
+14	0
+xoexexxxe
+1
+4	3
+oooooooew
+3
+12	0	12	1	12	2
+wooeooooo
+3
+12	4	16	2	18	1
+xooooeexo
+1
+15	0
+xoexexxxx
+1
+4	3
+wooeoooox
+3
+14	3	16	2	18	1
+xooooeexx
+1
+15	0
+xoexexxxo
+1
+4	3
+xoexxexxx
+2
+4	4	6	3
+weoxxxxxx
+2
+0	3	0	4
+xeoooooxw
+1
+12	2
+xoexxxeee
+1
+9	1
+xexxxxew
+2
+1	1	4	0
+wxxoxxxxe
+1
+3	3
+xoexxxxex
+2
+1	2	5	4
+xoexxxxxx
+2
+0	3	0	4
+weoxxexxx
+2
+4	4	6	3
+xoexxxxoe
+1
+2	2
+eoeooexew
+1
+23	0
+xoexxxxox
+1
+2	2
+xoexooeoo
+1
+18	4
+oooooeoee
+2
+12	0	17	2
+xoexooooe
+1
+15	3
+oooooeoeo
+2
+12	0	17	2
+xoexooooo
+1
+12	4
+xoeoeooee
+1
+23	2
+xoeoeooex
+1
+23	2
+xoeoxexxx
+1
+4	4
+xoxxexxoo
+1
+6	2
+xoeoeooeo
+1
+23	2
+oooeoeoex
+1
+17	0
+woxxxexxw
+2
+5	2	6	3
+xoeoeoooe
+1
+16	3
+oxxooooox
+1
+12	3
+xoeoxxxex
+1
+5	4
+wxxooooo
+1
+12	3
+xoeooeoee
+1
+22	2
+wxxooooe
+1
+15	2
+wooooooxw
+2
+12	1	12	2
+xoeooeoeo
+1
+22	2
+xoeoooeex
+1
+16	1
+xoeoooexe
+1
+16	1
+xoeoooexx
+1
+16	1
+xoeoooexo
+1
+16	1
+xoeoooeoe
+2
+16	1	17	3
+xoeoooeox
+2
+16	1	17	3
+xoeoooxee
+1
+16	1
+xoeoooxxe
+1
+16	1
+xoeoooxxx
+1
+16	1
+oeexxxexo
+1
+5	3
+oxxxexxow
+2
+5	1	6	2
+xoeoooxxo
+1
+16	1
+oeexxxexx
+2
+5	3	6	4
+xoeoooxoe
+1
+16	1
+xoeoooxox
+1
+16	1
+xoeoooxoo
+1
+16	1
+eooeoeeew
+1
+22	0
+exxxxxxew
+2
+0	1	0	2
+xoeooooxe
+2
+14	2	16	1
+oexxooeoo
+1
+18	4
+xooxooooo
+1
+12	4
+xoeooooox
+2
+12	3	16	1
+eeeoooew
+1
+20	1
+xoeoooooo
+3
+12	3	12	4	16	1
+xoxexxexx
+1
+6	4
+wxxxxexex
+2
+3	0	5	2
+xoxexxxxe
+2
+1	3	4	2
+wxxxxexee
+2
+3	0	5	2
+xoxexxxxx
+2
+0	4	4	2
+xoxexxxxo
+2
+2	3	4	2
+xoxexxxoo
+1
+4	2
+xoxeoeooe
+1
+23	3
+xoxeoeooo
+1
+16	4
+xoxxexxee
+1
+6	2
+xoxxexxex
+1
+6	2
+xoxxexxeo
+1
+6	2
+xoxxexxxx
+2
+4	3	6	2
+oeoooeexo
+1
+16	0
+oexxxexxw
+2
+5	2	6	3
+xoxxexxoe
+1
+6	2
+xoxxexxox
+1
+6	2
+xoxxxxeee
+1
+3	1
+oeoeoooxo
+1
+16	2
+xoxxxxeex
+1
+3	1
+xoxxxxeeo
+1
+3	1
+oeoeoooxe
+1
+16	2
+xoxxxxexe
+2
+3	1	5	3
+wexxexeeo
+1
+10	1
+xoxxxxexx
+3
+3	1	5	3	6	4
+wexxexeex
+1
+10	1
+xoxxxxexo
+2
+3	1	5	3
+exoxxxxxw
+1
+0	3
+xeooooow
+1
+12	2
+xoxxxxeox
+1
+3	1
+oeoxxexxe
+1
+6	3
+xoxxxxxex
+2
+0	2	5	4
+xexxxxxw
+2
+0	2	4	0
+xoxxxxxxe
+2
+0	2	0	3
+xoxxxxxxx
+3
+0	2	0	3	0	4
+eeoxxexxw
+1
+6	3
+xoxxxxxoe
+1
+0	2
+xoxxxxxox
+1
+0	2
+xoxxxxxoo
+1
+0	2
+xoxxoeooo
+1
+16	4
+xoxxooeoo
+1
+18	4
+xoxxooooe
+1
+15	3
+weexexxxx
+1
+4	3
+xoxxooooo
+1
+12	4
+xoxoeoooe
+1
+16	3
+xoxoeooox
+1
+16	3
+oeeoxxxxe
+1
+3	3
+oeoeoooew
+1
+16	2
+xoxoeoooo
+1
+16	3
+woooeoo
+2
+17	1	18	2
+xoxoxxxex
+1
+5	4
+ooxxexxxx
+2
+4	3	6	2
+xoxooeooe
+1
+18	3
+xoxoooeoe
+1
+17	3
+xoxoooeox
+1
+17	3
+xoxoooeoo
+2
+17	3	18	4
+xoxooooeo
+2
+15	2	17	4
+exxeoooow
+1
+14	3
+woooeoxxe
+1
+17	1
+xoxoooooe
+1
+12	3
+woooeoxxx
+1
+17	1
+xoxooooox
+1
+12	3
+woooeoxxo
+1
+17	1
+xoxoooooo
+2
+12	3	12	4
+xooexexxe
+1
+11	3
+xooexxxee
+1
+9	2
+xooexxxex
+1
+5	4
+oeoeoeooo
+1
+16	4
+xooexxxxx
+1
+0	4
+xooeooeee
+1
+18	1
+oexxxxeew
+1
+1	1
+xooeooeex
+1
+18	1
+xooeooexx
+1
+18	1
+xooeooeoe
+2
+18	1	22	3
+xooeooeox
+1
+18	1
+xooeooeoo
+2
+18	1	18	4
+xooeooxee
+1
+18	1
+xooeooxex
+1
+18	1
+oooooeoxo
+2
+12	0	17	2
+wxxxxeoew
+1
+3	0
+xooeooxeo
+1
+18	1
+oooooeoxx
+2
+12	0	17	2
+oooxxxxxw
+1
+0	3
+xooeooxxe
+1
+18	1
+eeoeoooew
+1
+16	2
+xooeooxxx
+1
+18	1
+xooeooxxo
+1
+18	1
+xooeooxoe
+1
+18	1
+xooeooxox
+1
+18	1
+exxxxxew
+1
+0	1
+xooeooxoo
+1
+18	1
+oxeexxxex
+1
+5	4
+woxxxxee
+1
+3	1
+xooeoooee
+2
+16	2	18	1
+oxeexxxee
+1
+7	2
+woeoooo
+1
+16	1
+woxxxxex
+2
+3	1	5	3
+xooeoooex
+2
+16	2	18	1
+eoooooxew
+1
+12	1
+woeooox
+1
+16	1
+woxxxxeo
+1
+3	1
+xooeoooeo
+3
+16	2	17	4	18	1
+woxxxxxe
+1
+0	2
+wooeooexx
+1
+18	1
+xooeoooxe
+2
+16	2	18	1
+oxxexxeeo
+1
+6	1
+xooeooooe
+3
+13	3	16	2	18	1
+wxoeoooxo
+1
+16	2
+xooeoooox
+3
+14	3	16	2	18	1
+wxoeoooxx
+1
+16	2
+xooeooooo
+3
+12	4	16	2	18	1
+exeooooew
+1
+13	2
+wxxexxoex
+1
+6	1
+xooxexxxo
+1
+4	3
+woooooxee
+1
+12	1
+xooxxexxe
+1
+6	3
+eeexxexew
+1
+10	2
+xooxxxexe
+1
+5	3
+xooxxxexx
+2
+5	3	6	4
+xooxxxexo
+1
+5	3
+xooxxxxee
+1
+3	2
+oooooexoe
+1
+12	0
+xooxxxxex
+2
+3	2	5	4
+oooooexox
+1
+12	0
+xooxxxxeo
+1
+3	2
+oooooexoo
+1
+12	0
+xooxxxxxe
+1
+0	3
+xooxxxxxx
+2
+0	3	0	4
+oxooeooeo
+1
+18	2
+exooeoow
+1
+18	2
+xooxxxxxo
+1
+0	3
+oxooeooex
+1
+18	2
+xooxooeoo
+1
+18	4
+oooooxoex
+1
+12	0
+eeeoooeow
+1
+17	3
+exxxexoew
+1
+5	1
+wexxxexew
+1
+5	2
+oexexxxew
+1
+4	2
+xooxoooeo
+1
+17	4
+xooxooooe
+1
+15	3
+xoooeoeee
+1
+17	1
+xoooeoeex
+1
+17	1
+xoooeoeeo
+1
+17	1
+wxeeoooex
+1
+20	2
+ooeooxow
+1
+18	0
+xoooeoexe
+1
+17	1
+oeoeooeoe
+2
+22	3	23	1
+wxeeoooee
+1
+19	2
+xoooeoexx
+1
+17	1
+oeoeooeox
+1
+23	1
+xoooeoexo
+1
+17	1
+oeoeooeoo
+2
+18	4	23	1
+xoooeoeoe
+1
+17	1
+oeoeooexe
+1
+23	1
+xoooeoeox
+1
+17	1
+oeoeooexx
+1
+23	1
+xoooeoeoo
+1
+17	1
+oeoeooexo
+1
+23	1
+xoooeoxee
+1
+17	1
+xoooeoxex
+1
+17	1
+xoooeoxeo
+1
+17	1
+oeoooxxxw
+1
+16	0
+xoooeoxxe
+1
+17	1
+ooeooow
+2
+16	1	18	0
+xoooeoxxx
+1
+17	1
+xoooeoxxo
+1
+17	1
+xoooeoxoe
+1
+17	1
+xoooeoxox
+1
+17	1
+xoooeoxoo
+1
+17	1
+xoooeooex
+2
+17	1	18	2
+xoooeooxx
+2
+17	1	18	2
+xoooeoooe
+3
+16	3	17	1	18	2
+weoeooeoo
+2
+18	4	23	1
+wexxxeexw
+1
+9	0
+oexexxexw
+1
+11	1
+xoooeooox
+3
+16	3	17	1	18	2
+woooeoxee
+1
+17	1
+weoeooeox
+1
+23	1
+xoooeoooo
+3
+16	3	17	1	18	2
+xooooeeee
+1
+15	0
+xooooeeex
+1
+15	0
+wooeooooe
+3
+13	3	16	2	18	1
+xooooeexe
+1
+15	0
+wooeoooxe
+2
+16	2	18	1
+xooooeeoe
+1
+15	0
+wooeoooxx
+2
+16	2	18	1
+xooooeeox
+1
+15	0
+wooeoooxo
+2
+16	2	18	1
+xooooeeoo
+1
+15	0
+xooooexee
+1
+15	0
+oeeexxxex
+1
+5	4
+xooooexex
+1
+15	0
+oeeexxxee
+1
+7	2
+xooooexeo
+1
+15	0
+eeexxexxw
+1
+6	3
+xooooexxe
+1
+15	0
+xooooexxx
+1
+15	0
+xooooexoo
+1
+15	0
+oeooeooxx
+1
+18	2
+xooooeoee
+2
+15	0	17	2
+xooooeoex
+2
+15	0	17	2
+xooooeoeo
+2
+15	0	17	2
+xoooooeex
+1
+12	1
+xoooooexe
+1
+12	1
+xoooooexx
+1
+12	1
+xoooooexo
+1
+12	1
+xoooooeoe
+2
+12	1	17	3
+xoooooeox
+2
+12	1	17	3
+oxoeoooxo
+1
+16	2
+eeoooooew
+1
+12	2
+xoooooeoo
+3
+12	1	17	3	18	4
+oxoeoooxx
+1
+16	2
+xoooooxee
+1
+12	1
+exexxxoew
+1
+4	1
+woxoeoooo
+1
+16	3
+xoooooxex
+1
+12	1
+wexxxxe
+1
+1	1
+wexoxxxxx
+1
+0	4
+weoooeeow
+1
+21	0
+woxoeooox
+1
+16	3
+xoooooxeo
+1
+12	1
+xoooooxxe
+1
+12	1
+xoooooxxx
+1
+12	1
+xoooooxxo
+1
+12	1
+oooeoexxo
+1
+17	0
+oooexxxxw
+1
+2	3
+xoooooxoe
+1
+12	1
+xxxxxooow
+1
+0	0
+exxxxexow
+2
+1	0	5	2
+xoooooxox
+1
+12	1
+oeexoooeo
+1
+17	4
+xexxxxoxw
+2
+2	1	4	0
+oooeoexxe
+1
+17	0
+xoooooxoo
+1
+12	1
+exexxxow
+1
+4	1
+xooooooee
+2
+12	1	12	2
+oxexxxeex
+1
+4	1
+xooooooex
+2
+12	1	12	2
+oxexxxeee
+1
+4	1
+xooooooeo
+3
+12	1	12	2	17	4
+xooooooxx
+2
+12	1	12	2
+ooooooxxx
+2
+12	0	12	1
+eoxxexxxw
+2
+4	3	6	2
+xoooooooe
+3
+12	1	12	2	12	3
+xxxxxxxxw
+4
+0	0	0	1	0	2	0	3
+ooooooxxe
+2
+12	0	12	1
+xooooooox
+3
+12	1	12	2	12	3
+xoooooooo
+4
+12	1	12	2	12	3	12	4
+oeeexexxx
+1
+4	4
+oeeexxexe
+1
+10	3
+oeeexxexx
+1
+6	4
+oeeexxxeo
+1
+8	2
+oeeeooeoe
+1
+22	3
+wooooexw
+1
+15	0
+oeeeoooee
+1
+19	2
+oeeeoooex
+1
+20	2
+oeeeoooeo
+1
+17	4
+woeoooxx
+1
+16	1
+wexxxxoe
+1
+2	1
+woxxxxeox
+1
+3	1
+oeexexxee
+1
+11	2
+weoooooxe
+1
+12	2
+oxexxxow
+1
+4	1
+oexeoooeo
+1
+17	4
+woeoooxe
+1
+16	1
+wexxxxox
+1
+2	1
+woooeooew
+2
+17	1	18	2
+woxxxxeoe
+1
+3	1
+oeexexxex
+1
+11	2
+weoooooxx
+1
+12	2
+wexxxxoo
+1
+2	1
+oeexexxeo
+1
+11	2
+weoooooxo
+1
+12	2
+oexeoooee
+1
+21	2
+oeexexxxe
+1
+4	3
+weoooooee
+1
+12	2
+oeexxexee
+1
+10	2
+oeexxexex
+1
+10	2
+oeexxexeo
+1
+10	2
+oeexxexxe
+1
+6	3
+woooeoxow
+1
+17	1
+oeexxexxx
+2
+4	4	6	3
+oeexxexxo
+1
+6	3
+oeexxxeeo
+1
+7	1
+oeexxxexe
+1
+5	3
+oeexxxxee
+1
+1	2
+wxxexxexo
+1
+6	1
+oeexxxxex
+2
+1	2	5	4
+eeoooeexw
+1
+19	0
+oeexxxxxo
+1
+0	3
+woxxxxxex
+2
+0	2	5	4
+oeexxxxoe
+1
+2	2
+woxxxxxee
+1
+0	2
+woxeoooeo
+1
+17	4
+oeexxxxox
+1
+2	2
+oeexxxxoo
+1
+2	2
+oxxoxxxxe
+1
+3	3
+oeexooeoo
+1
+18	4
+ooeooxeeo
+1
+18	0
+xeexxxexw
+1
+5	3
+oeexooooe
+1
+15	3
+oeexooooo
+1
+12	4
+oeeoeooee
+1
+23	2
+oxxxxxexo
+2
+0	1	5	3
+oeeoeooex
+1
+23	2
+exxxxxow
+1
+0	1
+oeeoeooeo
+1
+23	2
+oxxxxxexe
+2
+0	1	5	3
+wxexxxooo
+1
+4	1
+oeeoeoooe
+1
+16	3
+oeeoeooox
+1
+16	3
+wxexxxooe
+1
+4	1
+oeeoeoooo
+1
+16	3
+xooeooxew
+1
+18	1
+wxxxxeoeo
+1
+3	0
+oeeoxexxx
+1
+4	4
+oeeoxxxxx
+1
+0	4
+oeeooeoee
+1
+22	2
+oxooeooow
+2
+16	3	18	2
+oeeooeoex
+1
+22	2
+oeeooeoeo
+1
+22	2
+oeeooeoox
+1
+18	3
+oeeoooeee
+1
+19	1
+oeeoooeex
+1
+19	1
+oeeoooeeo
+1
+19	1
+wooxoeooo
+1
+16	4
+oeeoooexo
+1
+20	1
+oeeoooeoe
+1
+17	3
+oeeoooeox
+1
+17	3
+oeeoooeoo
+2
+17	3	18	4
+oeeooooex
+1
+13	2
+exxxxew
+1
+1	0
+oeeooooxx
+1
+14	2
+weoooeoeo
+1
+17	2
+oeeoooooe
+1
+12	3
+oeeooooox
+1
+12	3
+oeeoooooo
+2
+12	3	12	4
+oexexexxe
+1
+11	3
+wexxxxxxe
+2
+0	2	0	3
+oexexexxx
+1
+4	4
+wexxxxxxx
+3
+0	2	0	3	0	4
+oexexxeee
+1
+11	1
+wexxxeeee
+1
+9	0
+xoxxxexxw
+2
+5	2	6	3
+oexexxeex
+1
+11	1
+wexxxeeex
+1
+9	0
+eeoeooeew
+1
+23	1
+wxooxexxx
+1
+4	4
+oexexxeeo
+1
+11	1
+wexxxeeeo
+1
+9	0
+oexexxexe
+2
+10	3	11	1
+wexxxeexe
+1
+9	0
+xoooeooow
+3
+16	3	17	1	18	2
+oexexxexx
+2
+6	4	11	1
+wexxxeexx
+1
+9	0
+oexexxexo
+1
+11	1
+wexxxeexo
+1
+9	0
+oexexxeox
+1
+11	1
+wexxxeeox
+1
+9	0
+oexeooooe
+1
+13	3
+oexeoooox
+1
+14	3
+oexeooooo
+1
+12	4
+wxexexxxe
+1
+4	3
+oexxexeee
+1
+10	1
+wxexexxxx
+1
+4	3
+oexxexeex
+1
+10	1
+wxexexxxo
+1
+4	3
+oexxexeeo
+1
+10	1
+oexxexexe
+1
+10	1
+wxexexxee
+1
+11	2
+oexxexexx
+1
+10	1
+wxexexxex
+1
+11	2
+wxexexxeo
+1
+11	2
+oexxexexo
+1
+10	1
+oexxexeoe
+1
+10	1
+eexxxeeew
+1
+7	0
+oexxexeox
+1
+10	1
+oexxexeoo
+1
+10	1
+wexooeoo
+1
+18	3
+oexxexxee
+1
+6	2
+oexxxxxow
+1
+0	2
+oexxexxex
+1
+6	2
+oexxexxeo
+1
+6	2
+oexxexxxe
+2
+4	3	6	2
+oexxexxxx
+2
+4	3	6	2
+oexxexxxo
+2
+4	3	6	2
+oexxexxox
+1
+6	2
+oexxxexex
+1
+5	2
+oeooow
+1
+16	0
+xoxxexxow
+1
+6	2
+wxoeoeooo
+1
+16	4
+oexxxexxe
+2
+5	2	6	3
+oexxxexxx
+3
+4	4	5	2	6	3
+wxoeoeooe
+1
+23	3
+oexxxexxo
+2
+5	2	6	3
+oexxxexoo
+1
+5	2
+weexxxeox
+1
+8	1
+ooeooexox
+1
+18	0
+oexxxxeee
+1
+1	1
+weoeooow
+1
+16	2
+ooeooexoe
+1
+18	0
+xooeooeew
+1
+18	1
+oexxxxeex
+1
+1	1
+oooeoxxew
+1
+17	0
+oexxxxexx
+3
+1	1	5	3	6	4
+oexxxxeoe
+1
+1	1
+xexxxxw
+2
+2	1	4	0
+oexxxxeox
+1
+1	1
+eooeooxow
+1
+18	1
+oexxxxeoo
+1
+1	1
+oexxxxxee
+1
+0	2
+oexxxxxex
+2
+0	2	5	4
+oexxxxxeo
+1
+0	2
+oexxxxxxe
+2
+0	2	0	3
+oexxxxxxx
+3
+0	2	0	3	0	4
+ooooeooxo
+2
+17	1	18	2
+oexxxxxxo
+2
+0	2	0	3
+ooooeooxx
+2
+17	1	18	2
+weeooeoo
+1
+18	3
+oexxxxxoe
+1
+0	2
+oexxexxew
+1
+6	2
+oexxxxxox
+1
+0	2
+weeooeoe
+1
+22	2
+oexxxxxoo
+1
+0	2
+oexxxxoee
+1
+2	1
+oexxxxoex
+1
+2	1
+ooxxxxxoo
+1
+0	2
+xxxexooow
+1
+5	0
+oexxxxoeo
+1
+2	1
+ooxxxxxox
+1
+0	2
+oexxxxoxe
+1
+2	1
+oexxxxoxx
+1
+2	1
+oxeexxxew
+1
+8	2
+oexxxxooo
+1
+2	1
+oexxoeooo
+1
+16	4
+oexxooooo
+1
+12	4
+oexxxeeew
+1
+9	0
+oxoxxxexo
+1
+5	3
+oxoooeoxx
+1
+17	2
+xeeooooew
+1
+13	2
+oexoeoooe
+1
+16	3
+oexooeooe
+1
+18	3
+oexooeoox
+1
+18	3
+eeoooeow
+1
+17	2
+oexooeooo
+2
+16	4	18	3
+oxoexxxex
+1
+5	4
+woexexxew
+1
+11	2
+oexoooeoe
+1
+17	3
+woeeooooo
+1
+12	4
+oexoooeox
+1
+17	3
+woeeoooox
+1
+14	3
+oexoooeoo
+2
+17	3	18	4
+oexooooee
+1
+15	2
+oexooooex
+1
+15	2
+oexooooeo
+2
+15	2	17	4
+oexoooooe
+1
+12	3
+oexooooox
+1
+12	3
+exxexexxw
+1
+10	0
+oexoooooo
+2
+12	3	12	4
+eexexxeow
+1
+11	1
+oeoexexxx
+1
+4	4
+oeoexxxxe
+1
+1	3
+oeoexxxxx
+1
+0	4
+oeoexxxxo
+1
+2	3
+oeoeooeee
+1
+23	1
+oooeoxooo
+1
+17	0
+oeoeooeex
+1
+23	1
+oooeoxoox
+1
+17	0
+oeoeooeeo
+1
+23	1
+oxxexxxxo
+3
+2	3	4	2	6	1
+woexxxxxx
+2
+0	3	0	4
+oeoeoooee
+1
+16	2
+woexxxxxe
+1
+0	3
+oeoeoooex
+1
+16	2
+wxxexxex
+1
+6	1
+oxxexxxxe
+3
+1	3	4	2	6	1
+xoxoeooow
+1
+16	3
+oeoeoooeo
+2
+16	2	17	4
+oeoeoooxx
+1
+16	2
+oeoeooooe
+2
+13	3	16	2
+oxexxxxoo
+2
+2	2	4	1
+oeoeoooox
+2
+14	3	16	2
+oxexxxxox
+2
+2	2	4	1
+eoooooeow
+2
+12	1	17	3
+oeoeooooo
+2
+12	4	16	2
+eeooeooew
+1
+18	2
+oeoxexxxe
+1
+4	3
+oeoxexxxx
+1
+4	3
+oeoxexxxo
+1
+4	3
+oexxxexew
+1
+5	2
+oeoxxxexe
+1
+5	3
+oeoxxxexx
+2
+5	3	6	4
+oeoxxxexo
+1
+5	3
+eooooxxew
+1
+14	0
+oeoxxxxeo
+1
+3	2
+eeoeooeow
+1
+23	1
+eoexxxexw
+1
+5	3
+oeoxxxxxe
+1
+0	3
+wxxxxx
+1
+0	1
+exoeoooxw
+1
+16	2
+oeoxxxxxx
+2
+0	3	0	4
+oeoxxxxxo
+1
+0	3
+oeoxooooe
+1
+15	3
+oeoxooooo
+1
+12	4
+oxexxxoeo
+1
+4	1
+oeooeoeee
+1
+22	1
+oxeeoooex
+1
+20	2
+oeooeoeoe
+1
+22	1
+xxxxexeow
+1
+5	1
+oxeeoooee
+1
+19	2
+oeooeoeox
+1
+22	1
+oeooeoeoo
+1
+22	1
+oeooxexxx
+1
+4	4
+oeooxxexx
+1
+6	4
+ooooeoooe
+3
+16	3	17	1	18	2
+oeooxxxxe
+1
+3	3
+wxxxexxew
+2
+5	1	6	2
+oeooxxxxx
+1
+0	4
+wexxexeox
+1
+10	1
+oeoooeeee
+1
+16	0
+ooeooxooo
+1
+18	0
+wexxexeoe
+1
+10	1
+xeooooxw
+1
+14	1
+oeoooeeex
+1
+16	0
+ooeooxoox
+1
+18	0
+oeoooeeeo
+1
+16	0
+oeoooeexe
+1
+16	0
+oeoooeeoe
+1
+16	0
+oeoooexee
+1
+16	0
+eeeeoooew
+1
+20	2
+oeoooexex
+1
+16	0
+ooooeoooo
+3
+16	3	17	1	18	2
+oeoooexeo
+1
+16	0
+ooooeooox
+3
+16	3	17	1	18	2
+oeoooexxe
+1
+16	0
+oeoooexxx
+1
+16	0
+oeoooexxo
+1
+16	0
+eeoooooxw
+1
+12	2
+oeoooexoe
+1
+16	0
+oeoooexox
+1
+16	0
+oeoooexoo
+1
+16	0
+ooxxexxew
+1
+6	2
+oeoooeoee
+2
+16	0	17	2
+oxexxxexx
+3
+4	1	5	3	6	4
+wooooeew
+1
+15	0
+oxoxexxxw
+1
+4	3
+oeoooeoex
+2
+16	0	17	2
+oxexxxexe
+2
+4	1	5	3
+oeoooeoeo
+2
+16	0	17	2
+weooooew
+1
+13	1
+oeoooeoxo
+2
+16	0	17	2
+oeoooeoox
+3
+16	0	17	2	18	3
+oeoooxeex
+1
+16	0
+wxexxxo
+1
+4	1
+oxexxxxxo
+2
+0	3	4	1
+oeoooxexe
+1
+16	0
+oeoooxexx
+1
+16	0
+wxexxxe
+1
+4	1
+wooeoooew
+2
+16	2	18	1
+oxexxxxxe
+2
+0	3	4	1
+oeoooxexo
+1
+16	0
+oeoooxeoo
+1
+16	0
+oeoooxxee
+1
+16	0
+oeoooxxex
+1
+16	0
+oeoooxxeo
+1
+16	0
+exxexexew
+1
+10	0
+wexexxex
+1
+11	1
+oxoexexxx
+1
+4	4
+xoooeoxxw
+1
+17	1
+oeoooxxxe
+1
+16	0
+wexexxee
+1
+11	1
+oxoexexxe
+1
+11	3
+oeoooxxxx
+1
+16	0
+oeoooxxox
+1
+16	0
+oeooeoew
+1
+22	1
+oeoooxoee
+1
+16	0
+oxoeoeooe
+1
+23	3
+ooeooeexo
+1
+18	0
+xxxxxoow
+1
+0	0
+exxxxexw
+2
+1	0	5	2
+oxxexxooe
+1
+6	1
+wxooeooo
+2
+16	3	18	2
+oeoooxoxe
+1
+16	0
+eooeooow
+2
+16	2	18	1
+oxxexxoox
+1
+6	1
+oeoooxoxx
+1
+16	0
+oxxexxooo
+1
+6	1
+wxooeooe
+1
+18	2
+oeoooxoxo
+1
+16	0
+oxxexxoxe
+1
+6	1
+oeoooxooe
+1
+16	0
+oxeeoeooe
+1
+23	3
+oxxexxoxx
+1
+6	1
+oeoooxoox
+1
+16	0
+oxxexxoxo
+1
+6	1
+oeoooxooo
+1
+16	0
+oxeeoeooo
+1
+16	4
+xeoeooexw
+1
+23	1
+oeooooeee
+2
+13	1	16	0
+oxxxexoxo
+1
+5	1
+oeooooeex
+2
+13	1	16	0
+oxxxexoxx
+1
+5	1
+oeooooeeo
+2
+13	1	16	0
+ooxeoeooo
+1
+16	4
+weeooooe
+1
+13	2
+oeooooexe
+2
+13	1	16	0
+weeoooox
+1
+14	2
+oeooooexx
+2
+13	1	16	0
+ooxeoeooe
+1
+23	3
+weeooooo
+1
+12	3
+oeooooexo
+2
+13	1	16	0
+wxeexxxee
+1
+7	2
+oeooooeoo
+4
+13	1	16	0	17	3	18	4
+exoooeoxw
+1
+17	2
+ooexxxxxo
+1
+0	3
+oooooxeee
+1
+12	0
+xxexxoxew
+1
+6	0
+oeooooxeo
+2
+14	1	16	0
+ooexxxxeo
+1
+1	2
+oeooooxxo
+2
+14	1	16	0
+oeooooxoe
+2
+14	1	16	0
+oeoooooee
+2
+12	2	16	0
+wexxooeoo
+1
+18	4
+wxxxexeo
+1
+5	1
+oeoooooex
+2
+12	2	16	0
+eoeeoooew
+1
+20	2
+wxxxexex
+1
+5	1
+oeoooooeo
+3
+12	2	16	0	17	4
+oeoooooxe
+2
+12	2	16	0
+wexxooooo
+1
+12	4
+oeoooooxx
+2
+12	2	16	0
+wxeexxexx
+1
+6	4
+oeoooooxo
+2
+12	2	16	0
+oeooooooe
+3
+12	2	12	3	16	0
+oeoooooox
+3
+12	2	12	3	16	0
+oeooooooo
+4
+12	2	12	3	12	4	16	0
+oexxxxoow
+1
+2	1
+oxeexxxeo
+1
+8	2
+oxeexxxxe
+1
+1	3
+oxeexxxxx
+1
+0	4
+ooeooeoeo
+2
+18	0	22	2
+eeooooeow
+2
+13	1	17	3
+oxeexxxxo
+1
+2	3
+ooeooeoex
+2
+18	0	22	2
+weooooxoe
+1
+14	1
+oxeeooeoo
+1
+18	4
+oxeeoooox
+1
+14	3
+wxxxxxe
+1
+0	1
+oxexexxxe
+1
+4	3
+ooeooeoxo
+1
+18	0
+xxoexxxxw
+1
+2	3
+oxexxxeeo
+1
+4	1
+oxexxxexo
+2
+4	1	5	3
+oxexxxxee
+2
+1	2	4	1
+oxexxxxex
+3
+1	2	4	1	5	4
+oxexxxxeo
+2
+1	2	4	1
+wxexxxx
+1
+4	1
+oxexxxxxx
+3
+0	3	0	4	4	1
+oxexxxxoe
+2
+2	2	4	1
+exxooeoow
+1
+18	3
+oxexxxoxx
+1
+4	1
+oxexxxoxo
+1
+4	1
+oxexoeooo
+1
+16	4
+wexexxexe
+2
+10	3	11	1
+oxexooeoo
+1
+18	4
+wexxexxow
+1
+6	2
+oxexoooeo
+1
+17	4
+oxexooooe
+1
+15	3
+oxexooooo
+1
+12	4
+wexxxxeee
+1
+1	1
+oxeoeooex
+1
+23	2
+oxeoeoooe
+1
+16	3
+wxoooeoxo
+1
+17	2
+oxeoeooox
+1
+16	3
+xexexxeew
+1
+11	1
+wxxxxxxe
+2
+0	1	0	2
+oxeoxxexx
+1
+6	4
+oxeoxxxex
+1
+5	4
+wexooeooo
+2
+16	4	18	3
+oxeoxxxxe
+1
+3	3
+oxeoxxxxx
+1
+0	4
+oexxxeeow
+1
+9	0
+oxoexxxxo
+1
+2	3
+xeeooooow
+1
+12	3
+wxooooo
+1
+12	2
+oxeooooee
+1
+13	2
+xxooooeew
+1
+15	1
+oxeooooex
+1
+13	2
+wxooooe
+1
+15	1
+oxeooooeo
+2
+13	2	17	4
+exexxeoow
+1
+11	0
+oxoexxxxe
+1
+1	3
+oxeooooxe
+1
+14	2
+oxeooooxx
+1
+14	2
+oxeooooxo
+1
+14	2
+oxeoooooe
+1
+12	3
+ooeooxxex
+1
+18	0
+wxxxxxxxx
+4
+0	1	0	2	0	3	0	4
+xeexexxew
+1
+11	2
+oxeooooox
+1
+12	3
+ooeooxxee
+1
+18	0
+oxeoooooo
+2
+12	3	12	4
+oxxexexxe
+1
+11	3
+oxxexexxx
+1
+4	4
+oxxexxexe
+2
+6	1	10	3
+oxxexxexx
+2
+6	1	6	4
+oxxexxexo
+1
+6	1
+oxxexxeoo
+1
+6	1
+oxxexxxee
+2
+4	2	6	1
+oxxexxxex
+3
+4	2	5	4	6	1
+oxxexxxeo
+2
+4	2	6	1
+wxxexxee
+1
+6	1
+oxxexxxxx
+3
+0	4	4	2	6	1
+oxxexxoee
+1
+6	1
+eexxxxxxw
+2
+0	2	0	3
+oxxxxxoox
+1
+0	1
+oxxxxxooe
+1
+0	1
+oxxexxoex
+1
+6	1
+oxxexxoeo
+1
+6	1
+oxxeoeooe
+1
+23	3
+oxxeoeooo
+1
+16	4
+oxxeoooee
+1
+21	2
+oxxxexeeo
+1
+5	1
+oxxxexexe
+1
+5	1
+weoooeoxo
+1
+17	2
+oxxxexexx
+1
+5	1
+oxxxexexo
+1
+5	1
+weoooeoxe
+1
+17	2
+exeeoooow
+1
+14	3
+oxxxexeoe
+1
+5	1
+exxxxooew
+1
+2	0
+oxxxexeox
+1
+5	1
+oxxxexeoo
+1
+5	1
+ooeooeexw
+1
+18	0
+oxxxexxee
+2
+5	1	6	2
+oexxxeexw
+1
+9	0
+oxxxexxex
+2
+5	1	6	2
+xeeooooxw
+1
+14	2
+woxoxxxxe
+1
+3	3
+oeoooxoew
+1
+16	0
+oxxxexxeo
+2
+5	1	6	2
+oxxxexxxe
+3
+4	3	5	1	6	2
+oxxxexxxx
+3
+4	3	5	1	6	2
+exxxxoexw
+1
+2	0
+oxxxexxxo
+3
+4	3	5	1	6	2
+oxxxexxoe
+2
+5	1	6	2
+oeexxxexw
+1
+5	3
+oxxxexxox
+2
+5	1	6	2
+xoeoooxxw
+1
+16	1
+oxxxexxoo
+2
+5	1	6	2
+oxxxexoee
+1
+5	1
+exxxxoeow
+1
+2	0
+oxxxexoex
+1
+5	1
+exexxeoew
+1
+11	0
+oxxxexoxe
+1
+5	1
+oxxxexooe
+1
+5	1
+oxxxexoox
+1
+5	1
+oxxxexooo
+1
+5	1
+oxxxxeeee
+1
+3	0
+oxooooexe
+1
+15	1
+oxxxxeeex
+1
+3	0
+oxooooexx
+1
+15	1
+eoeooooew
+2
+13	2	16	1
+oxxxxeeeo
+1
+3	0
+oxooooexo
+1
+15	1
+woexexxxx
+1
+4	3
+oxxxxeexo
+1
+3	0
+oxooooeeo
+1
+15	1
+oxxxxeeoe
+1
+3	0
+oxxxxeeox
+1
+3	0
+oxxxxeeoo
+1
+3	0
+oooeoeeox
+1
+17	0
+oxxxxexee
+2
+3	0	5	2
+oooeoeeoe
+1
+17	0
+oxxxxexex
+2
+3	0	5	2
+oxxxxexeo
+2
+3	0	5	2
+oxxxxexxe
+3
+3	0	5	2	6	3
+oooxxxxeo
+1
+3	2
+ooexxexew
+1
+10	2
+oxxxxexxx
+4
+3	0	4	4	5	2	6	3
+oxxxxexxo
+3
+3	0	5	2	6	3
+oooxxxxee
+1
+3	2
+oxxxxeoee
+1
+3	0
+ooooeoxow
+1
+17	1
+oxxxxeoxe
+1
+3	0
+oxxxxeoxx
+1
+3	0
+wxoooeoow
+2
+17	2	18	3
+wooexxxee
+1
+9	2
+oxxxxeoxo
+1
+3	0
+oxxxxeooe
+1
+3	0
+oxoeoooox
+2
+14	3	16	2
+wexxxxxex
+2
+0	2	5	4
+oxxxxxexx
+3
+0	1	5	3	6	4
+oxxxxxxee
+2
+0	1	0	2
+eoxooeoow
+1
+18	3
+oxxxxxxex
+3
+0	1	0	2	5	4
+oxxxxxxeo
+2
+0	1	0	2
+oxxxxxxxe
+3
+0	1	0	2	0	3
+oxxxxxxxx
+4
+0	1	0	2	0	3	0	4
+oxxxxxxxo
+3
+0	1	0	2	0	3
+woxexxxxo
+2
+2	3	4	2
+oxxxxxxox
+2
+0	1	0	2
+wxxexxxe
+2
+4	2	6	1
+oxxxxxoex
+1
+0	1
+oxxxxxoxx
+1
+0	1
+oxxxxxooo
+1
+0	1
+eexexxxxw
+2
+2	3	4	2
+wxexxxee
+1
+4	1
+oxxxoeooo
+1
+16	4
+oxxxooeoo
+1
+18	4
+exxxexexw
+1
+5	1
+oxxxoooeo
+1
+17	4
+wexxxxxx
+2
+0	2	0	3
+oxxxooooe
+1
+15	3
+weoooooox
+2
+12	2	12	3
+oxxxooooo
+1
+12	4
+oxxoeoooe
+1
+16	3
+oxxoeooox
+1
+16	3
+oxxoeoooo
+1
+16	3
+oxxoxexxx
+1
+4	4
+oxxoxxxex
+1
+5	4
+woxxxxxeo
+1
+0	2
+woxeoooee
+1
+21	2
+oxxoxxxxx
+1
+0	4
+oxxooeooe
+1
+18	3
+oxxooeoox
+1
+18	3
+oxxooeooo
+2
+16	4	18	3
+eooexxxxw
+1
+2	3
+oxxoooeoe
+1
+17	3
+oxxoooeox
+1
+17	3
+oxxoooeoo
+2
+17	3	18	4
+xexxxooew
+1
+4	0
+oxxooooee
+1
+15	2
+oxxooooex
+1
+15	2
+oxxooooeo
+2
+15	2	17	4
+exeexxxew
+1
+8	2
+oxxoooooe
+1
+12	3
+eeeooooew
+1
+13	2
+oxxoooooo
+2
+12	3	12	4
+oooeooeoo
+3
+17	0	18	1	18	4
+eooxxexxw
+1
+6	3
+oxoexxexe
+1
+10	3
+oxoexxexx
+1
+6	4
+oxoexxxee
+1
+9	2
+oxoexxxxx
+1
+0	4
+weexxexx
+1
+6	3
+oxoeooeoe
+1
+22	3
+exoooeoew
+1
+17	2
+wexooooeo
+2
+15	2	17	4
+oxoeoooee
+1
+16	2
+wexxxxxoe
+1
+0	2
+oxoeoooex
+1
+16	2
+wexxxxxox
+1
+0	2
+wexooooee
+1
+15	2
+wooxexxx
+1
+4	3
+oxoeoooeo
+2
+16	2	17	4
+wexxxxxoo
+1
+0	2
+oxoeoooxe
+1
+16	2
+oxoxxexxe
+1
+6	3
+oooooexee
+1
+12	0
+oxoxxxxee
+1
+3	2
+wexxexxxo
+2
+4	3	6	2
+wxexooooe
+1
+15	3
+oxoxxxxex
+2
+3	2	5	4
+oxoxxxxeo
+1
+3	2
+wexxexxxe
+2
+4	3	6	2
+wxexxxxxw
+2
+0	3	4	1
+oxoxxxxxe
+1
+0	3
+oxoxoooeo
+1
+17	4
+wooeooxox
+1
+18	1
+oxoxooooe
+1
+15	3
+xooooew
+1
+15	0
+oxooeooee
+1
+18	2
+ooxxxxeoe
+1
+3	1
+oxooeooxe
+1
+18	2
+ooxxxxexe
+2
+3	1	5	3
+woxexxxo
+1
+4	2
+oxooeoooe
+2
+16	3	18	2
+ooxxxxexx
+3
+3	1	5	3	6	4
+oeeooeoew
+1
+22	2
+oxooeooox
+2
+16	3	18	2
+ooxxxxexo
+2
+3	1	5	3
+woxexxxe
+1
+4	2
+oxooeoooo
+2
+16	3	18	2
+ooxoooeoe
+1
+17	3
+oxooxxexx
+1
+6	4
+oxooxxxex
+1
+5	4
+oxooxxxxe
+1
+3	3
+oxooxxxxx
+1
+0	4
+oxoooeoee
+1
+17	2
+oxoooeoex
+1
+17	2
+oxoooeoeo
+1
+17	2
+oxoooeooe
+2
+17	2	18	3
+oxoooeoox
+2
+17	2	18	3
+oxoooeooo
+3
+16	4	17	2	18	3
+wxxxxxeew
+1
+0	1
+oxooooeoe
+2
+15	1	17	3
+oxooooooe
+2
+12	2	12	3
+ooxxxexxe
+2
+5	2	6	3
+oxooooooo
+3
+12	2	12	3	12	4
+ooxxxexxo
+2
+5	2	6	3
+ooeexexxe
+1
+11	3
+ooeexxexe
+1
+10	3
+ooeexxexx
+1
+6	4
+oeoeooow
+1
+16	2
+woeoeooex
+1
+23	2
+ooeexxxee
+1
+7	2
+woeoeooee
+1
+23	2
+ooeexxxex
+1
+5	4
+ooeexxxeo
+1
+8	2
+ooeexxxxe
+1
+1	3
+ooeexxxxx
+1
+0	4
+xeeoooexw
+1
+20	1
+ooeexxxxo
+1
+2	3
+ooeeooeoe
+1
+22	3
+ooeeooeoo
+1
+18	4
+ooxxoeooo
+1
+16	4
+ooeeoooee
+1
+19	2
+ooeeoooex
+1
+20	2
+ooeeoooeo
+1
+17	4
+ooeeooooe
+1
+13	3
+oooeoxoex
+1
+17	0
+ooeeoooox
+1
+14	3
+oooeoxoee
+1
+17	0
+ooeeooooo
+1
+12	4
+eooooeoew
+2
+13	0	17	2
+ooexexxex
+1
+11	2
+ooexexxxe
+1
+4	3
+xeeooeoow
+1
+18	3
+ooexexxxx
+1
+4	3
+ooexexxxo
+1
+4	3
+ooexxexee
+1
+10	2
+weoexexxe
+1
+11	3
+oxxxxexxw
+3
+3	0	5	2	6	3
+ooexxexex
+1
+10	2
+weoexexxx
+1
+4	4
+ooexxexeo
+1
+10	2
+oooooexw
+1
+12	0
+xxeooeoow
+1
+18	3
+ooexxexxe
+1
+6	3
+ooexxexxo
+1
+6	3
+ooexxxeee
+1
+9	1
+ooexxxeex
+1
+9	1
+ooexxxeeo
+1
+9	1
+woxexxxoo
+1
+4	2
+ooexxxexe
+1
+5	3
+woxxxxxxw
+2
+0	2	0	3
+woxexxxoe
+1
+4	2
+ooexxxexo
+1
+5	3
+ooeoeooeo
+1
+23	2
+ooeoeooox
+1
+16	3
+ooeoeoooo
+1
+16	3
+ooeooeeex
+1
+18	0
+xeeoooeew
+1
+19	1
+ooeooeeox
+1
+18	0
+ooeooeeoo
+1
+18	0
+ooeooeoee
+2
+18	0	22	2
+ooeooeooe
+2
+18	0	18	3
+ooeooeoox
+2
+18	0	18	3
+ooeooxeee
+1
+18	0
+ooeooxeoe
+1
+18	0
+eeexxxxxw
+1
+0	3
+ooeooxeoo
+1
+18	0
+ooeooxxeo
+1
+18	0
+ooeooxxxe
+1
+18	0
+ooeooxxxo
+1
+18	0
+ooeooxxoe
+1
+18	0
+ooeooxxoo
+1
+18	0
+ooeooxoee
+1
+18	0
+ooeooxoex
+1
+18	0
+ooeooxoeo
+1
+18	0
+ooeooxoxx
+1
+18	0
+ooeooxooe
+1
+18	0
+wexxexeoo
+1
+10	1
+ooxexexxe
+1
+11	3
+ooxexexxx
+1
+4	4
+ooxexxxxe
+2
+1	3	4	2
+ooxexxxxx
+2
+0	4	4	2
+ooxexxxxo
+2
+2	3	4	2
+ooxeooeoe
+1
+22	3
+ooxeooeoo
+1
+18	4
+xexxexxow
+1
+6	2
+ooxeooooe
+1
+13	3
+ooxeoooox
+1
+14	3
+woxeoooow
+1
+14	3
+ooxeooooo
+1
+12	4
+wxoeoooeo
+2
+16	2	17	4
+xeeexxxxw
+1
+2	3
+ooxxexxxe
+2
+4	3	6	2
+woooeox
+1
+17	1
+ooxxexxxo
+2
+4	3	6	2
+wxeoeooox
+1
+16	3
+ooxxxxeee
+1
+3	1
+wxeoeoooe
+1
+16	3
+ooxxxxeex
+1
+3	1
+ooxxxxeeo
+1
+3	1
+ooxxxxxee
+1
+0	2
+oxxexxxw
+2
+4	2	6	1
+ooxxxxxex
+2
+0	2	5	4
+ooxxxxxeo
+1
+0	2
+ooxxxxxxe
+2
+0	2	0	3
+exxexxxew
+2
+4	2	6	1
+ooxxxxxoe
+1
+0	2
+ooxxooeoo
+1
+18	4
+ooxoxxxex
+1
+5	4
+ooxoxxxxx
+1
+0	4
+ooxooeooe
+1
+18	3
+ooxooeoox
+1
+18	3
+ooxooeooo
+2
+16	4	18	3
+xxxxxoxew
+1
+0	0
+eeoxxxxew
+1
+3	2
+exxxxeoew
+1
+1	0
+eoexxexxw
+1
+6	3
+ooxoooeox
+1
+17	3
+ooxoooeoo
+2
+17	3	18	4
+ooxooooee
+1
+15	2
+woeooeoeo
+1
+22	2
+ooxooooex
+1
+15	2
+woeooeoex
+1
+22	2
+ooxooooeo
+2
+15	2	17	4
+ooxoooooe
+1
+12	3
+ooxooooox
+1
+12	3
+ooxoooooo
+2
+12	3	12	4
+oooexxxee
+1
+9	2
+oooxoooeo
+1
+17	4
+oooexxxex
+1
+5	4
+oooeoeeee
+1
+17	0
+oooeoeeeo
+1
+17	0
+oexxxxoxw
+1
+2	1
+oooeoeexo
+1
+17	0
+oooeoeeoo
+1
+17	0
+weoooeeo
+1
+21	0
+oooeoexee
+1
+17	0
+oooeoexex
+1
+17	0
+weoooeee
+1
+21	0
+oooeoexeo
+1
+17	0
+oooeoexxx
+1
+17	0
+oooeoeooe
+2
+17	0	23	3
+oooeoeoox
+1
+17	0
+oooeoeooo
+2
+16	4	17	0
+oooeoxeee
+1
+17	0
+wxexxxxw
+2
+2	2	4	1
+oooeoxeex
+1
+17	0
+oooeoxeeo
+1
+17	0
+oooeoxexe
+1
+17	0
+oooeoxeoe
+1
+17	0
+oooeoxeox
+1
+17	0
+oooeoxeoo
+1
+17	0
+oooeoxxee
+1
+17	0
+oexxxxexw
+2
+1	1	5	3
+oooeoxxex
+1
+17	0
+oooeoxxeo
+1
+17	0
+ooooxxexx
+1
+6	4
+oooeoxoeo
+1
+17	0
+oooeoxoxx
+1
+17	0
+oooeoxooe
+1
+17	0
+oooeooeee
+2
+17	0	18	1
+oooeooeex
+2
+17	0	18	1
+oooeooeeo
+2
+17	0	18	1
+oooeooexo
+2
+17	0	18	1
+oooeooeoe
+3
+17	0	18	1	22	3
+exexxeexw
+1
+11	0
+ooeoooxew
+2
+16	1	18	0
+eoeooeoxw
+1
+23	0
+oooeooeox
+2
+17	0	18	1
+xxexxeow
+1
+6	0
+oooeooxee
+2
+17	0	18	1
+oooeooxex
+2
+17	0	18	1
+oooeooxeo
+2
+17	0	18	1
+oooeooxxe
+2
+17	0	18	1
+oooeooxxx
+2
+17	0	18	1
+oooeooxxo
+2
+17	0	18	1
+oooeooxoe
+2
+17	0	18	1
+oooeooxox
+2
+17	0	18	1
+xeoooeeow
+1
+21	0
+oooeooxoo
+2
+17	0	18	1
+oooeoooxe
+3
+16	2	17	0	18	1
+oooeoooxx
+3
+16	2	17	0	18	1
+xeeeoooew
+1
+20	2
+oooeoooxo
+3
+16	2	17	0	18	1
+oooeooooe
+4
+13	3	16	2	17	0	18	1
+oooeoooox
+4
+14	3	16	2	17	0	18	1
+oooeooooo
+4
+12	4	16	2	17	0	18	1
+oooxexxxe
+1
+4	3
+oooxexxxx
+1
+4	3
+wooxexxxw
+1
+4	3
+oooxexxxo
+1
+4	3
+oooxxexxe
+1
+6	3
+oooxxxexe
+1
+5	3
+oooxxxexx
+2
+5	3	6	4
+oooxxxexo
+1
+5	3
+oooxxxxex
+2
+3	2	5	4
+oooxxxxxo
+1
+0	3
+eoxexxxw
+1
+4	2
+oooxooooe
+1
+15	3
+oooxooooo
+1
+12	4
+ooooeoeee
+1
+17	1
+eeeexxxxw
+1
+2	3
+ooooeoeex
+1
+17	1
+eeoooow
+1
+14	1
+ooooeoeeo
+1
+17	1
+ooooeoexe
+1
+17	1
+ooooeoexx
+1
+17	1
+ooooeoexo
+1
+17	1
+ooooeoeoe
+1
+17	1
+ooooeoeox
+1
+17	1
+ooooeoeoo
+1
+17	1
+ooooeoxxe
+1
+17	1
+ooooeoxxx
+1
+17	1
+ooooeoxxo
+1
+17	1
+oxxxxeoxw
+1
+3	0
+wxoooeooo
+3
+16	4	17	2	18	3
+ooooeoxoe
+1
+17	1
+ooooeoxox
+1
+17	1
+wxoooeooe
+2
+17	2	18	3
+ooooeoxoo
+1
+17	1
+ooooeooeo
+2
+17	1	18	2
+ooooeooxe
+2
+17	1	18	2
+ooooxexxx
+1
+4	4
+wxeoooeoe
+1
+17	3
+ooooxxxxx
+1
+0	4
+oooooeexe
+1
+12	0
+oooooeexx
+1
+12	0
+weooooexw
+1
+13	1
+oooooeexo
+1
+12	0
+oooooeeoe
+1
+12	0
+wxxxxxexo
+2
+0	1	5	3
+oooooexxe
+1
+12	0
+wooxooooe
+1
+15	3
+xxxooooew
+1
+15	2
+oooooexxx
+1
+12	0
+wxxxxxexe
+2
+0	1	5	3
+oooooexxo
+1
+12	0
+oooooeoex
+2
+12	0	17	2
+oooooeoxe
+2
+12	0	17	2
+oooooxeex
+1
+12	0
+weoeoooxo
+1
+16	2
+oooooxexx
+1
+12	0
+oooooxeoe
+1
+12	0
+oooooxeox
+1
+12	0
+wxeoooeew
+1
+21	1
+oooooxeoo
+1
+12	0
+oooooxxee
+1
+12	0
+oooooxxex
+1
+12	0
+xexxxoxw
+1
+4	0
+oooooxxeo
+1
+12	0
+oooooxxxe
+1
+12	0
+oooooxxxx
+1
+12	0
+oooooxxxo
+1
+12	0
+oooooxxoe
+1
+12	0
+oooooxxox
+1
+12	0
+oooooxxoo
+1
+12	0
+oooooxoee
+1
+12	0
+oooooxoeo
+1
+12	0
+oooooxoxe
+1
+12	0
+oooooxoxx
+1
+12	0
+oooooxoxo
+1
+12	0
+oooooxooe
+1
+12	0
+oooooxoox
+1
+12	0
+oooooxooo
+1
+12	0
+ooooooeee
+2
+12	0	12	1
+xxxxxooew
+1
+0	0
+exxxxexew
+2
+1	0	5	2
+eooeoooxw
+2
+16	2	18	1
+wxoooeo
+1
+17	2
+ooooooexe
+2
+12	0	12	1
+ooooooeoe
+3
+12	0	12	1	17	3
+eoeooeew
+1
+23	0
+ooooooeox
+3
+12	0	12	1	17	3
+xxexxeeow
+1
+6	0
+xeoooeoxw
+1
+17	2
+ooooooeoo
+4
+12	0	12	1	17	3	18	4
+ooooooxee
+2
+12	0	12	1
+xxxxexxew
+2
+5	1	6	2
+ooooooxex
+2
+12	0	12	1
+ooooooxeo
+2
+12	0	12	1
+ooooooxxo
+2
+12	0	12	1
+wxooooexe
+1
+15	1
+ooooooxox
+2
+12	0	12	1
+wooeoooow
+3
+14	3	16	2	18	1
+xooooeexw
+1
+15	0
+oooooooeo
+4
+12	0	12	1	12	2	17	4
+eooeooexw
+1
+18	1
+oooooooxe
+3
+12	0	12	1	12	2
+oooooooxx
+3
+12	0	12	1	12	2
+oooooooxo
+3
+12	0	12	1	12	2
+oooooooox
+4
+12	0	12	1	12	2	12	3
+eeeexxxew
+1
+8	2
+eeeeoooow
+1
+14	3
+eeexexxxw
+1
+4	3
+woooooooe
+3
+12	1	12	2	12	3
+woeoxxxex
+1
+5	4
+eeexxxexw
+1
+5	3
+eeexxxxew
+1
+1	2
+weeexxxxx
+1
+0	4
+eeexxxxow
+1
+2	2
+weeeoeooe
+1
+23	3
+weeeoeooo
+1
+16	4
+eeeoeooow
+1
+16	3
+weeeooeoe
+1
+22	3
+weeeooeoo
+1
+18	4
+eeeooeoow
+1
+18	3
+woeeooooe
+1
+13	3
+eeeoooeew
+1
+19	1
+exxxexoow
+1
+5	1
+wxxoooeo
+1
+17	3
+eeeoooexw
+1
+20	1
+weeeooooe
+1
+13	3
+wxxxxxoeo
+1
+0	1
+exeexxxxw
+1
+2	3
+wxexxxeex
+1
+4	1
+eeeooooxw
+1
+14	2
+eeeooooow
+1
+12	3
+oeeoooow
+1
+14	2
+weexexxee
+1
+11	2
+weexexxex
+1
+11	2
+weexexxeo
+1
+11	2
+weexexxxe
+1
+4	3
+eexeoooow
+1
+14	3
+xxxxxxxew
+3
+0	0	0	1	0	2
+weexxexee
+1
+10	2
+eexxexeew
+1
+10	1
+oooeoxew
+1
+17	0
+weexxexex
+1
+10	2
+wooeooxow
+1
+18	1
+weexxexeo
+1
+10	2
+eexxexeow
+1
+10	1
+weexxexxe
+1
+6	3
+weexxexxx
+2
+4	4	6	3
+oexxexew
+1
+10	1
+weexxexxo
+1
+6	3
+eexxexxow
+1
+6	2
+weexxxeee
+1
+7	1
+weexxxeex
+1
+7	1
+weexxxeeo
+1
+7	1
+weexxxexe
+1
+5	3
+weexxxexx
+2
+5	3	6	4
+wxooeooew
+1
+18	2
+eoooeooxw
+2
+17	1	18	2
+eexxxexxw
+2
+5	2	6	3
+weexxxexo
+1
+5	3
+eoooeoxew
+1
+17	1
+eexxxeoew
+1
+8	0
+eoooeoxxw
+1
+17	1
+woxxexxow
+1
+6	2
+eexxxeoxw
+1
+8	0
+eoooeoxow
+1
+17	1
+woooeoee
+1
+17	1
+woxxexxxw
+2
+4	3	6	2
+eexxxeoow
+1
+8	0
+eexxxxxow
+1
+0	2
+weeexxxxw
+1
+2	3
+weexxxxoe
+1
+2	2
+weexxxxox
+1
+2	2
+wxexxxexe
+2
+4	1	5	3
+eexxxxoxw
+1
+2	1
+weexxxxoo
+1
+2	2
+eexoeooow
+1
+16	3
+eeoeooexw
+1
+23	1
+weexoooeo
+1
+17	4
+weexooooe
+1
+15	3
+weexooooo
+1
+12	4
+eexooooow
+1
+12	3
+weoooeoox
+2
+17	2	18	3
+weeoeooee
+1
+23	2
+weeoeooox
+1
+16	3
+eeoeoooow
+2
+14	3	16	2
+weeoxexxx
+1
+4	4
+eeoxexxxw
+1
+4	3
+weeoxxexx
+1
+6	4
+xxxxxoexw
+1
+0	0
+eeoxxxexw
+1
+5	3
+exxxxeeow
+1
+1	0
+weeoxxxxe
+1
+3	3
+weeoxxxxx
+1
+0	4
+xxxxxoxxw
+1
+0	0
+eeoxxxxxw
+1
+0	3
+exxxxeoxw
+1
+1	0
+eoexxexew
+1
+10	2
+weeooeoee
+1
+22	2
+woeoxexxx
+1
+4	4
+eeooeoeew
+1
+22	1
+weeooeoox
+1
+18	3
+eeooeooxw
+1
+18	2
+woexxxexw
+1
+5	3
+eoooooeew
+1
+12	1
+eeooeooow
+2
+16	3	18	2
+weeoooeee
+1
+19	1
+weeoooeex
+1
+19	1
+weeoooeeo
+1
+19	1
+eeoooeeow
+1
+19	0
+weeoooexe
+1
+20	1
+eeoooeoxw
+1
+17	2
+xexexxeow
+1
+11	1
+weeooooee
+1
+13	2
+weoeoeooe
+1
+23	3
+eeooooeew
+1
+13	1
+weeooooex
+1
+13	2
+wxxxxeoow
+1
+3	0
+weeooooeo
+2
+13	2	17	4
+weeooooxe
+1
+14	2
+woxxxexex
+1
+5	2
+eeooooxew
+1
+14	1
+weeooooxx
+1
+14	2
+woooeoeeo
+1
+17	1
+eeooooxxw
+1
+14	1
+weeooooxo
+1
+14	2
+weeooooox
+1
+12	3
+exeeoooew
+1
+20	2
+exexxeeow
+1
+11	0
+wexexxexx
+2
+6	4	11	1
+wexexxexo
+1
+11	1
+oxxxxexow
+2
+3	0	5	2
+wexexxeoe
+1
+11	1
+wexexxeox
+1
+11	1
+oxeooeoew
+1
+22	2
+wexexxeoo
+1
+11	1
+wexexxxee
+1
+4	2
+wexexxxex
+2
+4	2	5	4
+wexexxxeo
+1
+4	2
+ooeoooxxw
+2
+16	1	18	0
+woeoooxxo
+1
+16	1
+wxxxexoee
+1
+5	1
+exexxxeow
+1
+4	1
+wexxxxoeo
+1
+2	1
+eoeooeoew
+2
+22	2	23	0
+wexexxxxe
+2
+1	3	4	2
+exexxxxew
+2
+1	2	4	1
+wxxexxoe
+1
+6	1
+exexxxxow
+2
+2	2	4	1
+wexexxxoe
+1
+4	2
+wexexxxox
+1
+4	2
+exexxxoxw
+1
+4	1
+wexexxxoo
+1
+4	2
+exexxxoow
+1
+4	1
+eexxxxow
+1
+2	1
+exeoeooew
+1
+23	2
+wexeooeoe
+1
+22	3
+exeooeoew
+1
+22	2
+xxxexooxw
+1
+5	0
+wexeooeoo
+1
+18	4
+exeooeoow
+1
+18	3
+wexeoooee
+1
+21	2
+weoxooooo
+1
+12	4
+exeoooeow
+1
+17	3
+exeooooow
+1
+12	3
+wexxexeee
+1
+10	1
+wexxexexe
+1
+10	1
+wexxexexx
+1
+10	1
+wxxexxw
+1
+6	1
+wexxexexo
+1
+10	1
+exxexeoew
+1
+10	0
+exxexeoxw
+1
+10	0
+exxexeoow
+1
+10	0
+wexxexxee
+1
+6	2
+ooxexxxow
+1
+4	2
+exxexxeew
+1
+6	1
+wexxexxex
+1
+6	2
+wexxexxeo
+1
+6	2
+weoxxxexw
+1
+5	3
+ooxexxxew
+1
+4	2
+exxexxeow
+1
+6	1
+wxexooooo
+1
+12	4
+wexxexxxx
+2
+4	3	6	2
+exxexxxow
+2
+4	2	6	1
+exxexxoew
+1
+6	1
+exxexxoxw
+1
+6	1
+xxxexxew
+2
+5	0	6	1
+wexxexxoo
+1
+6	2
+exxxexeew
+1
+5	1
+exxxexeow
+1
+5	1
+exxxexxow
+2
+5	1	6	2
+exxxexoxw
+1
+5	1
+exxxxeexw
+1
+1	0
+weooooeox
+2
+13	1	17	3
+wexxxxeeo
+1
+1	1
+wexxxxexx
+3
+1	1	5	3	6	4
+wexxxxexo
+2
+1	1	5	3
+wexxxxeoo
+1
+1	1
+xxxxxoxow
+1
+0	0
+xxexexxxw
+1
+4	3
+exxxxeoow
+1
+1	0
+eooeoexxw
+1
+22	0
+weeeoooew
+1
+20	2
+exxxxxexw
+2
+0	1	5	3
+wexxxxxxo
+2
+0	2	0	3
+eooeoeeow
+1
+22	0
+exxxxxxow
+2
+0	1	0	2
+exxxxxoew
+1
+0	1
+woeoooxxe
+1
+16	1
+wxxxexoeo
+1
+5	1
+wexxxxoee
+1
+2	1
+woeoooxxx
+1
+16	1
+wexxxxoex
+1
+2	1
+woeoooxee
+1
+16	1
+wexxxxoxe
+1
+2	1
+exxxxoxew
+1
+2	0
+woeoooxex
+1
+16	1
+wexxxxoxx
+1
+2	1
+woeoooxeo
+1
+16	1
+wexxxxoxo
+1
+2	1
+oooeooow
+3
+16	2	17	0	18	1
+exxxxooxw
+1
+2	0
+oooeooxw
+2
+17	0	18	1
+exxxxooow
+1
+2	0
+exxoeooow
+1
+16	3
+xxoeoooew
+1
+16	2
+wexxoooeo
+1
+17	4
+exxoooeow
+1
+17	3
+wexxooooe
+1
+15	3
+wxeexxexe
+1
+10	3
+exxooooow
+1
+12	3
+exoeoooew
+1
+16	2
+exoeoooow
+2
+14	3	16	2
+wexoxexxx
+1
+4	4
+exoxxexxw
+1
+6	3
+wexoxxxex
+1
+5	4
+exoxxxexw
+1
+5	3
+wexxxxx
+1
+0	2
+weoooooo
+2
+12	2	12	3
+exxexxew
+1
+6	1
+wexoxxxxe
+1
+3	3
+wexooeooe
+1
+18	3
+wexooeoox
+1
+18	3
+wexoooeoe
+1
+17	3
+exoooeoow
+2
+17	2	18	3
+exooooeew
+1
+15	1
+wexooooex
+1
+15	2
+exooooeow
+2
+15	1	17	3
+exoooooew
+1
+12	2
+exoooooxw
+1
+12	2
+exoooooow
+2
+12	2	12	3
+eoeexxxxw
+1
+2	3
+eoeeoooow
+1
+14	3
+woxxxexox
+1
+5	2
+eoexexxew
+1
+11	2
+eoexexxxw
+1
+4	3
+eoexxxeew
+1
+9	1
+weoexxxxe
+1
+1	3
+weoexxxxo
+1
+2	3
+eoeoeooew
+1
+23	2
+weoeoeooo
+1
+16	4
+eoeoeooow
+1
+16	3
+eoeooeeew
+1
+23	0
+woxooeoow
+1
+18	3
+weoeooexe
+1
+23	1
+weoeooexx
+1
+23	1
+eoeooexxw
+1
+23	0
+weoeooexo
+1
+23	1
+eoeooexow
+1
+23	0
+woooeoxex
+1
+17	1
+weoeooeoe
+2
+22	3	23	1
+weoeoooee
+1
+16	2
+eoeoooeew
+1
+16	1
+weoeoooex
+1
+16	2
+eoeoooexw
+1
+16	1
+weoeoooeo
+2
+16	2	17	4
+weoeoooxe
+1
+16	2
+eoeoooxow
+1
+16	1
+weoeooooe
+2
+13	3	16	2
+weoeoooox
+2
+14	3	16	2
+eoeooooxw
+2
+14	2	16	1
+weoeooooo
+2
+12	4	16	2
+weoxexxxe
+1
+4	3
+eoxexxxew
+1
+4	2
+eoooow
+1
+14	0
+weoxexxxx
+1
+4	3
+weoxexxxo
+1
+4	3
+woooooox
+2
+12	1	12	2
+eoxexxxow
+1
+4	2
+woooooxw
+1
+12	1
+eoxxxexew
+1
+5	2
+woooooew
+1
+12	1
+eoxxxexxw
+2
+5	2	6	3
+eoxxxxexw
+2
+3	1	5	3
+eoxxxxeow
+1
+3	1
+eoxxxxxxw
+2
+0	2	0	3
+weoxoooeo
+1
+17	4
+ooeooooxw
+3
+14	2	16	1	18	0
+eoxoooeow
+1
+17	3
+wxxxxeoo
+1
+3	0
+eoxooooew
+1
+15	2
+eoxooooow
+1
+12	3
+weooeoeee
+1
+22	1
+weooeoeex
+1
+22	1
+weooeoeeo
+1
+22	1
+weooeoexe
+1
+22	1
+xexxxeoew
+1
+4	0
+weooeoexx
+1
+22	1
+weooeoexo
+1
+22	1
+weooeoeoe
+1
+22	1
+weooeoeox
+1
+22	1
+eooeoeoxw
+1
+22	0
+weooeoeoo
+1
+22	1
+eooeooeew
+1
+18	1
+xeooooxow
+1
+14	1
+weooeooeo
+1
+18	2
+eooeooeow
+1
+18	1
+weooeooxe
+1
+18	2
+weooeooxx
+1
+18	2
+weooeooxo
+1
+18	2
+weooeoooo
+2
+16	3	18	2
+weooxxxxe
+1
+3	3
+weooxxxxx
+1
+0	4
+oooeoxoxw
+1
+17	0
+weoooeeee
+1
+21	0
+weoooeeex
+1
+21	0
+xxooooeow
+2
+15	1	17	3
+eoooooxxw
+1
+12	1
+weoooeeeo
+1
+21	0
+woeoooexo
+1
+16	1
+weoooeexe
+1
+21	0
+weoooeexx
+1
+21	0
+woeoooexe
+1
+16	1
+weoooeexo
+1
+21	0
+woxoeooow
+1
+16	3
+weoooeeox
+1
+21	0
+eoooeoeow
+1
+17	1
+weoooeoxx
+1
+17	2
+weoooeooe
+2
+17	2	18	3
+woexxxxew
+1
+1	2
+weoooeooo
+3
+16	4	17	2	18	3
+weooooeeo
+1
+13	1
+weooooexe
+1
+13	1
+weooooexx
+1
+13	1
+oooooeexw
+1
+12	0
+weooooexo
+1
+13	1
+weooooeoo
+3
+13	1	17	3	18	4
+eooooeoow
+3
+13	0	17	2	18	3
+weooooxeo
+1
+14	1
+weexxxxew
+1
+1	2
+eooooxoxw
+1
+14	0
+woexxxeew
+1
+9	1
+eoooooexw
+1
+12	1
+wexxxxxe
+1
+0	2
+weooooooe
+2
+12	2	12	3
+eooooooew
+2
+12	1	12	2
+wexxxxxo
+1
+0	2
+weooooooo
+3
+12	2	12	3	12	4
+xeeeoooow
+1
+14	3
+xxexxxxw
+3
+2	2	4	1	6	0
+oxoooeoew
+1
+17	2
+wxeexexxx
+1
+4	4
+xeexxexxw
+1
+6	3
+xeexxxeew
+1
+7	1
+wxoooeox
+1
+17	2
+wxeexxxxe
+1
+1	3
+xeexxxxew
+1
+1	2
+wxoooeoe
+1
+17	2
+wxeexxxxx
+1
+0	4
+xeexxxxxw
+1
+0	3
+woeoxxxxx
+1
+0	4
+wxeexxxxo
+1
+2	3
+xeexxxxow
+1
+2	2
+wxeeoeooo
+1
+16	4
+woexxxxw
+1
+2	2
+xeeooeoew
+1
+22	2
+wxeeoooeo
+1
+17	4
+wxexxxoex
+1
+4	1
+xeeoooeow
+1
+17	3
+wxeeooooo
+1
+12	4
+xexexxexw
+1
+11	1
+xexexxxow
+1
+4	2
+wxexxexee
+1
+10	2
+wxexxexex
+1
+10	2
+xexxexexw
+1
+10	1
+wxexxexeo
+1
+10	2
+xexxexeow
+1
+10	1
+wxexxexxe
+1
+6	3
+xexxexxew
+1
+6	2
+wxoxooeoo
+1
+18	4
+wxexxexxx
+2
+4	4	6	3
+wxexxexxo
+1
+6	3
+wooxxexxo
+1
+6	3
+wxexxxeee
+1
+4	1
+weooooe
+1
+13	1
+xeooooexw
+1
+13	1
+xexxxeeew
+1
+4	0
+wooxxexxe
+1
+6	3
+wxexxxeeo
+1
+4	1
+wxoxxxxxw
+1
+0	3
+xexxxeeow
+1
+4	0
+xexxxexew
+2
+4	0	5	2
+xexxxexxw
+3
+4	0	5	2	6	3
+wxexxxexo
+2
+4	1	5	3
+wxexxxeoe
+1
+4	1
+woxeooeoe
+1
+22	3
+wxexxxeox
+1
+4	1
+xexxxeoxw
+1
+4	0
+wxexxxeoo
+1
+4	1
+xexxxeoow
+1
+4	0
+wxexxxxee
+2
+1	2	4	1
+xexxxxeew
+2
+1	1	4	0
+xexxxxexw
+3
+1	1	4	0	5	3
+wxooxxxxe
+1
+3	3
+xexxxxeow
+2
+1	1	4	0
+oxxxexxw
+2
+5	1	6	2
+wxxxxeox
+1
+3	0
+oxoxxxxxw
+1
+0	3
+wxexxxxxe
+2
+0	3	4	1
+xexxxxxew
+2
+0	2	4	0
+wxxxxeoe
+1
+3	0
+wxexxxxxx
+3
+0	3	0	4	4	1
+xexxxxxxw
+3
+0	2	0	3	4	0
+wxexxxxxo
+2
+0	3	4	1
+xexxxxxow
+2
+0	2	4	0
+woooeoexo
+1
+17	1
+wxexxxxoe
+2
+2	2	4	1
+wxexxxxox
+2
+2	2	4	1
+woooeoexe
+1
+17	1
+wxexxxxoo
+2
+2	2	4	1
+wxoeooo
+1
+16	2
+xexxxxoow
+2
+2	1	4	0
+ooooeooew
+2
+17	1	18	2
+wxexxxoee
+1
+4	1
+xexxxoeew
+1
+4	0
+xexxxoexw
+1
+4	0
+wxexxxoeo
+1
+4	1
+weexxxew
+1
+8	1
+wxoxooooe
+1
+15	3
+xexxxoeow
+1
+4	0
+xexxxoxew
+1
+4	0
+wxexxxoxx
+1
+4	1
+xexxxoxow
+1
+4	0
+wxexxxoox
+1
+4	1
+xexxxooow
+1
+4	0
+xexoeooow
+1
+16	3
+wooooeo
+2
+15	0	17	2
+wxexooeoo
+1
+18	4
+xexooeoow
+1
+18	3
+wxexoooeo
+1
+17	4
+xexoooeow
+1
+17	3
+xexooooew
+1
+15	2
+xeoexxxxw
+1
+2	3
+wxeoeooee
+1
+23	2
+xeoeooeew
+1
+23	1
+wxeoeooex
+1
+23	2
+wxeooeoew
+1
+22	2
+wxeoeooeo
+1
+23	2
+xeoeooeow
+1
+23	1
+xeoeoooxw
+1
+16	2
+wxeoeoooo
+1
+16	3
+xeoeoooow
+2
+14	3	16	2
+oxxexxxow
+2
+4	2	6	1
+xeoxexxxw
+1
+4	3
+wxeoxxexx
+1
+6	4
+xeoxxxexw
+1
+5	3
+wxeoxxxxe
+1
+3	3
+wxeoxxxxx
+1
+0	4
+wxooeooox
+2
+16	3	18	2
+xeoxxxxxw
+1
+0	3
+wooeooxx
+1
+18	1
+wxeooeoee
+1
+22	2
+xeooeoeew
+1
+22	1
+wooeooxe
+1
+18	1
+wxeooeoex
+1
+22	2
+xeooeoexw
+1
+22	1
+wxeoeooew
+1
+23	2
+wxeooeoeo
+1
+22	2
+xeooeoeow
+1
+22	1
+wxeooeooe
+1
+18	3
+xeooeooew
+1
+18	2
+wxeooeoox
+1
+18	3
+xeooeooow
+2
+16	3	18	2
+wxeoooeee
+1
+21	1
+xeoooeeew
+1
+21	0
+wxeoooeex
+1
+21	1
+oooooxeow
+1
+12	0
+wxeoooeeo
+1
+21	1
+xeoooeoew
+1
+17	2
+wxeoooeoo
+2
+17	3	18	4
+wxeooooee
+1
+13	2
+wxeooooex
+1
+13	2
+wxeooooxe
+1
+14	2
+xeooooxew
+1
+14	1
+wxeooooxx
+1
+14	2
+wxeooooxo
+1
+14	2
+weoxxxxe
+1
+3	2
+wxeoooooe
+1
+12	3
+xeoooooew
+1
+12	2
+xeoooooow
+2
+12	2	12	3
+xxeexxxxw
+1
+2	3
+xxeeoooew
+1
+20	2
+woxexxxxe
+2
+1	3	4	2
+xxexexxew
+1
+11	2
+xxexxeeew
+1
+6	0
+wxxexxexe
+2
+6	1	10	3
+xxexxexew
+2
+6	0	10	2
+xxexxexow
+1
+6	0
+wxxexxeoe
+1
+6	1
+xxexxeoow
+1
+6	0
+wxxexxxee
+2
+4	2	6	1
+xxexxxeew
+2
+4	1	6	0
+wxxexxxex
+3
+4	2	5	4	6	1
+wxxexxxeo
+2
+4	2	6	1
+xxexxxeow
+2
+4	1	6	0
+wxxexxxxe
+3
+1	3	4	2	6	1
+eooeoow
+1
+18	1
+xxexxxxew
+3
+1	2	4	1	6	0
+wxxexxxxx
+3
+0	4	4	2	6	1
+xxexxxxxw
+3
+0	3	4	1	6	0
+wxxexxxxo
+3
+2	3	4	2	6	1
+eooeoew
+1
+22	0
+xxexxxxow
+3
+2	2	4	1	6	0
+wxxexxxoe
+2
+4	2	6	1
+exxexexw
+1
+10	0
+xxexxxoew
+2
+4	1	6	0
+wxxexxxox
+2
+4	2	6	1
+exxexeew
+1
+10	0
+xxexxxoxw
+2
+4	1	6	0
+wxxexxxoo
+2
+4	2	6	1
+xxexxxoow
+2
+4	1	6	0
+xxoxxxexw
+1
+5	3
+wxxexxoee
+1
+6	1
+xooooeoow
+3
+15	0	17	2	18	3
+xxexxoexw
+1
+6	0
+xooooeoxw
+2
+15	0	17	2
+xxexxoeow
+1
+6	0
+wxxexxoxe
+1
+6	1
+wxxexxoxx
+1
+6	1
+xxexxoxxw
+1
+6	0
+wxxexxoxo
+1
+6	1
+xxexxoxow
+1
+6	0
+wxxexxooe
+1
+6	1
+oeooeooow
+2
+16	3	18	2
+xxexxooew
+1
+6	0
+wxxexxoox
+1
+6	1
+wxxexxooo
+1
+6	1
+oeooeooew
+1
+18	2
+xxexxooow
+1
+6	0
+wxxeoeooe
+1
+23	3
+xxeoeooew
+1
+23	2
+wxxeoeooo
+1
+16	4
+xxeoeooow
+1
+16	3
+wxxeooeoe
+1
+22	3
+xxeooeoew
+1
+22	2
+xxxexxxew
+3
+4	2	5	0	6	1
+wxxeoooee
+1
+21	2
+oxexxxw
+1
+4	1
+wxxeoooeo
+1
+17	4
+wxxeooooe
+1
+13	3
+xxeooooew
+1
+13	2
+wxxeoooox
+1
+14	3
+wxxxxexow
+2
+3	0	5	2
+xxeooooxw
+1
+14	2
+wxxeooooo
+1
+12	4
+oxxxxxxow
+2
+0	1	0	2
+wxxxexeee
+1
+5	1
+xxxexeeow
+1
+5	0
+wxxxexexe
+1
+5	1
+xxxexexew
+1
+5	0
+xxxexexxw
+1
+5	0
+xxxexeoxw
+1
+5	0
+xxxexeoow
+1
+5	0
+wxxxexxee
+2
+5	1	6	2
+xxxexxeew
+2
+5	0	6	1
+wxxxexxex
+2
+5	1	6	2
+xxxexxexw
+2
+5	0	6	1
+wxxxexxeo
+2
+5	1	6	2
+xxxexxeow
+2
+5	0	6	1
+wxxxexxxx
+3
+4	3	5	1	6	2
+xxxexxxxw
+4
+2	3	4	2	5	0	6	1
+woxoooeox
+1
+17	3
+xxxexxxow
+3
+4	2	5	0	6	1
+eooooxw
+1
+14	0
+wxxxexxoe
+2
+5	1	6	2
+wxxxexxox
+2
+5	1	6	2
+wooeooeee
+1
+18	1
+xxxexxoxw
+2
+5	0	6	1
+wxxxexxoo
+2
+5	1	6	2
+xxxexxoow
+2
+5	0	6	1
+xxxexoeew
+1
+5	0
+wxxxexoex
+1
+5	1
+xxxexoexw
+1
+5	0
+xxxexoeow
+1
+5	0
+wxxxexoxe
+1
+5	1
+wxxxexoxx
+1
+5	1
+wxxxexoxo
+1
+5	1
+wxxxexooe
+1
+5	1
+xxxexooew
+1
+5	0
+wxxxexoox
+1
+5	1
+wxxxexooo
+1
+5	1
+xxxeoooow
+1
+14	3
+wxxxxeeeo
+1
+3	0
+wxxxxeexe
+1
+3	0
+oeexxxew
+1
+8	1
+wxxxxeexx
+1
+3	0
+wxxxxeexo
+1
+3	0
+wxxxxeeoe
+1
+3	0
+wxxxxeeox
+1
+3	0
+wxxxxeeoo
+1
+3	0
+wxxxxexeo
+2
+3	0	5	2
+xxxxexoow
+1
+5	1
+wxxxxeoee
+1
+3	0
+oooooeoxw
+2
+12	0	17	2
+wxxxxeoex
+1
+3	0
+wxxxxeoxe
+1
+3	0
+wxxoooeow
+1
+17	3
+wxxxxeoxx
+1
+3	0
+wxxxxeoxo
+1
+3	0
+wxxxxeoox
+1
+3	0
+oxooooeow
+2
+15	1	17	3
+wxxxxxeee
+1
+0	1
+wxxxxxeex
+1
+0	1
+xxxxxeexw
+1
+0	0
+wxxxxxeeo
+1
+0	1
+wooxooooo
+1
+12	4
+wxxxxxexx
+3
+0	1	5	3	6	4
+woooxxxxx
+1
+0	4
+xxxxxexxw
+3
+0	0	5	2	6	3
+xxxxxexow
+2
+0	0	5	2
+wxxxxxeoe
+1
+0	1
+wxxxxxeox
+1
+0	1
+xxxxxeoxw
+1
+0	0
+wxxxxxeoo
+1
+0	1
+xxxxxeoow
+1
+0	0
+wxxxxxxee
+2
+0	1	0	2
+xxxxxxeew
+2
+0	0	0	1
+wxxxxxxex
+3
+0	1	0	2	5	4
+eeooeoew
+1
+22	1
+wooooeoxe
+2
+15	0	17	2
+xxxxxxexw
+3
+0	0	0	1	5	3
+wxxxxxxeo
+2
+0	1	0	2
+xxxxxxeow
+2
+0	0	0	1
+wxxxxxxxe
+3
+0	1	0	2	0	3
+wxxxxxxxo
+3
+0	1	0	2	0	3
+wxxxxxxoe
+2
+0	1	0	2
+xxxxxxoew
+2
+0	0	0	1
+oexxexxw
+1
+6	2
+wxxxxxxox
+2
+0	1	0	2
+wxxxxxxoo
+2
+0	1	0	2
+xxxxxxoow
+2
+0	0	0	1
+wxxxxxoee
+1
+0	1
+xxxxxoeew
+1
+0	0
+wxxxxxoex
+1
+0	1
+xxxxxoeow
+1
+0	0
+wxxxxxoxe
+1
+0	1
+wxxxxxoxx
+1
+0	1
+wxxxxxoxo
+1
+0	1
+woxxexxw
+1
+6	2
+wxxxxxooe
+1
+0	1
+wxxxxxoox
+1
+0	1
+wxxxxxooo
+1
+0	1
+wxxxoeooo
+1
+16	4
+xxxoeooow
+1
+16	3
+wxxxooeoo
+1
+18	4
+xxxooeoow
+1
+18	3
+woexxxxox
+1
+2	2
+wxxxoooeo
+1
+17	4
+wxxxooooe
+1
+15	3
+wxxxooooo
+1
+12	4
+xxxooooow
+1
+12	3
+xxoeoooxw
+1
+16	2
+wxxoeoooo
+1
+16	3
+xxoeoooow
+2
+14	3	16	2
+wooxxxexe
+1
+5	3
+wxxoxexxx
+1
+4	4
+xxoxexxxw
+1
+4	3
+wxxoxxexx
+1
+6	4
+xxoxxexxw
+1
+6	3
+xxoxxxxew
+1
+3	2
+xxoxxxxxw
+1
+0	3
+wxxooeooe
+1
+18	3
+woxxxxeee
+1
+3	1
+xxooeooew
+1
+18	2
+wxxooeoox
+1
+18	3
+wxxooeooo
+2
+16	4	18	3
+xxooeooow
+2
+16	3	18	2
+wxxoooeoe
+1
+17	3
+wxxxxeoxw
+1
+3	0
+wxxoooeox
+1
+17	3
+xxoooeoxw
+1
+17	2
+wxxoooeoo
+2
+17	3	18	4
+wxxooooee
+1
+15	2
+wxxooooex
+1
+15	2
+wxxooooeo
+2
+15	2	17	4
+xxoooooew
+1
+12	2
+wxxooooox
+1
+12	3
+xxoooooxw
+1
+12	2
+xxoooooow
+2
+12	2	12	3
+xoeexxxew
+1
+8	2
+xoeexxxxw
+1
+2	3
+xoeeoooew
+1
+20	2
+xoeeoooow
+1
+14	3
+wxoexexxe
+1
+11	3
+xoexexxew
+1
+11	2
+xoexexxxw
+1
+4	3
+weoxxxxew
+1
+3	2
+xoexxexew
+1
+10	2
+wxoexxexx
+1
+6	4
+weoxxxxxw
+1
+0	3
+xoexxexxw
+1
+6	3
+xoexxxexw
+1
+5	3
+wxoexxxxe
+1
+1	3
+xoexxxxew
+1
+1	2
+wxoexxxxx
+1
+0	4
+weoxxexxw
+1
+6	3
+xoexxxxxw
+1
+0	3
+weoxexxx
+1
+4	3
+wxoexxxxo
+1
+2	3
+woxxxexxe
+2
+5	2	6	3
+xoeoeooow
+1
+16	3
+wooooooxo
+2
+12	1	12	2
+xoeooeoew
+1
+22	2
+xoeooeoow
+1
+18	3
+xoooeooew
+2
+17	1	18	2
+wxoeoooee
+1
+16	2
+xoeoooeew
+1
+16	1
+wxoeoooex
+1
+16	2
+xoeoooexw
+1
+16	1
+xoeoooeow
+2
+16	1	17	3
+wxoeoooxe
+1
+16	2
+xoeoooxew
+1
+16	1
+wxoeooooe
+2
+13	3	16	2
+wxoeoooox
+2
+14	3	16	2
+wxoeooooo
+2
+12	4	16	2
+xoeooooow
+2
+12	3	16	1
+wxoxexxxe
+1
+4	3
+wxoxexxxx
+1
+4	3
+xoxexxxxw
+2
+2	3	4	2
+wxoxexxxo
+1
+4	3
+xoxexxxow
+1
+4	2
+wexxxexow
+1
+5	2
+oexexxxow
+1
+4	2
+xoxeoooow
+1
+14	3
+wxoxxexxe
+1
+6	3
+xoxxexxew
+1
+6	2
+wxoxxexxx
+2
+4	4	6	3
+xoxxexxxw
+2
+4	3	6	2
+wxoxxexxo
+1
+6	3
+wxoxxxexe
+1
+5	3
+xoxxxexew
+1
+5	2
+wxoxxxexx
+2
+5	3	6	4
+wxoxxxexo
+1
+5	3
+xoxxxexow
+1
+5	2
+xoxxxxeew
+1
+3	1
+woeeooeoe
+1
+22	3
+xoxxxxexw
+2
+3	1	5	3
+xoxxxxxew
+1
+0	2
+xoxxxxxow
+1
+0	2
+xoxooeoow
+1
+18	3
+xoxoooeow
+1
+17	3
+xoxooooew
+1
+15	2
+wxoxooooo
+1
+12	4
+woooeoxxw
+1
+17	1
+xoxooooow
+1
+12	3
+xooexxxxw
+1
+2	3
+xooeooexw
+1
+18	1
+xooeooeow
+1
+18	1
+xooeooxow
+1
+18	1
+eoeoooow
+2
+14	2	16	1
+wxooeoooe
+2
+16	3	18	2
+woxxxxew
+1
+3	1
+xooeoooew
+2
+16	2	18	1
+woxxxxxw
+1
+0	2
+xooeoooxw
+2
+16	2	18	1
+wxooeoooo
+2
+16	3	18	2
+xooeoooow
+3
+14	3	16	2	18	1
+xooxexxxw
+1
+4	3
+wxooxxxex
+1
+5	4
+xooxxxexw
+1
+5	3
+oooooexow
+1
+12	0
+xooxxxxew
+1
+3	2
+wxooxxxxx
+1
+0	4
+oxxxxxow
+1
+0	1
+xooxxxxxw
+1
+0	3
+wxoooeoee
+1
+17	2
+xoooeoeew
+1
+17	1
+wxoooeoex
+1
+17	2
+oeoeooeow
+1
+23	1
+xoooeoexw
+1
+17	1
+wxoooeoeo
+1
+17	2
+oeoeooexw
+1
+23	1
+xoooeoeow
+1
+17	1
+wxoooeoxe
+1
+17	2
+xoooeoxew
+1
+17	1
+xoooeoxow
+1
+17	1
+wxoooeoox
+2
+17	2	18	3
+xoooeooxw
+2
+17	1	18	2
+eexxexxw
+1
+6	2
+wxooooeee
+1
+15	1
+xooooeeew
+1
+15	0
+wxooooeex
+1
+15	1
+wxooooeeo
+1
+15	1
+wooeoooxw
+2
+16	2	18	1
+xooooeeow
+1
+15	0
+xooooexxw
+1
+15	0
+xooooexow
+1
+15	0
+wxooooeoe
+2
+15	1	17	3
+xooooeoew
+2
+15	0	17	2
+wxooooeox
+2
+15	1	17	3
+oooooxxw
+1
+12	0
+wxooooeoo
+3
+15	1	17	3	18	4
+xoooooexw
+1
+12	1
+wxoooooeo
+2
+12	2	17	4
+wxoooooxe
+1
+12	2
+wxoooooxx
+1
+12	2
+woexooeoo
+1
+18	4
+xoooooxxw
+1
+12	1
+wxoooooxo
+1
+12	2
+wxooooooe
+2
+12	2	12	3
+xooooooew
+2
+12	1	12	2
+wxoooooox
+2
+12	2	12	3
+xooooooxw
+2
+12	1	12	2
+wxooooooo
+3
+12	2	12	3	12	4
+xooooooow
+3
+12	1	12	2	12	3
+oeeexxxxw
+1
+2	3
+wooooexe
+1
+15	0
+oeeeoooew
+1
+20	2
+oeeeoooow
+1
+14	3
+woeexexxe
+1
+11	3
+wexxxxow
+1
+2	1
+weoooooxw
+1
+12	2
+woooeooex
+2
+17	1	18	2
+oeexexxew
+1
+11	2
+weoooooew
+1
+12	2
+oeexexxxw
+1
+4	3
+oeexxexew
+1
+10	2
+woooeoxox
+1
+17	1
+oeexxexxw
+1
+6	3
+woeexxxee
+1
+7	2
+oeexxxeew
+1
+7	1
+woeexxxex
+1
+5	4
+woeexxxeo
+1
+8	2
+oeexxxxxw
+1
+0	3
+oeexxxxow
+1
+2	2
+woeeoeooe
+1
+23	3
+oeeoeooew
+1
+23	2
+woeeoeooo
+1
+16	4
+oeeoeooow
+1
+16	3
+woeeooeoo
+1
+18	4
+oeeooeoow
+1
+18	3
+woeeoooee
+1
+19	2
+oeeoooeew
+1
+19	1
+woeeoooex
+1
+20	2
+oeeoooexw
+1
+20	1
+oeeoooeow
+1
+17	3
+oeeooooew
+1
+13	2
+oeeooooow
+1
+12	3
+oexoooeow
+1
+17	3
+woexexxee
+1
+11	2
+wexxxeeow
+1
+9	0
+oexexxeow
+1
+11	1
+wexxxexxw
+2
+5	2	6	3
+oexexxxxw
+2
+2	3	4	2
+oexeoooow
+1
+14	3
+woexxexee
+1
+10	2
+wxexexxxw
+1
+4	3
+oexxexeew
+1
+10	1
+woexxexex
+1
+10	2
+wxexexxew
+1
+11	2
+oexxexexw
+1
+10	1
+woexxexeo
+1
+10	2
+woexxexxx
+2
+4	4	6	3
+oexxexxxw
+2
+4	3	6	2
+oxxxxew
+1
+3	0
+oexxexxow
+1
+6	2
+oexxxexow
+1
+5	2
+oexxxxxew
+1
+0	2
+oexxxxxxw
+2
+0	2	0	3
+woexxxxxo
+1
+0	3
+oooooooow
+4
+12	0	12	1	12	2	12	3
+woexxxxoe
+1
+2	2
+woexxxxoo
+1
+2	2
+woexoeooo
+1
+16	4
+oexooeoow
+1
+18	3
+woexoooeo
+1
+17	4
+oexooooew
+1
+15	2
+woexooooo
+1
+12	4
+exxexeow
+1
+10	0
+oeoexxxxw
+1
+2	3
+oeoeooeew
+1
+23	1
+woeoeooeo
+1
+23	2
+wexxexxx
+2
+4	3	6	2
+woeoeoooe
+1
+16	3
+ooooooew
+2
+12	0	12	1
+wexxexxe
+1
+6	2
+woeoeooox
+1
+16	3
+oeoeoooxw
+1
+16	2
+woeoeoooo
+1
+16	3
+oeoxexxxw
+1
+4	3
+oeoxxexxw
+1
+6	3
+wxoooeoo
+2
+17	2	18	3
+woeoxxxxe
+1
+3	3
+oeoxxxxxw
+1
+0	3
+woeooeoee
+1
+22	2
+oeooeoeew
+1
+22	1
+oeooeoexw
+1
+22	1
+oeooeoeow
+1
+22	1
+woeooeooe
+1
+18	3
+woeooeoox
+1
+18	3
+oeooeooxw
+1
+18	2
+woeooeooo
+2
+16	4	18	3
+oeoooeeew
+1
+16	0
+woeoooeex
+1
+16	1
+oeoooeexw
+1
+16	0
+oeoooexew
+1
+16	0
+woeoooexx
+1
+16	1
+weooooeo
+2
+13	1	17	3
+oeoooeoxw
+2
+16	0	17	2
+woeoooeoo
+3
+16	1	17	3	18	4
+oeoooxeew
+1
+16	0
+oeoooxexw
+1
+16	0
+oeoooxeow
+1
+16	0
+oeoooxxow
+1
+16	0
+oeoooxoxw
+1
+16	0
+woooooexe
+1
+12	1
+woeoooxoo
+1
+16	1
+oeoooxoow
+1
+16	0
+woeooooee
+2
+13	2	16	1
+woeooooex
+2
+13	2	16	1
+woeooooeo
+3
+13	2	16	1	17	4
+woeooooxe
+2
+14	2	16	1
+oeooooxxw
+2
+14	1	16	0
+woeooooxo
+2
+14	2	16	1
+oeooooxow
+2
+14	1	16	0
+oeoooooew
+2
+12	2	16	0
+oeoooooxw
+2
+12	2	16	0
+woeoooooo
+3
+12	3	12	4	16	1
+oeoooooow
+3
+12	2	12	3	16	0
+oxeeoooow
+1
+14	3
+woooeoxe
+1
+17	1
+woxexexxe
+1
+11	3
+wxxxxew
+1
+3	0
+oxexexxew
+1
+11	2
+woooeoxx
+1
+17	1
+woxexexxx
+1
+4	4
+wxxxxxw
+1
+0	1
+oxexexxxw
+1
+4	3
+woxexxexe
+1
+10	3
+oxexxexew
+1
+10	2
+woxexxexx
+1
+6	4
+oxexxexxw
+1
+6	3
+woxexxxee
+1
+4	2
+woxexxxex
+2
+4	2	5	4
+woxexxxeo
+1
+4	2
+oxexxxeow
+1
+4	1
+oxexxxxew
+2
+1	2	4	1
+wxexxxw
+1
+4	1
+wooeoooee
+2
+16	2	18	1
+oxexxxxxw
+2
+0	3	4	1
+oxexxxoew
+1
+4	1
+woxexxxox
+1
+4	2
+oxexxxoxw
+1
+4	1
+oxexxxoow
+1
+4	1
+woxeoeooe
+1
+23	3
+oxeoeooew
+1
+23	2
+woxeoeooo
+1
+16	4
+woxeooeoo
+1
+18	4
+oxeoooeow
+1
+17	3
+xxxxxeow
+1
+0	0
+oxeooooxw
+1
+14	2
+xxxxxexw
+2
+0	0	5	2
+oxeooooow
+1
+12	3
+woxxexxee
+1
+6	2
+oxxexxeew
+1
+6	1
+woxxexxex
+1
+6	2
+oxxexxexw
+1
+6	1
+woxxexxeo
+1
+6	2
+oxxexxeow
+1
+6	1
+oxxexxxew
+2
+4	2	6	1
+oxxexxxxw
+3
+2	3	4	2	6	1
+oxxexxoxw
+1
+6	1
+oxxexxoow
+1
+6	1
+oxxeoooow
+1
+14	3
+woxxxexee
+1
+5	2
+oxxxexeew
+1
+5	1
+oxxxexexw
+1
+5	1
+woxxxexeo
+1
+5	2
+woxxxexxx
+3
+4	4	5	2	6	3
+woxxxexxo
+2
+5	2	6	3
+oxxxexoxw
+1
+5	1
+oxxxexoow
+1
+5	1
+oxooooexw
+1
+15	1
+oxxxxeeew
+1
+3	0
+woxxxxeex
+1
+3	1
+wooeooeex
+1
+18	1
+oxooooeew
+1
+15	1
+oxxxxeexw
+1
+3	0
+woxxxxeeo
+1
+3	1
+woeooooe
+2
+13	2	16	1
+woxxxxexe
+2
+3	1	5	3
+oxxxxexew
+2
+3	0	5	2
+woeoooox
+2
+14	2	16	1
+woxxxxexx
+3
+3	1	5	3	6	4
+oxxxxeoew
+1
+3	0
+woeoooxo
+1
+16	1
+woxxxxeoo
+1
+3	1
+oxxxxeoow
+1
+3	0
+oxxxxxexw
+2
+0	1	5	3
+oxxxxxeow
+1
+0	1
+woxexxxow
+1
+4	2
+woxxxxxxe
+2
+0	2	0	3
+oxxxxxxew
+2
+0	1	0	2
+woxxxxxxx
+3
+0	2	0	3	0	4
+oxxxxxxxw
+3
+0	1	0	2	0	3
+ooexxxexw
+1
+5	3
+woxxxxxxo
+2
+0	2	0	3
+woxxxxxox
+1
+0	2
+oxxxxxoxw
+1
+0	1
+woxxoeooo
+1
+16	4
+oxxoeooow
+1
+16	3
+woxxooeoo
+1
+18	4
+wxeoooee
+1
+21	1
+oxxoooeow
+1
+17	3
+woxxooooe
+1
+15	3
+woxxooooo
+1
+12	4
+woxoeoooe
+1
+16	3
+woxoxexxx
+1
+4	4
+woxoxxxex
+1
+5	4
+oxxxexew
+1
+5	1
+oxoxxxxew
+1
+3	2
+woxoxxxxx
+1
+0	4
+weoeooexw
+1
+23	1
+woxooeooe
+1
+18	3
+oxooeooew
+1
+18	2
+woxooeoox
+1
+18	3
+oxooeooxw
+1
+18	2
+woxooeooo
+2
+16	4	18	3
+woxoooeoe
+1
+17	3
+woxoooeoo
+2
+17	3	18	4
+oxoooeoow
+2
+17	2	18	3
+woxooooee
+1
+15	2
+woxooooex
+1
+15	2
+woxooooeo
+2
+15	2	17	4
+woxoooooe
+1
+12	3
+oxoooooew
+1
+12	2
+ooxxxexow
+1
+5	2
+oxoooooxw
+1
+12	2
+ooxxxexxw
+2
+5	2	6	3
+oxoooooow
+2
+12	2	12	3
+ooeexxxew
+1
+8	2
+ooeexxxxw
+1
+2	3
+ooeeoooew
+1
+20	2
+ooeeoooow
+1
+14	3
+wooexexxe
+1
+11	3
+ooexexxew
+1
+11	2
+wooexexxx
+1
+4	4
+ooexexxxw
+1
+4	3
+wooexxexx
+1
+6	4
+wooexxxex
+1
+5	4
+weooeoe
+1
+22	1
+wooexxxxe
+1
+1	3
+wooooooee
+2
+12	1	12	2
+ooexxxxew
+1
+1	2
+wooexxxxx
+1
+0	4
+weooeoo
+1
+18	2
+ooxxxexew
+1
+5	2
+wooexxxxo
+1
+2	3
+ooexxxxow
+1
+2	2
+wooeoeooe
+1
+23	3
+ooeoeooew
+1
+23	2
+wooeoeooo
+1
+16	4
+woexexxxw
+1
+4	3
+wooeooeeo
+1
+18	1
+ooeooeeow
+1
+18	0
+ooeooexew
+1
+18	0
+ooeooexxw
+1
+18	0
+weoeoooe
+1
+16	2
+ooeooexow
+1
+18	0
+ooeooeoxw
+1
+18	0
+wooeooeoo
+2
+18	1	18	4
+ooeooeoow
+2
+18	0	18	3
+wooeooxee
+1
+18	1
+wooeooxex
+1
+18	1
+ooeooxexw
+1
+18	0
+woooeoxew
+1
+17	1
+wooeooxeo
+1
+18	1
+wooeooxxe
+1
+18	1
+ooeooxxew
+1
+18	0
+wooeooxxx
+1
+18	1
+ooeooxxxw
+1
+18	0
+wooeooxxo
+1
+18	1
+ooeooxxow
+1
+18	0
+ooeooxoew
+1
+18	0
+ooeooxoxw
+1
+18	0
+ooeooxoow
+1
+18	0
+wooeoooex
+2
+16	2	18	1
+ooeoooexw
+2
+16	1	18	0
+wooeoooeo
+3
+16	2	17	4	18	1
+ooeoooeow
+3
+16	1	17	3	18	0
+ooeooooew
+3
+13	2	16	1	18	0
+wooxexxxe
+1
+4	3
+oexxxexw
+1
+5	2
+wooxexxxx
+1
+4	3
+ooxexxxxw
+2
+2	3	4	2
+oooxexxxw
+1
+4	3
+wooxexxxo
+1
+4	3
+wooxxexxx
+2
+4	4	6	3
+ooxxexxow
+1
+6	2
+wooxxxexx
+2
+5	3	6	4
+wooxxxexo
+1
+5	3
+ooxxxxeew
+1
+3	1
+ooxxxxexw
+2
+3	1	5	3
+ooxxxxxew
+1
+0	2
+ooxxxxxxw
+2
+0	2	0	3
+woooeo
+1
+17	1
+ooxoeooow
+1
+16	3
+wooxooeoo
+1
+18	4
+ooxooeoow
+1
+18	3
+wooxoooeo
+1
+17	4
+ooxoooeow
+1
+17	3
+ooxooooew
+1
+15	2
+ooxooooow
+1
+12	3
+eooooow
+1
+12	1
+woooeoeee
+1
+17	1
+woooeoeex
+1
+17	1
+oooeoeeow
+1
+17	0
+oooeoexew
+1
+17	0
+woooeoexx
+1
+17	1
+oooeoexow
+1
+17	0
+woooeoeoe
+1
+17	1
+oooeoeoew
+1
+17	0
+oooeoeoxw
+1
+17	0
+oooeoeoow
+1
+17	0
+wxexxxxx
+2
+0	3	4	1
+oooeoxeew
+1
+17	0
+wooeooxew
+1
+18	1
+woooeoxeo
+1
+17	1
+oooeoxeow
+1
+17	0
+oooeoxxxw
+1
+17	0
+oooeoxxow
+1
+17	0
+woooeoxoe
+1
+17	1
+oooeoxoew
+1
+17	0
+woooeoxoo
+1
+17	1
+oooeoxoow
+1
+17	0
+woeoooxw
+1
+16	1
+woxxxxeow
+1
+3	1
+woooeooee
+2
+17	1	18	2
+oooeooeew
+2
+17	0	18	1
+woooeooeo
+2
+17	1	18	2
+woooeooxe
+2
+17	1	18	2
+oooeooxew
+2
+17	0	18	1
+woooeooxx
+2
+17	1	18	2
+oooeooxxw
+2
+17	0	18	1
+oooeoooew
+3
+16	2	17	0	18	1
+woexxexx
+1
+6	3
+woooeooox
+3
+16	3	17	1	18	2
+oooeoooxw
+3
+16	2	17	0	18	1
+oooeoooow
+4
+14	3	16	2	17	0	18	1
+woooxexxx
+1
+4	4
+woooxxexx
+1
+6	4
+oooxxexxw
+1
+6	3
+woooeoox
+2
+17	1	18	2
+woooxxxex
+1
+5	4
+oooxxxexw
+1
+5	3
+woooxxxxe
+1
+3	3
+oooxxxxew
+1
+3	2
+wooooeeex
+1
+15	0
+wooooeeeo
+1
+15	0
+wooooeexe
+1
+15	0
+wooooeeoe
+1
+15	0
+wooooeeox
+1
+15	0
+wooooeeoo
+1
+15	0
+wooooexee
+1
+15	0
+wooooexex
+1
+15	0
+wooooexeo
+1
+15	0
+wooooexxe
+1
+15	0
+wooooexxx
+1
+15	0
+wooooexxo
+1
+15	0
+wooooexoe
+1
+15	0
+wooooexox
+1
+15	0
+wooooexoo
+1
+15	0
+wooooeoee
+2
+15	0	17	2
+wooooeoex
+2
+15	0	17	2
+ooooeoexw
+1
+17	1
+wooooeoeo
+2
+15	0	17	2
+ooooeoeow
+1
+17	1
+ooooeoxew
+1
+17	1
+wooooeoxx
+2
+15	0	17	2
+ooooeoxxw
+1
+17	1
+wooooeoxo
+2
+15	0	17	2
+wooooeooe
+3
+15	0	17	2	18	3
+wooooeoox
+3
+15	0	17	2	18	3
+ooooeooxw
+2
+17	1	18	2
+wooooeooo
+4
+15	0	16	4	17	2	18	3
+ooooeooow
+3
+16	3	17	1	18	2
+woooooeee
+1
+12	1
+oooooeeew
+1
+12	0
+oooooeeow
+1
+12	0
+woooooeoe
+2
+12	1	17	3
+oooooeoew
+2
+12	0	17	2
+oooooeoow
+3
+12	0	17	2	18	3
+oooooxeew
+1
+12	0
+woooooxxe
+1
+12	1
+oooooxxew
+1
+12	0
+woooooxxx
+1
+12	1
+oooooxxxw
+1
+12	0
+woooooxxo
+1
+12	1
+oooooxxow
+1
+12	0
+woooooxoe
+1
+12	1
+oooooxoew
+1
+12	0
+woooooxox
+1
+12	1
+oooooxoxw
+1
+12	0
+woooooxoo
+1
+12	1
+oooooxoow
+1
+12	0
+ooooooeew
+2
+12	0	12	1
+ooooooexw
+2
+12	0	12	1
+wooooooxe
+2
+12	1	12	2
+wooooooxx
+2
+12	1	12	2
+ooooooxow
+2
+12	0	12	1
+wooooooox
+3
+12	1	12	2	12	3
+woooooooo
+4
+12	1	12	2	12	3	12	4
+weeexxxew
+1
+8	2
+weexexxew
+1
+11	2
+weexexxxw
+1
+4	3
+weexxexxw
+1
+6	3
+weexxxeew
+1
+7	1
+eoeooew
+1
+23	0
+weexxxexw
+1
+5	3
+weexxxeow
+1
+8	1
+weeoeooew
+1
+23	2
+weeoeooow
+1
+16	3
+weeooeoew
+1
+22	2
+weeoooeew
+1
+19	1
+weeoooexw
+1
+20	1
+weeooooxw
+1
+14	2
+weeooooow
+1
+12	3
+wexexxeew
+1
+11	1
+wexexxexw
+1
+11	1
+oooeoexw
+1
+17	0
+wexexxxew
+1
+4	2
+oooeoeew
+1
+17	0
+wexexxxxw
+2
+2	3	4	2
+wexexxxow
+1
+4	2
+wexeoooow
+1
+14	3
+wexxexeew
+1
+10	1
+wxxexxo
+1
+6	1
+wexxexexw
+1
+10	1
+wexxexeow
+1
+10	1
+wexxexxew
+1
+6	2
+wexxexxxw
+2
+4	3	6	2
+wexxxxeew
+1
+1	1
+wexxxxeow
+1
+1	1
+wexxxxxxw
+2
+0	2	0	3
+woeoooxew
+1
+16	1
+wexxxxoxw
+1
+2	1
+wexooeoow
+1
+18	3
+wexoooeow
+1
+17	3
+wexooooow
+1
+12	3
+weoeooeow
+1
+23	1
+weoeoooew
+1
+16	2
+weoeoooxw
+1
+16	2
+weoeoooow
+2
+14	3	16	2
+weoxexxxw
+1
+4	3
+weooeoeew
+1
+22	1
+weooeoeow
+1
+22	1
+weooeooxw
+1
+18	2
+weooeooow
+2
+16	3	18	2
+weoooeexw
+1
+21	0
+weoooeoxw
+1
+17	2
+weooooxew
+1
+14	1
+weooooxxw
+1
+14	1
+weooooxow
+1
+14	1
+wexxxxxw
+1
+0	2
+weoooooow
+2
+12	2	12	3
+wxeexxxew
+1
+8	2
+wxeexxxxw
+1
+2	3
+wxeeoooew
+1
+20	2
+wxexxexew
+1
+10	2
+wxexxexxw
+1
+6	3
+wxexxxeow
+1
+4	1
+wxexxxxow
+2
+2	2	4	1
+wxexxxoow
+1
+4	1
+wxeoeooow
+1
+16	3
+wxeoooeow
+1
+17	3
+wxeooooew
+1
+13	2
+wxeooooxw
+1
+14	2
+wxeooooow
+1
+12	3
+wxxexxeew
+1
+6	1
+wxxexxeow
+1
+6	1
+wxxexxxew
+2
+4	2	6	1
+wxxexxxxw
+3
+2	3	4	2	6	1
+wxxexxxow
+2
+4	2	6	1
+wxxexxoxw
+1
+6	1
+wxxexxoow
+1
+6	1
+wxxeoooow
+1
+14	3
+wxxxexexw
+1
+5	1
+wxxxexeow
+1
+5	1
+wxxxexxxw
+3
+4	3	5	1	6	2
+wxxxexxow
+2
+5	1	6	2
+wxxxexoxw
+1
+5	1
+wxxxexoow
+1
+5	1
+wxxxxeexw
+1
+3	0
+wxxxxeeow
+1
+3	0
+wxxxxexew
+2
+3	0	5	2
+wxxxxxexw
+2
+0	1	5	3
+wxxxxxeow
+1
+0	1
+wxxxxxxew
+2
+0	1	0	2
+wxxxxxxow
+2
+0	1	0	2
+wxxxxxoxw
+1
+0	1
+woxxexxe
+1
+6	2
+wxxxxxoow
+1
+0	1
+eeooooxw
+1
+14	1
+wxxooeoow
+1
+18	3
+wxxooooew
+1
+15	2
+wxxooooow
+1
+12	3
+wxoexxxxw
+1
+2	3
+wxoeoooxw
+1
+16	2
+wxoeoooow
+2
+14	3	16	2
+xxxexoow
+1
+5	0
+wxoxexxxw
+1
+4	3
+wxoxxxexw
+1
+5	3
+wxoooeoew
+1
+17	2
+wxooooeew
+1
+15	1
+wxooooexw
+1
+15	1
+wxooooeow
+2
+15	1	17	3
+wxoooooew
+1
+12	2
+wxoooooxw
+1
+12	2
+wxoooooow
+2
+12	2	12	3
+woeexxxew
+1
+8	2
+woeexxxxw
+1
+2	3
+woeeoooew
+1
+20	2
+woexxexew
+1
+10	2
+woexxexxw
+1
+6	3
+woexxxxxw
+1
+0	3
+woeoeooew
+1
+23	2
+woeoeooow
+1
+16	3
+woeooeoew
+1
+22	2
+woeooeoow
+1
+18	3
+woeoooeew
+1
+16	1
+woeoooexw
+1
+16	1
+woeoooeow
+2
+16	1	17	3
+woeoooxow
+1
+16	1
+woeooooew
+2
+13	2	16	1
+woxexxxew
+1
+4	2
+woxxexxew
+1
+6	2
+woxxxxxew
+1
+0	2
+woxxxxxow
+1
+0	2
+woxooooew
+1
+15	2
+woxooooow
+1
+12	3
+wooeooexw
+1
+18	1
+wooeooeow
+1
+18	1
+wooeooxxw
+1
+18	1
+wooxxexxw
+1
+6	3
+wooxxxexw
+1
+5	3
+woooeoexw
+1
+17	1
+woooeoeow
+1
+17	1
+woooeooow
+3
+16	3	17	1	18	2
+woeoooe
+1
+16	1
+wooooeeew
+1
+15	0
+wooooeexw
+1
+15	0
+wooooeeow
+1
+15	0
+wooooexew
+1
+15	0
+wooooexxw
+1
+15	0
+wooooexow
+1
+15	0
+wooooeoew
+2
+15	0	17	2
+wooooeoow
+3
+15	0	17	2	18	3
+woooooeew
+1
+12	1
+woooooexw
+1
+12	1
+woooooeow
+2
+12	1	17	3
+woooooxxw
+1
+12	1
+woooooxow
+1
+12	1
+eeexxxxw
+1
+2	2
+eeeoooow
+1
+14	2
+oxxexxew
+1
+6	1
+weexexxx
+1
+4	3
+eexexxxw
+1
+4	2
+weexxexe
+1
+10	2
+eexxxeew
+1
+7	0
+eexxxexw
+1
+5	2
+eexxxeow
+1
+8	0
+weexxxxx
+1
+0	3
+eexxxxxw
+1
+0	2
+eeoeooew
+1
+23	1
+eeooeoow
+1
+18	2
+weeoooee
+1
+19	1
+weeoooex
+1
+20	1
+weeoooeo
+1
+17	3
+eeooooew
+1
+13	1
+exexxexw
+1
+11	0
+exexxeow
+1
+11	0
+wexexxxe
+1
+4	2
+exexxxew
+1
+4	1
+wexexxxx
+1
+4	2
+exexxxxw
+2
+2	2	4	1
+wexexxxo
+1
+4	2
+wexxexee
+1
+10	1
+wexxexex
+1
+10	1
+wexxexeo
+1
+10	1
+exxexxxw
+2
+4	2	6	1
+wexxexxo
+1
+6	2
+exxexxow
+1
+6	1
+wexxxeee
+1
+9	0
+wexxxeex
+1
+9	0
+wexxxeeo
+1
+9	0
+wexxxexe
+1
+5	2
+exxxexew
+1
+5	1
+exxxexxw
+2
+5	1	6	2
+wexxxexo
+1
+5	2
+wexxxxee
+1
+1	1
+exxxxeew
+1
+1	0
+wexxxxex
+2
+1	1	5	3
+wexxxxeo
+1
+1	1
+xxxxxoxw
+1
+0	0
+exxxxeow
+1
+1	0
+exxxxoew
+1
+2	0
+exxxxoxw
+1
+2	0
+exxxxoow
+1
+2	0
+exoeooow
+1
+16	2
+wexoooeo
+1
+17	3
+exoooeow
+1
+17	2
+wexooooe
+1
+15	2
+wexooooo
+1
+12	3
+exooooow
+1
+12	2
+eoexxxxw
+1
+2	2
+weoeooee
+1
+23	1
+weoeooex
+1
+23	1
+weoeooeo
+1
+23	1
+eoeooeow
+1
+23	0
+eoeoooew
+1
+16	1
+weoeooox
+1
+16	2
+eoeoooxw
+1
+16	1
+weoeoooo
+1
+16	2
+weoxxexx
+1
+6	3
+eoxxexxw
+1
+6	2
+weooooow
+1
+12	2
+weoxxxex
+1
+5	3
+eoxxxexw
+1
+5	2
+eoxxxxew
+1
+3	1
+weooeoee
+1
+22	1
+eooeoeew
+1
+22	0
+weooeoex
+1
+22	1
+eooeoexw
+1
+22	0
+weooeoeo
+1
+22	1
+weooeooe
+1
+18	2
+eooeooew
+1
+18	1
+weooeooo
+2
+16	3	18	2
+weoooeex
+1
+21	0
+weoooeoe
+1
+17	2
+eoooeoew
+1
+17	1
+weoooeox
+1
+17	2
+eoooeoxw
+1
+17	1
+weoooeoo
+2
+17	2	18	3
+eoooeoow
+2
+17	1	18	2
+eooooexw
+1
+13	0
+eooooeow
+2
+13	0	17	2
+weooooxe
+1
+14	1
+eooooxew
+1
+14	0
+weooooxx
+1
+14	1
+weooooxo
+1
+14	1
+eooooxow
+1
+14	0
+ooxexxxw
+1
+4	2
+weoooooe
+1
+12	2
+eoooooew
+1
+12	1
+wexxxxo
+1
+2	1
+weooooox
+1
+12	2
+eoooooow
+2
+12	1	12	2
+wxexexxe
+1
+11	2
+wxexexxx
+1
+4	3
+wxexxexx
+1
+6	3
+xexxexxw
+1
+6	2
+xexxxexw
+2
+4	0	5	2
+wxexxxxe
+2
+1	2	4	1
+wxexxxxo
+2
+2	2	4	1
+wxexxxoe
+1
+4	1
+xexxxoew
+1
+4	0
+wxexxxox
+1
+4	1
+wxexxxoo
+1
+4	1
+xexxxoow
+1
+4	0
+wxeoeooe
+1
+23	2
+wxeoeooo
+1
+16	3
+xeoeooow
+1
+16	2
+wxeooeoe
+1
+22	2
+xeooeoew
+1
+22	1
+wxeooeoo
+1
+18	3
+xeooeoow
+1
+18	2
+wxeoooeo
+1
+17	3
+xeoooeow
+1
+17	2
+wxeooooe
+1
+13	2
+wxeoooox
+1
+14	2
+wxeooooo
+1
+12	3
+xxexxeew
+1
+6	0
+wxxexxeo
+1
+6	1
+wexexxe
+1
+11	1
+xxexxoew
+1
+6	0
+wxxexxox
+1
+6	1
+xxexxoxw
+1
+6	0
+xxxexw
+1
+5	0
+wxxexxoo
+1
+6	1
+xxeoooow
+1
+14	2
+wxxxexee
+1
+5	1
+xxxexeew
+1
+5	0
+xxxexeow
+1
+5	0
+wxxxexxe
+2
+5	1	6	2
+wxxxexxx
+3
+4	3	5	1	6	2
+xxxexxxw
+3
+4	2	5	0	6	1
+wxxxexxo
+2
+5	1	6	2
+xxxexxow
+2
+5	0	6	1
+wxxxexoe
+1
+5	1
+wxxxexox
+1
+5	1
+xxxexoxw
+1
+5	0
+wxxxexoo
+1
+5	1
+wxxxxeee
+1
+3	0
+wxxxxeex
+1
+3	0
+wxxxxeeo
+1
+3	0
+wxxxxexe
+2
+3	0	5	2
+xxxxexew
+1
+5	1
+wxxxxexx
+3
+3	0	5	2	6	3
+xxxxexxw
+2
+5	1	6	2
+wxxxxexo
+2
+3	0	5	2
+xxxxxeew
+1
+0	0
+xxxxxxew
+2
+0	0	0	1
+xxxxxxxw
+3
+0	0	0	1	0	2
+wxxxxxxo
+2
+0	1	0	2
+xxxxxxow
+2
+0	0	0	1
+xxxxxoew
+1
+0	0
+wxxoeooo
+1
+16	3
+xxoeooow
+1
+16	2
+wxxooeoo
+1
+18	3
+xxooooow
+1
+12	2
+xoexxxxw
+1
+2	2
+wxoeoooe
+1
+16	2
+xoeoooew
+1
+16	1
+wxoeooox
+1
+16	2
+wxoeoooo
+1
+16	2
+xoeoooow
+2
+14	2	16	1
+wxoxexxx
+1
+4	3
+xoxexxxw
+1
+4	2
+wxoxxexx
+1
+6	3
+wxoxxxxe
+1
+3	2
+xoxxxxew
+1
+3	1
+wxoxxxxx
+1
+0	3
+xoxxxxxw
+1
+0	2
+xooeooew
+1
+18	1
+wxooeoox
+1
+18	2
+xooeooxw
+1
+18	1
+xooeooow
+2
+16	2	18	1
+xoooeoew
+1
+17	1
+xoooeoow
+2
+17	1	18	2
+wxooooee
+1
+15	1
+xooooeow
+2
+15	0	17	2
+wxoooooe
+1
+12	2
+wxooooox
+1
+12	2
+wxoooooo
+2
+12	2	12	3
+xoooooow
+2
+12	1	12	2
+oeexxxxw
+1
+2	2
+oeeoooew
+1
+20	1
+woexexxe
+1
+11	2
+wexxxeew
+1
+9	0
+oexexxew
+1
+11	1
+woexexxx
+1
+4	3
+wexxxexw
+1
+5	2
+oexexxxw
+1
+4	2
+woexxxee
+1
+9	1
+woexxxex
+1
+5	3
+oexxxxew
+1
+1	1
+oexxxxow
+1
+2	1
+oeoeooew
+1
+23	1
+woeoeooo
+1
+16	3
+woeooeoe
+1
+22	2
+woeooeoo
+1
+18	3
+woeoooee
+1
+16	1
+woeoooex
+1
+16	1
+woeoooeo
+2
+16	1	17	3
+oeoooxew
+1
+16	0
+oeoooxxw
+1
+16	0
+oeooooxw
+2
+14	1	16	0
+oxexxxew
+1
+4	1
+woxexxxx
+1
+4	2
+oxeoooow
+1
+14	2
+woxxexxx
+2
+4	3	6	2
+woxxexxo
+1
+6	2
+woxxxexe
+1
+5	2
+ooooeoxw
+1
+17	1
+woxxxexx
+2
+5	2	6	3
+woxxxexo
+1
+5	2
+oxxxexow
+1
+5	1
+oxxxxeew
+1
+3	0
+oxxxxexw
+2
+3	0	5	2
+oxxxxeow
+1
+3	0
+woxoeooo
+1
+16	3
+oxoeooow
+1
+16	2
+woxooeoo
+1
+18	3
+woxoooeo
+1
+17	3
+oxoooeow
+1
+17	2
+woxooooe
+1
+15	2
+woxooooo
+1
+12	3
+ooexxxxw
+1
+2	2
+wooeooex
+1
+18	1
+ooeooexw
+1
+18	0
+ooeooeow
+1
+18	0
+ooeooxew
+1
+18	0
+ooeooxxw
+1
+18	0
+wooeooxo
+1
+18	1
+wooeoooe
+2
+16	2	18	1
+ooeoooew
+2
+16	1	18	0
+ooeoooxw
+2
+16	1	18	0
+wooxxexx
+1
+6	3
+ooxxexxw
+1
+6	2
+wooxxxex
+1
+5	3
+wooxxxxe
+1
+3	2
+ooxxxxew
+1
+3	1
+ooxxxxxw
+1
+0	2
+woooeoex
+1
+17	1
+woooeoeo
+1
+17	1
+oooeoxxw
+1
+17	0
+woooeoxo
+1
+17	1
+oooeoxow
+1
+17	0
+woooeooe
+2
+17	1	18	2
+oooeooew
+2
+17	0	18	1
+woooeooo
+3
+16	3	17	1	18	2
+wooooexx
+1
+15	0
+wooooexo
+1
+15	0
+wooooeoe
+2
+15	0	17	2
+wooooeox
+2
+15	0	17	2
+wooooeoo
+3
+15	0	17	2	18	3
+oooooeew
+1
+12	0
+oooooxow
+1
+12	0
+wooooooe
+2
+12	1	12	2
+ooooooxw
+2
+12	0	12	1
+wooooooo
+3
+12	1	12	2	12	3
+ooooooow
+3
+12	0	12	1	12	2
+weexxxxw
+1
+2	2
+weeoooew
+1
+20	1
+wexexxew
+1
+11	1
+wexexxxw
+1
+4	2
+wexxexew
+1
+10	1
+wexxexxw
+1
+6	2
+wexxxxew
+1
+1	1
+weoeooew
+1
+23	1
+weooeoew
+1
+22	1
+weooeoow
+1
+18	2
+weoooeew
+1
+21	0
+weoooeow
+1
+17	2
+weooooxw
+1
+14	1
+wxexxxew
+1
+4	1
+wxexxxow
+1
+4	1
+wxeoooow
+1
+14	2
+wxxexxew
+1
+6	1
+wxxexxxw
+2
+4	2	6	1
+wxxxexew
+1
+5	1
+wxxxexow
+1
+5	1
+wxxxxexw
+2
+3	0	5	2
+wxxxxxxw
+2
+0	1	0	2
+wxxxxxow
+1
+0	1
+wxoeooow
+1
+16	2
+wxooeoow
+1
+18	2
+wxoooeow
+1
+17	2
+wxooooew
+1
+15	1
+wxooooow
+1
+12	2
+woeoooew
+1
+16	1
+woxexxxw
+1
+4	2
+woxxxexw
+1
+5	2
+wooeooxw
+1
+18	1
+woooeoxw
+1
+17	1
+woooeoow
+2
+17	1	18	2
+wooooeow
+2
+15	0	17	2
+eexxxew
+1
+8	0
+eexxxxw
+1
+2	1
+eeoooew
+1
+20	0
+exexxew
+1
+11	0
+wexexxx
+1
+4	2
+wexxexe
+1
+10	1
+exxexew
+1
+10	0
+wexxexx
+1
+6	2
+exxexxw
+1
+6	1
+wexxxee
+1
+9	0
+wexxxex
+1
+5	2
+wxxxexe
+1
+5	1
+exxxexw
+1
+5	1
+weoeooe
+1
+23	1
+eoeooow
+1
+16	1
+eooooew
+1
+13	0
+weoooox
+1
+14	1
+weooooo
+1
+12	2
+xexxxew
+1
+4	0
+xeoooow
+1
+14	1
+wxxexxe
+1
+6	1
+xxexxew
+1
+6	0
+wxxexxx
+2
+4	2	6	1
+xxexxxw
+2
+4	1	6	0
+xxxexew
+1
+5	0
+wxxxexx
+2
+5	1	6	2
+xxxexxw
+2
+5	0	6	1
+wxxxexo
+1
+5	1
+xxxxexw
+1
+5	1
+xxxxxew
+1
+0	0
+wxooeoo
+1
+18	2
+xooeoow
+1
+18	1
+oexxxxw
+1
+2	1
+oeoooew
+1
+16	0
+oeoooxw
+1
+16	0
+oeoooow
+2
+14	1	16	0
+woxexxx
+1
+4	2
+woxxexx
+1
+6	2
+oxxexxw
+1
+6	1
+woxxxex
+1
+5	2
+woxxxxe
+1
+3	1
+woxxxxx
+1
+0	2
+wooeooe
+1
+18	1
+wooeoox
+1
+18	1
+ooeooxw
+1
+18	0
+wooeooo
+2
+16	2	18	1
+woooeoe
+1
+17	1
+oooeoew
+1
+17	0
+oooeoxw
+1
+17	0
+oooeoow
+2
+17	0	18	1
+wooooee
+1
+15	0
+wooooex
+1
+15	0
+ooooeow
+1
+17	1
+woooooe
+1
+12	1
+oooooew
+1
+12	0
+wooooox
+1
+12	1
+oooooxw
+1
+12	0
+woooooo
+2
+12	1	12	2
+oooooow
+2
+12	0	12	1
+wexxxxw
+1
+2	1
+wxxxexw
+1
+5	1
+woooeow
+1
+17	1
+wooooew
+1
+15	0
+wooooow
+1
+12	1
+exxxxw
+1
+2	0
+wxxexx
+1
+6	1
+xxexxw
+1
+6	0
+wxxxxe
+1
+3	0
+xxxxxw
+1
+0	0
+wooeoo
+1
+18	1
+oooeow
+1
+17	0
+wooooe
+1
+15	0
+wooooo
+1
+12	1
+ooooow
+1
+12	0
