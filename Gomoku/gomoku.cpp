@@ -155,12 +155,12 @@ void discardDeviceResources() {
 
 HRESULT loadAssets(ID2D1HwndRenderTarget* pRT,IWICImagingFactory* pIWICFactory)
 {
-	HRESULT hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cell.png", 220, 63, &Assets::EMPTY_CELL);
+	HRESULT hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cell.png", TILE_SIZE, TILE_SIZE, &Assets::EMPTY_CELL);
 	if (SUCCEEDED(hr)) {
-		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cross.png", 220, 63, &Assets::CROSS);
+		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cross.png", TILE_SIZE, TILE_SIZE, &Assets::CROSS);
 	}
 	if (SUCCEEDED(hr)) {
-		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/circle.png", 220, 63, &Assets::CIRCLE);
+		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/circle.png", TILE_SIZE, TILE_SIZE, &Assets::CIRCLE);
 	}
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/play_button.png", 220, 63, &Assets::PLAY_BUTTON);
@@ -442,33 +442,46 @@ State::State(StateManager* state_manager):
 //class MenuState
 MenuState::MenuState(StateManager* state_manager) : State(state_manager),
 	m_play_button(Assets::PLAY_BUTTON, Assets::PLAY_BUTTON_PRESSED, D2D1::RectF(290, 200, 510, 263), D2D1::RectF(292, 202, 508, 261), true, false),
-	m_exit_button(Assets::EXIT_BUTTON, Assets::EXIT_BUTTON_PRESSED, D2D1::RectF(290, 300, 510, 363), D2D1::RectF(292, 302, 508, 361), true, false)
+	m_exit_button(Assets::EXIT_BUTTON, Assets::EXIT_BUTTON_PRESSED, D2D1::RectF(290, 300, 510, 363), D2D1::RectF(292, 302, 508, 361), true, false),
+	m_switch_button(0, 0, D2D1::RectF(384, 160, 416, 192), D2D1::RectF(384, 160, 416, 192), true, false)
 {
+	m_ops.ai_to_move = true;
+	m_ops.player_to_move = Player::X;
+	m_ops.start_pos = "";
+	m_ops.time_limit = 60000;
+	m_ops.max_depth = 9;
 }
 
 void MenuState::update(const Input& input)
 {
 	if (m_play_button.lb_action(input)) {
 		m_state_manager->remove_state("game");
-		GameStateOptions ops;
-		ops.ai_to_move = true;
-		ops.player_to_move = Player::X;
-		ops.start_pos = "";
-		ops.time_limit = 60000;
-		m_state_manager->add_state("game", new GameState(m_state_manager, ops));
+		m_state_manager->add_state("game", new GameState(m_state_manager, m_ops));
 		m_state_manager->switch_state("game");
 	}
 	if (m_exit_button.lb_action(input)) {
 		m_state_manager->stop();
 	}
+
+	if (m_switch_button.lb_action(input)) {
+		m_ops.ai_to_move = !m_ops.ai_to_move;
+	}
+
 	m_play_button.update(input);
 	m_exit_button.update(input);
+	m_switch_button.update(input);
 }
 
 void MenuState::render(ID2D1HwndRenderTarget* pRT)
 {
 	D2D1_SIZE_U client_size = pRT->GetPixelSize();
 	if(Assets::MENU_BACKGROUND) pRT->DrawBitmap(Assets::MENU_BACKGROUND, D2D1::RectF(0, 0, float(client_size.width), float(client_size.height)), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
+	if (m_ops.ai_to_move) {
+		if (Assets::CROSS) pRT->DrawBitmap(Assets::CROSS, D2D1::RectF(384, 160, 416, 192), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
+	}
+	else {
+		if (Assets::CIRCLE) pRT->DrawBitmap(Assets::CIRCLE, D2D1::RectF(384, 160, 416, 192), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
+	}
 	m_play_button.render(pRT);
 	m_exit_button.render(pRT);
 }
@@ -1961,17 +1974,16 @@ void GameState::update(const Input& input)
 	}
 
 	if (m_ai_to_move && !m_game_over && !m_thinking) {
-		int max_depth = 10;
 		m_thinking = true;
 		if (m_ai_thread) {
 			if (m_ai_thread->joinable()) {
 				m_ai_thread->join();
 				delete m_ai_thread;
-				m_ai_thread = new std::thread(&GameState::generate_move, this, max_depth, 10000);
+				m_ai_thread = new std::thread(&GameState::generate_move, this, m_ops.max_depth, 10000);
 			}
 		}
 		else {
-			m_ai_thread = new std::thread(&GameState::generate_move, this, max_depth, 10000);
+			m_ai_thread = new std::thread(&GameState::generate_move, this, m_ops.max_depth, 10000);
 		}
 	}
 
@@ -1988,20 +2000,6 @@ void GameState::update(const Input& input)
 			m_ai_to_move = true;
 		}
 	}
-
-	/*if (m_board_button.rb_action(input) && m_ai_to_move && !m_game_over) {
-		int row = (input.mouse_click_pos_y - static_cast<int>(OFFSET_Y)) / TILE_SIZE;
-		int col = (input.mouse_click_pos_x - static_cast<int>(OFFSET_X)) / TILE_SIZE;
-		bool moved = m_board.move(row, col, m_ai);
-		if (moved) {
-			m_last_move = row * BOARD_DIM + col;
-			Result r = m_board.check_result(row * BOARD_DIM + col);
-			if (r == Result::XWIN) std::cout << "X won" << std::endl;
-			if (r == Result::OWIN) std::cout << "O won" << std::endl;
-			if (r != Result::NONE) m_game_over = true;
-			m_ai_to_move = false;
-		}
-	}*/
 
 	m_menu_button.update(input);
 	m_board_button.update(input);
@@ -2088,7 +2086,7 @@ int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int dept
 		if (ptt->type == TTEntryType::EXACT) {
 			return ptt->value;
 		}
-		if ((ptt->type == TTEntryType::ALPHA) && (ptt->value < alpha)) {
+		if ((ptt->type == TTEntryType::ALPHA) && (ptt->value <= alpha)) {
 			return ptt->value;
 		}
 		if ((ptt->type == TTEntryType::BETA) && (ptt->value >= beta)) {

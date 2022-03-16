@@ -49,8 +49,6 @@ const float OFFSET_X = float(CLIENT_WIDTH - BOARD_DIM * TILE_SIZE) / 2;
 const float OFFSET_Y = float(CLIENT_HEIGHT - BOARD_DIM * TILE_SIZE) / 2;
 const int MAX_SCORE = 100000;
 const float INITIATIVE_MULTYPLIER = 1.2f;
-const int MAX_THREAT_NUM = 128;
-const int MAX_THREAT_PLAYED_NUM = 32;
 
 std::vector<Threat_type> THREAT_TYPES_X;
 std::vector<Threat_type> THREAT_TYPES_O;
@@ -121,7 +119,7 @@ public:
 	StateManager();
 	~StateManager();
 	void init(std::string base_state_id, State* base_state);
-	void add_state(std::string state_id,State* state);
+	void add_state(std::string state_id, State* state);
 	void remove_state(std::string state_id);
 	void stop();
 	void switch_state(std::string state_id);
@@ -142,10 +140,25 @@ public:
 	State(StateManager* state_manager);
 };
 
+enum class Player {
+	X, O, EMPTY
+};
+
+struct GameStateOptions {
+	std::string start_pos;
+	bool ai_to_move;
+	Player player_to_move;
+	int time_limit; //milliseconds
+	int max_depth;
+	GameStateOptions() :ai_to_move(true), time_limit(10000), player_to_move(Player::X), max_depth(3) {};
+};
+
 class MenuState : public State {
 private:
 	Button m_play_button;
 	Button m_exit_button;
+	Button m_switch_button;
+	GameStateOptions m_ops;
 public:
 	MenuState(StateManager* state_manager);
 	void update(const Input& input);
@@ -154,20 +167,8 @@ public:
 	void stop();
 };
 
-enum class Player {
-	X, O, EMPTY
-};
-
 enum class Result {
 	XWIN, OWIN, DRAW, NONE
-};
-
-struct GameStateOptions {
-	std::string start_pos;
-	bool ai_to_move;
-	Player player_to_move;
-	int time_limit; //milliseconds
-	GameStateOptions():ai_to_move(true), time_limit(10000), player_to_move(Player::X) {};
 };
 
 //defines a threat type
