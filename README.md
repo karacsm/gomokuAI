@@ -12,6 +12,8 @@ Library dependencies:
 
 Direct2D
 
+### Build instructions
+
 The executable can be built using the commands 
 
 `cd gomoku/source`
@@ -24,4 +26,7 @@ The executable needs to be installed using the command
 
 `cmake --install ./build`
 
+### How to play
+
+Clicking the executable in the install folder will launch the AI. Always the player with the X symbol starts after pressing PLAY. Clicking the box above the PLAY button in the menu changes the AI's symbol from X to O or from O to X. When playing you can make moves by clicking the tile where you want place your symbol. After your move the AI thinks for about a minute then plays its move. The game continues until somebody wins or the playing area is filled completely in, in that case the game ends in a draw.
 
