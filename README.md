@@ -8,6 +8,10 @@ System requirements:
 
 Windows 64 bit OS
 
+Library dependencies:
+
+Direct2D
+
 The executable can be built using the commands 
 
 `cd gomoku/source`
