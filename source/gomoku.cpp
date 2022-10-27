@@ -1944,6 +1944,7 @@ m_game_over(false), m_board(ops.start_pos), m_last_move(0), m_thinking(false), m
 		if (ops.player_to_move == Player::X) m_ai = Player::O;
 		if (ops.player_to_move == Player::O) m_ai = Player::X;
 	}
+	std::cout << "It's your turn. Click to make a move." << std::endl;
 }
 
 GameState::~GameState()
@@ -1975,6 +1976,7 @@ void GameState::update(const Input& input)
 
 	if (m_ai_to_move && !m_game_over && !m_thinking) {
 		m_thinking = true;
+		std::cout << "Thinking . . ." << std::endl;
 		if (m_ai_thread) {
 			if (m_ai_thread->joinable()) {
 				m_ai_thread->join();
@@ -2217,15 +2219,14 @@ void GameState::generate_move(int max_depth, int time_limit)
 	bool moved = m_board.move(row, col, m_ai);
 	m_last_move = move;
 	if (failed) std::cout << "failed" << std::endl;
-	std::cout << "player: " << static_cast<int>(m_ai) << std::endl;
 	std::cout << "depth: " << depth_reached << " ply" << std::endl;
 	std::cout << "value: " << root.value << std::endl;
-	std::cout << "(" << row << ", " << col << ")" << std::endl;
-	std::cout << std::endl;
 	Result r = m_board.check_result(move);
 	if (r == Result::XWIN) std::cout << "X won" << std::endl;
 	if (r == Result::OWIN) std::cout << "O won" << std::endl;
 	if (r != Result::NONE) m_game_over = true;
+	else std::cout << "I made my move, it is your turn." << std::endl;
+	std::cout << std::endl;
 	m_ai_to_move = false;
 	m_thinking = false;
 }
