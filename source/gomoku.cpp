@@ -43,7 +43,6 @@ int main() {
 	wcex.hbrBackground = (HBRUSH)(COLOR_BACKGROUND + 1);
 	wcex.hIcon = LoadIcon(hInstance, IDC_ICON);
 	wcex.hCursor = LoadCursor(hInstance, IDC_ARROW);
-
 	RegisterClassEx(&wcex);
 
 	RECT wrect;
@@ -51,42 +50,32 @@ int main() {
 	wrect.right = CLIENT_WIDTH;
 	wrect.top = 0;
 	wrect.bottom = CLIENT_HEIGHT;
-
 	AdjustWindowRect(&wrect, WS_OVERLAPPED | WS_SYSMENU | WS_MINIMIZEBOX | WS_CAPTION, false);
-
 	HWND hWnd = CreateWindow(windowClassName, windowTitle, WS_OVERLAPPED | WS_SYSMENU | WS_MINIMIZEBOX | WS_CAPTION, CW_USEDEFAULT, CW_USEDEFAULT, wrect.right - wrect.left, wrect.bottom - wrect.top, 0, 0, hInstance, NULL);
-
 	RECT crect;
 	GetClientRect(hWnd, &crect);
 
 	HRESULT hr = D2D1CreateFactory(D2D1_FACTORY_TYPE_SINGLE_THREADED, &pFactory);
-
 	if (SUCCEEDED(hr)) {
 		hr = pFactory->CreateHwndRenderTarget(D2D1::RenderTargetProperties(), D2D1::HwndRenderTargetProperties(hWnd, D2D1::SizeU(crect.right - crect.left, crect.bottom - crect.top)), &pRT);
 	}
-
 	hr = CoInitialize(NULL);
-
 	if (SUCCEEDED(hr)) {
 		hr = CoCreateInstance(CLSID_WICImagingFactory, NULL, CLSCTX_INPROC_SERVER, IID_PPV_ARGS(&pIWICFactory));
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = loadAssets(pRT, pIWICFactory);
 	}
-
 	if (!SUCCEEDED(hr)) {
 		return 1;
 	}
 
 	StateManager stateman;
 	stateman.init("menu", new MenuState(&stateman));
-
 	ShowWindow(hWnd, SW_SHOW);
 	UpdateWindow(hWnd);
 
 	MSG msg;
-
 	Input input;
 	input.escape_down = false;
 	input.lb_down = false;
@@ -96,7 +85,6 @@ int main() {
 	input.mouse_coord_y = 0;
 	input.mouse_click_pos_x = 0;
 	input.mouse_click_pos_y = 0;
-
 	while (stateman.running()) {
 		if (PeekMessage(&msg, NULL, 0, 0, PM_REMOVE)) {
 			TranslateMessage(&msg);
@@ -128,12 +116,10 @@ int main() {
 			loadAssets(pRT, pIWICFactory);
 		}
 	}
-
 	discardDeviceResources();
 	SafeRelease(&pRT);
 	SafeRelease(&pFactory);
 	SafeRelease(&pIWICFactory);
-
 	return 0;
 }
 
@@ -153,8 +139,7 @@ void discardDeviceResources() {
 	SafeRelease(&Assets::RANK_LABELS);
 }
 
-HRESULT loadAssets(ID2D1HwndRenderTarget* pRT,IWICImagingFactory* pIWICFactory)
-{
+HRESULT loadAssets(ID2D1HwndRenderTarget* pRT,IWICImagingFactory* pIWICFactory) {
 	HRESULT hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cell.png", TILE_SIZE, TILE_SIZE, &Assets::EMPTY_CELL);
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/cross.png", TILE_SIZE, TILE_SIZE, &Assets::CROSS);
@@ -174,37 +159,29 @@ HRESULT loadAssets(ID2D1HwndRenderTarget* pRT,IWICImagingFactory* pIWICFactory)
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/exit_button_pressed.png", 220, 63, &Assets::EXIT_BUTTON_PRESSED);
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/menu_button.png", 220, 63, &Assets::MENU_BUTTON);
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/menu_button_pressed.png", 220, 63, &Assets::MENU_BUTTON_PRESSED);
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/menu.png", 800, 600, &Assets::MENU_BACKGROUND);
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/files.png", 32 * 15, 32, &Assets::FILE_LABELS);
 	}
-
 	if (SUCCEEDED(hr)) {
 		hr = LoadBitmapFromFile(pRT, pIWICFactory, L"resources/ranks.png", 32, 15 * 32, &Assets::RANK_LABELS);
 	}
-
 	return hr;
 }
-HRESULT LoadBitmapFromFile(ID2D1RenderTarget* pRT, IWICImagingFactory* pIWICFactory, PCWSTR uri, UINT destinationWidth, UINT destinationHeight, ID2D1Bitmap** ppBitmap)
-{
+HRESULT LoadBitmapFromFile(ID2D1RenderTarget* pRT, IWICImagingFactory* pIWICFactory, PCWSTR uri, UINT destinationWidth, UINT destinationHeight, ID2D1Bitmap** ppBitmap) {
 	IWICBitmapDecoder* pDecoder = NULL;
 	IWICBitmapFrameDecode* pSource = NULL;
 	IWICStream* pStream = NULL;
 	IWICFormatConverter* pConverter = NULL;
 	IWICBitmapScaler* pScaler = NULL;
-
 	HRESULT hr = pIWICFactory->CreateDecoderFromFilename(
 		uri,
 		NULL,
@@ -212,25 +189,16 @@ HRESULT LoadBitmapFromFile(ID2D1RenderTarget* pRT, IWICImagingFactory* pIWICFact
 		WICDecodeMetadataCacheOnLoad,
 		&pDecoder
 	);
-
-	if (SUCCEEDED(hr))
-	{
+	if (SUCCEEDED(hr)) {
 		// Create the initial frame.
 		hr = pDecoder->GetFrame(0, &pSource);
 	}
-
-	if (SUCCEEDED(hr))
-	{
-
+	if (SUCCEEDED(hr)) {
 		// Convert the image format to 32bppPBGRA
 		// (DXGI_FORMAT_B8G8R8A8_UNORM + D2D1_ALPHA_MODE_PREMULTIPLIED).
 		hr = pIWICFactory->CreateFormatConverter(&pConverter);
-
 	}
-
-
-	if (SUCCEEDED(hr))
-	{
+	if (SUCCEEDED(hr)) {
 		hr = pConverter->Initialize(
 			pSource,
 			GUID_WICPixelFormat32bppPBGRA,
@@ -240,9 +208,7 @@ HRESULT LoadBitmapFromFile(ID2D1RenderTarget* pRT, IWICImagingFactory* pIWICFact
 			WICBitmapPaletteTypeMedianCut
 		);
 	}
-	if (SUCCEEDED(hr))
-	{
-
+	if (SUCCEEDED(hr)) {
 		// Create a Direct2D bitmap from the WIC bitmap.
 		hr = pRT->CreateBitmapFromWicBitmap(
 			pConverter,
@@ -250,19 +216,15 @@ HRESULT LoadBitmapFromFile(ID2D1RenderTarget* pRT, IWICImagingFactory* pIWICFact
 			ppBitmap
 		);
 	}
-
 	SafeRelease(&pDecoder);
 	SafeRelease(&pSource);
 	SafeRelease(&pStream);
 	SafeRelease(&pConverter);
 	SafeRelease(&pScaler);
-
 	return hr;
-
 }
 
-void handleInput(Input* pInput, UINT message, WPARAM wParam, LPARAM lParam)
-{
+void handleInput(Input* pInput, UINT message, WPARAM wParam, LPARAM lParam) {
 	if (message == WM_LBUTTONDOWN) {
 		pInput->lb_down = true;
 		pInput->mouse_click_pos_x = LOWORD(lParam);
@@ -273,7 +235,6 @@ void handleInput(Input* pInput, UINT message, WPARAM wParam, LPARAM lParam)
 		pInput->mouse_click_pos_x = LOWORD(lParam);
 		pInput->mouse_click_pos_y = HIWORD(lParam);
 	}
-
 	if (message == WM_RBUTTONDOWN) {
 		pInput->rb_down = true;
 		pInput->mouse_click_pos_x = LOWORD(lParam);
@@ -290,7 +251,6 @@ void handleInput(Input* pInput, UINT message, WPARAM wParam, LPARAM lParam)
 	if (message == WM_KEYUP && wParam == VK_ESCAPE) {
 		pInput->escape_down = false;
 	}
-
 	//key: d, code: 0x44 
 	if (message == WM_KEYDOWN && wParam == 0x44) {
 		pInput->d_down = true;
@@ -300,19 +260,16 @@ void handleInput(Input* pInput, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 }
 
-int mate_in(int n)
-{
+int mate_in(int n) {
 	return MAX_SCORE - n;
 }
 
 //class Button
 Button::Button(ID2D1Bitmap* image, ID2D1Bitmap* pressed_image, D2D1_RECT_F position, D2D1_RECT_F target, bool lb_active, bool rb_active):
-	m_image(image), m_pressed_image(pressed_image), m_position(position), m_target(target), m_lb_pressed(false), m_rb_pressed(false), m_lb_active(lb_active), m_rb_active(rb_active)
-{
+	m_image(image), m_pressed_image(pressed_image), m_position(position), m_target(target), m_lb_pressed(false), m_rb_pressed(false), m_lb_active(lb_active), m_rb_active(rb_active) {
 }
 
-void Button::update(const Input &input)
-{
+void Button::update(const Input &input) {
 	if (input.lb_down) {
 		if (input.mouse_click_pos_x >= m_target.left && input.mouse_click_pos_x < m_target.right && input.mouse_click_pos_y < m_target.bottom && input.mouse_click_pos_y >= m_target.top) {
 			m_lb_pressed = true;
@@ -331,8 +288,7 @@ void Button::update(const Input &input)
 		m_rb_pressed = false;
 	}
 }
-void Button::render(ID2D1HwndRenderTarget* pRT)
-{
+void Button::render(ID2D1HwndRenderTarget* pRT) {
 	if ((m_lb_pressed && m_lb_active) || (m_rb_pressed && m_rb_active)) {
 		if(m_pressed_image) pRT->DrawBitmap(m_pressed_image, m_position, 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	}
@@ -340,18 +296,15 @@ void Button::render(ID2D1HwndRenderTarget* pRT)
 		if(m_image) pRT->DrawBitmap(m_image, m_position, 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	}
 }
-bool Button::lb_pressed()
-{
+bool Button::lb_pressed() {
 	return m_lb_pressed;
 }
 
-bool Button::rb_pressed()
-{
+bool Button::rb_pressed() {
 	return m_rb_pressed;
 }
 
-bool Button::lb_action(const Input& input)
-{
+bool Button::lb_action(const Input& input) {
 	if (!input.lb_down && m_lb_pressed && m_lb_active) {
 		if (input.mouse_click_pos_x >= m_target.left && input.mouse_click_pos_x < m_target.right && input.mouse_click_pos_y < m_target.bottom && input.mouse_click_pos_y >= m_target.top) {
 			return true;
@@ -360,8 +313,7 @@ bool Button::lb_action(const Input& input)
 	return false;
 }
 
-bool Button::rb_action(const Input& input)
-{
+bool Button::rb_action(const Input& input) {
 	if (!input.rb_down && m_rb_pressed && m_rb_active) {
 		if (input.mouse_click_pos_x >= m_target.left && input.mouse_click_pos_x < m_target.right && input.mouse_click_pos_y < m_target.bottom && input.mouse_click_pos_y >= m_target.top) {
 			return true;
@@ -371,45 +323,38 @@ bool Button::rb_action(const Input& input)
 }
 
 //class StateManager
-StateManager::StateManager(): m_running(false), m_state_id("")
-{
+StateManager::StateManager(): m_running(false), m_state_id("") {
 }
 
-StateManager::~StateManager()
-{
+StateManager::~StateManager() {
 	for (std::map<std::string, State*>::iterator it = m_states.begin(); it != m_states.end(); it++) {
 		if (it->second) delete it->second;
 	}
 }
 
-void StateManager::init(std::string base_state_id, State* base_state)
-{
+void StateManager::init(std::string base_state_id, State* base_state) {
 	m_state_id = base_state_id;
 	if(base_state) base_state->start();
 	m_states[base_state_id] = base_state;
 	m_running = true;
 }
 
-void StateManager::add_state(std::string state_id, State* state)
-{
+void StateManager::add_state(std::string state_id, State* state) {
 	m_states[state_id] = state;
 }
 
-void StateManager::remove_state(std::string state_id)
-{
+void StateManager::remove_state(std::string state_id) {
 	if (m_states.count(state_id)) {
 		if (m_states[state_id]) delete m_states[state_id];
 		m_states.erase(state_id);
 	}
 }
 
-void StateManager::stop()
-{
+void StateManager::stop() {
 	m_running = false;
 }
 
-void StateManager::switch_state(std::string state_id)
-{
+void StateManager::switch_state(std::string state_id) {
 	if (m_states.count(state_id)) {
 		if (m_states[m_state_id]) m_states[m_state_id]->stop();
 		if(m_states[state_id]) m_states[state_id]->start();
@@ -417,34 +362,29 @@ void StateManager::switch_state(std::string state_id)
 	}
 }
 
-bool StateManager::running()
-{
+bool StateManager::running() {
 	return m_running;
 }
 
-void StateManager::update(const Input& input)
-{
+void StateManager::update(const Input& input) {
 	if(m_states[m_state_id]) m_states[m_state_id]->update(input);
 }
 
-void StateManager::render(ID2D1HwndRenderTarget* pRT)
-{
+void StateManager::render(ID2D1HwndRenderTarget* pRT) {
 	if (m_states[m_state_id]) m_states[m_state_id]->render(pRT);
 }
 
 
 //class State
 State::State(StateManager* state_manager):
-	m_state_manager(state_manager)
-{
+	m_state_manager(state_manager) {
 }
 
 //class MenuState
 MenuState::MenuState(StateManager* state_manager) : State(state_manager),
 	m_play_button(Assets::PLAY_BUTTON, Assets::PLAY_BUTTON_PRESSED, D2D1::RectF(290, 200, 510, 263), D2D1::RectF(292, 202, 508, 261), true, false),
 	m_exit_button(Assets::EXIT_BUTTON, Assets::EXIT_BUTTON_PRESSED, D2D1::RectF(290, 300, 510, 363), D2D1::RectF(292, 302, 508, 361), true, false),
-	m_switch_button(0, 0, D2D1::RectF(384, 160, 416, 192), D2D1::RectF(384, 160, 416, 192), true, false)
-{
+	m_switch_button(0, 0, D2D1::RectF(384, 160, 416, 192), D2D1::RectF(384, 160, 416, 192), true, false) {
 	m_ops.ai_to_move = true;
 	m_ops.player_to_move = Player::X;
 	m_ops.start_pos = "";
@@ -452,8 +392,7 @@ MenuState::MenuState(StateManager* state_manager) : State(state_manager),
 	m_ops.max_depth = 9;
 }
 
-void MenuState::update(const Input& input)
-{
+void MenuState::update(const Input& input) {
 	if (m_play_button.lb_action(input)) {
 		m_state_manager->remove_state("game");
 		m_state_manager->add_state("game", new GameState(m_state_manager, m_ops));
@@ -472,8 +411,7 @@ void MenuState::update(const Input& input)
 	m_switch_button.update(input);
 }
 
-void MenuState::render(ID2D1HwndRenderTarget* pRT)
-{
+void MenuState::render(ID2D1HwndRenderTarget* pRT) {
 	D2D1_SIZE_U client_size = pRT->GetPixelSize();
 	if(Assets::MENU_BACKGROUND) pRT->DrawBitmap(Assets::MENU_BACKGROUND, D2D1::RectF(0, 0, float(client_size.width), float(client_size.height)), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	if (m_ops.ai_to_move) {
@@ -486,17 +424,14 @@ void MenuState::render(ID2D1HwndRenderTarget* pRT)
 	m_exit_button.render(pRT);
 }
 
-void MenuState::start()
-{
+void MenuState::start() {
 }
 
-void MenuState::stop()
-{
+void MenuState::stop() {
 }
 
 //class Board
-Board::Board(std::string start_pos):m_zobhash(0)
-{
+Board::Board(std::string start_pos):m_zobhash(0) {
 	load_threats();
 	load_table(m_threat_table, "threat_table.txt");
 
@@ -529,35 +464,26 @@ Board::Board(std::string start_pos):m_zobhash(0)
 	}
 }
 
-Board::~Board()
-{
+Board::~Board() {
 }
 
-bool Board::move(int row, int col, char p)
-{
+bool Board::move(int row, int col, char p) {
 	if (row >= 0 && row < BOARD_DIM && col >= 0 && col < BOARD_DIM && (p == 'x' || p == 'o') && m_legal_moves.count(row * BOARD_DIM + col)) {
-
 		m_rows[row][col] = p;
 		m_cols[col][row] = p;
-
 		//diag pp
 		int k = BOARD_DIM - 1 + col - row;
 		int l = 0;
 		if (k < BOARD_DIM) l = col; else l = row;
 		m_diag_pp[k][l] = p;
-
 		//diag pm
 		k = row + col;
 		if (k < BOARD_DIM) l = col; else l = BOARD_DIM - 1 - row;
 		m_diag_pm[k][l] = p;
-
 		//updating the set of legal moves
 		m_legal_moves.erase(row * BOARD_DIM + col);
-
 		//updating the of set moves
-
 		m_moves.insert(row * BOARD_DIM + col);
-
 		//updating hash
 		if (p == 'x') {
 			int index = 2 * (row * BOARD_DIM + col);
@@ -572,8 +498,7 @@ bool Board::move(int row, int col, char p)
 	return false;
 }
 
-bool Board::move(int row, int col, Player player)
-{
+bool Board::move(int row, int col, Player player) {
 	if (player == Player::X) {
 		return move(row, col, 'x');
 	}
@@ -585,8 +510,7 @@ bool Board::move(int row, int col, Player player)
 	}
 }
 
-void Board::undo_move(int row, int col)
-{
+void Board::undo_move(int row, int col) {
 	if (row >= 0 && row < BOARD_DIM && col >= 0 && col < BOARD_DIM && !m_legal_moves.count(row * BOARD_DIM + col)) {
 		//updating hash
 		if (at(row, col) == 'x') {
@@ -600,49 +524,37 @@ void Board::undo_move(int row, int col)
 		char p = 'e';
 		m_rows[row][col] = p;
 		m_cols[col][row] = p;
-
 		//diag pp
 		int k = BOARD_DIM - 1 + col - row;
 		int l = 0;
 		if (k < BOARD_DIM) l = col; else l = row;
 		m_diag_pp[k][l] = p;
-
 		//diag pm
 		k = row + col;
 		if (k < BOARD_DIM) l = col; else l = BOARD_DIM - 1 - row;
 		m_diag_pm[k][l] = p;
-
 		//updating the set of legal moves
 		m_legal_moves.insert(row * BOARD_DIM + col);
-
 		//updating the set of moves
-
 		m_moves.erase(row * BOARD_DIM + col);
 	}
 }
 
-char Board::at(int row, int col) const
-{
+char Board::at(int row, int col) const {
 	return m_rows[row][col];
 }
 
-Result Board::check_result(int last_move) const
-{
+Result Board::check_result(int last_move) const {
 	int col = last_move % BOARD_DIM;
 	int row = (last_move - col) / BOARD_DIM;
-
 	char p = at(row, col);
-
 	if (p == 'e') return Result::NONE;
-
 	int k_pp = BOARD_DIM - 1 + col - row;
 	int l_pp = 0;
 	if (k_pp < BOARD_DIM) l_pp = col; else l_pp = row;
-
 	int k_pm = row + col;
 	int l_pm = 0;
 	if (k_pm < BOARD_DIM) l_pm = col; else l_pm = BOARD_DIM - 1 - row;
-
 	//check row
 	int start = std::max<int>(0, col - 4);
 	int end = std::min<int>(BOARD_DIM, col + 5);
@@ -659,7 +571,6 @@ Result Board::check_result(int last_move) const
 			combo = 0;
 		}
 	}
-
 	//check column
 	start = std::max<int>(0, row - 4);
 	end = std::min<int>(BOARD_DIM, row + 5);
@@ -676,7 +587,6 @@ Result Board::check_result(int last_move) const
 			combo = 0;
 		}
 	}
-
 	//check diagonal pp
 	start = std::max<int>(0, l_pp - 4);
 	end = std::min<int>(static_cast<int>(m_diag_pp[k_pp].size()), l_pp + 5);
@@ -693,7 +603,6 @@ Result Board::check_result(int last_move) const
 			combo = 0;
 		}
 	}
-
 	//chech diagonal pm
 	start = std::max<int>(0, l_pm - 4);
 	end = std::min<int>(static_cast<int>(m_diag_pm[k_pm].size()), l_pm + 5);
@@ -710,41 +619,33 @@ Result Board::check_result(int last_move) const
 			combo = 0;
 		}
 	}
-	
 	if (m_legal_moves.size() == 0) return Result::DRAW;
-
 	return Result::NONE;
 }
 
-std::unordered_set<int> Board::get_legal_moves() const
-{
+std::unordered_set<int> Board::get_legal_moves() const {
 	return m_legal_moves;
 }
 
-std::unordered_set<int> Board::get_boundary() const
-{
+std::unordered_set<int> Board::get_boundary() const {
 	std::unordered_set<int> boundary;
 	std::vector<std::pair<int, int>> shifts;
 	shifts.push_back(std::pair<int, int>(0, -2));
 	shifts.push_back(std::pair<int, int>(0, -1));
 	shifts.push_back(std::pair<int, int>(0, 1));
 	shifts.push_back(std::pair<int, int>(0, 2));
-
 	shifts.push_back(std::pair<int, int>(-2, 0));
 	shifts.push_back(std::pair<int, int>(-1, 0));
 	shifts.push_back(std::pair<int, int>(1, 0));
 	shifts.push_back(std::pair<int, int>(2, 0));
-
 	shifts.push_back(std::pair<int, int>(-2, -2));
 	shifts.push_back(std::pair<int, int>(-1, -1));
 	shifts.push_back(std::pair<int, int>(1, 1));
 	shifts.push_back(std::pair<int, int>(2, 2));
-
 	shifts.push_back(std::pair<int, int>(2, -2));
 	shifts.push_back(std::pair<int, int>(1, -1));
 	shifts.push_back(std::pair<int, int>(-1, 1));
 	shifts.push_back(std::pair<int, int>(-2, 2));
-
 	for (std::unordered_set<int>::iterator it = m_moves.begin(); it != m_moves.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
@@ -759,23 +660,17 @@ std::unordered_set<int> Board::get_boundary() const
 	return boundary;
 }
 
-std::unordered_set<int> Board::get_small_boundary() const
-{
+std::unordered_set<int> Board::get_small_boundary() const {
 	std::unordered_set<int> boundary;
 	std::vector<std::pair<int, int>> shifts;
-	
 	shifts.push_back(std::pair<int, int>(0, -1));
 	shifts.push_back(std::pair<int, int>(0, 1));
-
 	shifts.push_back(std::pair<int, int>(-1, 0));
 	shifts.push_back(std::pair<int, int>(1, 0));
-
 	shifts.push_back(std::pair<int, int>(-1, -1));
 	shifts.push_back(std::pair<int, int>(1, 1));
-
 	shifts.push_back(std::pair<int, int>(1, -1));
 	shifts.push_back(std::pair<int, int>(-1, 1));
-
 	for (std::unordered_set<int>::iterator it = m_moves.begin(); it != m_moves.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
@@ -790,23 +685,17 @@ std::unordered_set<int> Board::get_small_boundary() const
 	return boundary;
 }
 
-std::unordered_set<int> Board::get_building_boundary(Player player_to_move) const
-{
+std::unordered_set<int> Board::get_building_boundary(Player player_to_move) const {
 	std::unordered_set<int> boundary;
 	std::vector<std::pair<int, int>> shifts;
-
 	shifts.push_back(std::pair<int, int>(0, -1));
 	shifts.push_back(std::pair<int, int>(0, 1));
-
 	shifts.push_back(std::pair<int, int>(-1, 0));
 	shifts.push_back(std::pair<int, int>(1, 0));
-
 	shifts.push_back(std::pair<int, int>(-1, -1));
 	shifts.push_back(std::pair<int, int>(1, 1));
-
 	shifts.push_back(std::pair<int, int>(1, -1));
 	shifts.push_back(std::pair<int, int>(-1, 1));
-
 	for (std::unordered_set<int>::iterator it = m_moves.begin(); it != m_moves.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
@@ -832,37 +721,30 @@ std::unordered_set<int> Board::get_building_boundary(Player player_to_move) cons
 	return boundary;
 }
 
-std::vector<std::string> Board::get_rows() const
-{
+std::vector<std::string> Board::get_rows() const {
 	return m_rows;
 }
 
-std::vector<std::string> Board::get_cols() const
-{
+std::vector<std::string> Board::get_cols() const {
 	return m_cols;
 }
 
-std::vector<std::string> Board::get_diag_pp() const
-{
+std::vector<std::string> Board::get_diag_pp() const {
 	return m_diag_pp;
 }
 
-std::vector<std::string> Board::get_diag_pm() const
-{
+std::vector<std::string> Board::get_diag_pm() const {
 	return m_diag_pm;
 }
 
-std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
-{
+std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const {
 	std::vector<Threat> threats_X;
 	std::vector<Threat> threats_O;
 	std::unordered_set<int> boundary = get_boundary();
-
 	std::vector<std::string> rows_with_walls;
 	std::vector<std::string> cols_with_walls;
 	std::vector<std::string> diag_pp_with_walls;
 	std::vector<std::string> diag_pm_with_walls;
-
 	for (unsigned int i = 0; i < m_rows.size(); i++) {
 		rows_with_walls.push_back("w" + m_rows[i] + "w");
 	}
@@ -875,7 +757,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 	for (unsigned int i = 0; i < m_diag_pm.size(); i++) {
 		diag_pm_with_walls.push_back("w" + m_diag_pm[i] + "w");
 	}
-
 	for (std::unordered_set<int>::iterator it = boundary.begin(); it != boundary.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
@@ -885,7 +766,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 		int k_pm = row + col;
 		int l_pm = 0;
 		if (k_pm < BOARD_DIM) l_pm = col; else l_pm = BOARD_DIM - 1 - row;
-
 		//check row
 		int col_w = col + 1;
 		int start = std::max<int>(0, col_w - 4);
@@ -917,7 +797,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		line[col_w - start] = 'o';
 		if (m_threat_table.count(line)) {
 			std::vector<std::pair<int, int>> threats = m_threat_table.at(line);
@@ -945,7 +824,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		//check col
 		int row_w = row + 1;
 		start = std::max<int>(0, row_w - 4);
@@ -978,7 +856,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		line[row_w - start] = 'o';
 		if (m_threat_table.count(line)) {
 			std::vector<std::pair<int, int>> threats = m_threat_table.at(line);
@@ -1006,7 +883,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		//check diag_pp
 		int l_pp_w = l_pp + 1;
 		start = std::max<int>(0, l_pp_w - 4);
@@ -1039,7 +915,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		line[l_pp_w - start] = 'o';
 		if (m_threat_table.count(line)) {
 			std::vector<std::pair<int, int>> threats = m_threat_table.at(line);
@@ -1067,13 +942,11 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		//check diag_pm
 		int l_pm_w = l_pm + 1;
 		start = std::max<int>(0, l_pm_w - 4);
 		end = std::min<int>(static_cast<int>(diag_pm_with_walls[k_pm].size()), l_pm_w + 5);
 		line = std::string(diag_pm_with_walls[k_pm].begin() + start, diag_pm_with_walls[k_pm].begin() + end);
-
 		line[l_pm_w - start] = 'x';
 		if (m_threat_table.count(line)) {
 			std::vector<std::pair<int, int>> threats = m_threat_table.at(line);
@@ -1101,7 +974,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 				}
 			}
 		}
-
 		line[l_pm_w - start] = 'o';
 		if (m_threat_table.count(line)) {
 			std::vector<std::pair<int, int>> threats = m_threat_table.at(line);
@@ -1132,16 +1004,13 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats() const
 	}
 	return std::pair<std::vector<Threat>, std::vector<Threat>>(threats_X, threats_O);
 }
-std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() const
-{
+std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() const {
 	std::vector<Threat> threats_X;
 	std::vector<Threat> threats_O;
-
 	std::vector<std::string> rows_with_walls;
 	std::vector<std::string> cols_with_walls;
 	std::vector<std::string> diag_pp_with_walls;
 	std::vector<std::string> diag_pm_with_walls;
-
 	for (unsigned int i = 0; i < m_rows.size(); i++) {
 		rows_with_walls.push_back("w" + m_rows[i] + "w");
 	}
@@ -1154,7 +1023,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 	for (unsigned int i = 0; i < m_diag_pm.size(); i++) {
 		diag_pm_with_walls.push_back("w" + m_diag_pm[i] + "w");
 	}
-
 	for (std::unordered_set<int>::iterator it = m_moves.begin(); it != m_moves.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
@@ -1164,7 +1032,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 		int k_pm = row + col;
 		int l_pm = 0;
 		if (k_pm < BOARD_DIM) l_pm = col; else l_pm = BOARD_DIM - 1 - row;
-
 		//check row
 		int col_w = col + 1;
 		int start = std::max<int>(0, col_w - 4);
@@ -1216,7 +1083,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 				}
 			}
 		}
-
 		//check col
 		int row_w = row + 1;
 		start = std::max<int>(0, row_w - 4);
@@ -1269,7 +1135,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 				}
 			}
 		}
-
 		//check diag_pp
 		int l_pp_w = l_pp + 1;
 		start = std::max<int>(0, l_pp_w - 4);
@@ -1322,7 +1187,6 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 				}
 			}
 		}
-
 		//check diag_pm
 		int l_pm_w = l_pm + 1;
 		start = std::max<int>(0, l_pm_w - 4);
@@ -1379,16 +1243,13 @@ std::pair<std::vector<Threat>, std::vector<Threat>> Board::get_threats_played() 
 	return std::pair<std::vector<Threat>, std::vector<Threat>>(threats_X, threats_O);
 }
 
-uint64_t Board::get_hash() const
-{
+uint64_t Board::get_hash() const {
 	return m_zobhash;
 }
 
-std::vector<int> Board::get_searchspace(Player player_to_move) const
-{
+std::vector<int> Board::get_searchspace(Player player_to_move) const {
 	std::pair<std::vector<Threat>, std::vector<Threat>> threats = get_threats();
 	std::pair<std::vector<Threat>, std::vector<Threat>> threats_played = get_threats_played();
-
 	std::vector<Threat> five_threats_X;
 	std::vector<Threat> five_threats_O;
 	std::vector<Threat> open_four_threats_X;
@@ -1397,14 +1258,12 @@ std::vector<int> Board::get_searchspace(Player player_to_move) const
 	std::vector<Threat> four_threats_O;
 	std::vector<Threat> three_threats_X;
 	std::vector<Threat> three_threats_O;
-
 	std::vector<Threat> open_four_threats_played_X;
 	std::vector<Threat> open_four_threats_played_O;
 	std::vector<Threat> four_threats_played_X;
 	std::vector<Threat> four_threats_played_O;
 	std::vector<Threat> three_threats_played_X;
 	std::vector<Threat> three_threats_played_O;
-
 	for (unsigned int i = 0; i < threats.first.size(); i++) {
 		if (threats.first[i].threat_type_index == 0) five_threats_X.push_back(threats.first[i]);
 		if (threats.first[i].threat_type_index == 1) open_four_threats_X.push_back(threats.first[i]);
@@ -1427,7 +1286,6 @@ std::vector<int> Board::get_searchspace(Player player_to_move) const
 		if (threats_played.second[i].threat_type_index >= 2 && threats_played.second[i].threat_type_index < 7) four_threats_played_O.push_back(threats_played.second[i]);
 		if (threats_played.second[i].threat_type_index >= 7) three_threats_played_O.push_back(threats_played.second[i]);
 	}
-
 	if (player_to_move == Player::X && five_threats_X.size()) {
 		std::vector<int> searchspace;
 		searchspace.push_back(five_threats_X[0].gain_square);
@@ -1498,23 +1356,17 @@ std::vector<int> Board::get_searchspace(Player player_to_move) const
 }
 
 //X -> +, O -> -
-int Board::evaluate(Player player_to_move) const
-{
+int Board::evaluate(Player player_to_move) const {
 	std::pair<std::vector<Threat>, std::vector<Threat>> threats = get_threats();
-
 	//sw, initiative, attacking mobility
-
 	bool four_X = false;
 	bool open_four_X = false;
 	bool three_X = false;
-
 	bool four_O = false;
 	bool open_four_O = false;
 	bool three_O = false;
-
 	std::unordered_set<int> gain_squares_X;
 	std::unordered_set<int> gain_squares_O;
-
 	for (unsigned int i = 0; i < threats.first.size(); i++) {
 		if (threats.first[i].threat_type_index == 0) {
 			four_X = true;
@@ -1535,14 +1387,12 @@ int Board::evaluate(Player player_to_move) const
 					}
 				}
 			}
-
 		}
 		if (threats.first[i].threat_type_index == 1) {
 			three_X = true;
 		}
 		gain_squares_X.insert(threats.first[i].gain_square);
 	}
-
 	for (unsigned int i = 0; i < threats.second.size(); i++) {
 		if (threats.second[i].threat_type_index == 0) {
 			four_O = true;
@@ -1569,7 +1419,6 @@ int Board::evaluate(Player player_to_move) const
 		}
 		gain_squares_O.insert(threats.second[i].gain_square);
 	}
-
 	//sw
 	if (player_to_move == Player::X) {
 		if (four_X) return mate_in(1);
@@ -1584,43 +1433,35 @@ int Board::evaluate(Player player_to_move) const
 
 		if (open_four_X) return -mate_in(2);
 	}
-
 	//initiative and attacking mobility
 	Player initiative = Player::EMPTY;
 	int gain_X = static_cast<int>(gain_squares_X.size());
 	int gain_O = static_cast<int>(gain_squares_O.size());
-
 	if (player_to_move == Player::X) {
 		if (four_O) initiative = Player::O;
 		if (!four_O && !three_O && gain_X) initiative = Player::X;
 		if (!four_O && three_O && three_X) initiative = Player::X;
 	}
-
 	if (player_to_move == Player::O) {
 		if (four_X) initiative = Player::X;
 		if (!four_X && !three_X && gain_O) initiative = Player::O;
 		if (!four_X && three_X && three_O) initiative = Player::O;
 	}
 	float score = 0;
-
 	if (initiative == Player::EMPTY) {
 		score = float(gain_X - gain_O);
 	}
-
 	if (initiative == Player::X) {
 		score =  INITIATIVE_MULTYPLIER * float(gain_X) - float(gain_O);
 	}
-
 	if (initiative == Player::O) {
 		score =  float(gain_X) - INITIATIVE_MULTYPLIER * float(gain_O);
 	}
-
 	if (player_to_move == Player::X) return static_cast<int>(score * 10);
 	else return -static_cast<int>(score * 10);
 }
 
-std::string Board::get_position() const
-{
+std::string Board::get_position() const {
 	std::string pos;
 	for (int i = 0; i < BOARD_DIM; i++) {
 		for (int j = 0; j < BOARD_DIM; j++) {
@@ -1630,8 +1471,7 @@ std::string Board::get_position() const
 	return pos;
 }
 
-std::vector<int> Board::search_pattern(std::string line, std::regex pattern) const
-{
+std::vector<int> Board::search_pattern(std::string line, std::regex pattern) const {
 	std::vector<int> pos;
 	std::string suffix = line;
 	std::smatch sm;
@@ -1644,8 +1484,7 @@ std::vector<int> Board::search_pattern(std::string line, std::regex pattern) con
 	return pos;
 }
 
-void Board::load_threats()
-{
+void Board::load_threats() {
 	Threat_type five_X;
 	five_X.pattern = std::regex("xxxxx", std::regex_constants::optimize);
 	five_X.rest_squares.push_back(0); 
@@ -1654,7 +1493,6 @@ void Board::load_threats()
 	five_X.rest_squares.push_back(3);
 	five_X.rest_squares.push_back(4);
 	m_threat_types_X.push_back(five_X);
-
 	Threat_type open_four_X;
 	open_four_X.pattern = std::regex("exxxxe", std::regex_constants::optimize);
 	open_four_X.rest_squares.push_back(1);
@@ -1663,7 +1501,6 @@ void Board::load_threats()
 	open_four_X.rest_squares.push_back(4);
 	open_four_X.cost_squares.push_back(0);
 	m_threat_types_X.push_back(open_four_X);
-
 	Threat_type four0_left_X;
 	four0_left_X.pattern = std::regex("exxxxo|exxxxw", std::regex_constants::optimize);
 	four0_left_X.rest_squares.push_back(1);
@@ -1672,7 +1509,6 @@ void Board::load_threats()
 	four0_left_X.rest_squares.push_back(4);
 	four0_left_X.cost_squares.push_back(0);
 	m_threat_types_X.push_back(four0_left_X);
-
 	Threat_type four0_right_X;
 	four0_right_X.pattern = std::regex("oxxxxe|wxxxxe", std::regex_constants::optimize);
 	four0_right_X.rest_squares.push_back(1);
@@ -1681,7 +1517,6 @@ void Board::load_threats()
 	four0_right_X.rest_squares.push_back(4);
 	four0_right_X.cost_squares.push_back(5);
 	m_threat_types_X.push_back(four0_right_X);
-
 	Threat_type four1_left_X;
 	four1_left_X.pattern = std::regex("xexxx", std::regex_constants::optimize);
 	four1_left_X.rest_squares.push_back(0);
@@ -1690,7 +1525,6 @@ void Board::load_threats()
 	four1_left_X.rest_squares.push_back(4);
 	four1_left_X.cost_squares.push_back(1);
 	m_threat_types_X.push_back(four1_left_X);
-
 	Threat_type four1_right_X;
 	four1_right_X.pattern = std::regex("xxxex", std::regex_constants::optimize);
 	four1_right_X.rest_squares.push_back(0);
@@ -1699,7 +1533,6 @@ void Board::load_threats()
 	four1_right_X.rest_squares.push_back(4);
 	four1_right_X.cost_squares.push_back(3);
 	m_threat_types_X.push_back(four1_right_X);
-
 	Threat_type four2_X;
 	four2_X.pattern = std::regex("xxexx", std::regex_constants::optimize);
 	four2_X.rest_squares.push_back(0);
@@ -1708,7 +1541,6 @@ void Board::load_threats()
 	four2_X.rest_squares.push_back(4);
 	four2_X.cost_squares.push_back(2);
 	m_threat_types_X.push_back(four2_X);
-
 	Threat_type open_three_X;
 	open_three_X.pattern = std::regex("eexxxee", std::regex_constants::optimize);
 	open_three_X.rest_squares.push_back(2);
@@ -1717,7 +1549,6 @@ void Board::load_threats()
 	open_three_X.cost_squares.push_back(1);
 	open_three_X.cost_squares.push_back(5);
 	m_threat_types_X.push_back(open_three_X);
-
 	Threat_type three_left_X;
 	three_left_X.pattern = std::regex("eexxxeo|eexxxew", std::regex_constants::optimize);
 	three_left_X.rest_squares.push_back(2);
@@ -1727,7 +1558,6 @@ void Board::load_threats()
 	three_left_X.cost_squares.push_back(1);
 	three_left_X.cost_squares.push_back(5);
 	m_threat_types_X.push_back(three_left_X);
-
 	Threat_type three_right_X;
 	three_right_X.pattern = std::regex("oexxxee|wexxxee", std::regex_constants::optimize);
 	three_right_X.rest_squares.push_back(2);
@@ -1737,7 +1567,6 @@ void Board::load_threats()
 	three_right_X.cost_squares.push_back(5);
 	three_right_X.cost_squares.push_back(6);
 	m_threat_types_X.push_back(three_right_X);
-
 	Threat_type broken_three_left_X;
 	broken_three_left_X.pattern = std::regex("exxexe", std::regex_constants::optimize);
 	broken_three_left_X.rest_squares.push_back(1);
@@ -1747,7 +1576,6 @@ void Board::load_threats()
 	broken_three_left_X.cost_squares.push_back(3);
 	broken_three_left_X.cost_squares.push_back(5);
 	m_threat_types_X.push_back(broken_three_left_X);
-
 	Threat_type broken_three_right_X;
 	broken_three_right_X.pattern = std::regex("exexxe", std::regex_constants::optimize);
 	broken_three_right_X.rest_squares.push_back(1);
@@ -1757,7 +1585,6 @@ void Board::load_threats()
 	broken_three_right_X.cost_squares.push_back(2);
 	broken_three_right_X.cost_squares.push_back(5);
 	m_threat_types_X.push_back(broken_three_right_X);
-
 	//O
 	Threat_type five_O;
 	five_O.pattern = std::regex("ooooo", std::regex_constants::optimize);
@@ -1767,7 +1594,6 @@ void Board::load_threats()
 	five_O.rest_squares.push_back(3);
 	five_O.rest_squares.push_back(4);
 	m_threat_types_O.push_back(five_O);
-
 	Threat_type open_four_O;
 	open_four_O.pattern = std::regex("eooooe", std::regex_constants::optimize);
 	open_four_O.rest_squares.push_back(1);
@@ -1776,7 +1602,6 @@ void Board::load_threats()
 	open_four_O.rest_squares.push_back(4);
 	open_four_O.cost_squares.push_back(0);
 	m_threat_types_O.push_back(open_four_O);
-
 	Threat_type four0_left_O;
 	four0_left_O.pattern = std::regex("eoooox|eoooow", std::regex_constants::optimize);
 	four0_left_O.rest_squares.push_back(1);
@@ -1785,7 +1610,6 @@ void Board::load_threats()
 	four0_left_O.rest_squares.push_back(4);
 	four0_left_O.cost_squares.push_back(0);
 	m_threat_types_O.push_back(four0_left_O);
-
 	Threat_type four0_right_O;
 	four0_right_O.pattern = std::regex("xooooe|wooooe", std::regex_constants::optimize);
 	four0_right_O.rest_squares.push_back(1);
@@ -1794,7 +1618,6 @@ void Board::load_threats()
 	four0_right_O.rest_squares.push_back(4);
 	four0_right_O.cost_squares.push_back(5);
 	m_threat_types_O.push_back(four0_right_O);
-
 	Threat_type four1_left_O;
 	four1_left_O.pattern = std::regex("oeooo", std::regex_constants::optimize);
 	four1_left_O.rest_squares.push_back(0);
@@ -1803,7 +1626,6 @@ void Board::load_threats()
 	four1_left_O.rest_squares.push_back(4);
 	four1_left_O.cost_squares.push_back(1);
 	m_threat_types_O.push_back(four1_left_O);
-
 	Threat_type four1_right_O;
 	four1_right_O.pattern = std::regex("oooeo", std::regex_constants::optimize);
 	four1_right_O.rest_squares.push_back(0);
@@ -1812,7 +1634,6 @@ void Board::load_threats()
 	four1_right_O.rest_squares.push_back(4);
 	four1_right_O.cost_squares.push_back(3);
 	m_threat_types_O.push_back(four1_right_O);
-
 	Threat_type four2_O;
 	four2_O.pattern = std::regex("ooeoo", std::regex_constants::optimize);
 	four2_O.rest_squares.push_back(0);
@@ -1821,7 +1642,6 @@ void Board::load_threats()
 	four2_O.rest_squares.push_back(4);
 	four2_O.cost_squares.push_back(2);
 	m_threat_types_O.push_back(four2_O);
-
 	Threat_type open_three_O;
 	open_three_O.pattern = std::regex("eeoooee", std::regex_constants::optimize);
 	open_three_O.rest_squares.push_back(2);
@@ -1830,7 +1650,6 @@ void Board::load_threats()
 	open_three_O.cost_squares.push_back(1);
 	open_three_O.cost_squares.push_back(5);
 	m_threat_types_O.push_back(open_three_O);
-
 	Threat_type three_left_O;
 	three_left_O.pattern = std::regex("eeoooex|eeoooew", std::regex_constants::optimize);
 	three_left_O.rest_squares.push_back(2);
@@ -1840,7 +1659,6 @@ void Board::load_threats()
 	three_left_O.cost_squares.push_back(1);
 	three_left_O.cost_squares.push_back(5);
 	m_threat_types_O.push_back(three_left_O);
-
 	Threat_type three_right_O;
 	three_right_O.pattern = std::regex("xeoooee|weoooee", std::regex_constants::optimize);
 	three_right_O.rest_squares.push_back(2);
@@ -1850,7 +1668,6 @@ void Board::load_threats()
 	three_right_O.cost_squares.push_back(5);
 	three_right_O.cost_squares.push_back(6);
 	m_threat_types_O.push_back(three_right_O);
-
 	Threat_type broken_three_left_O;
 	broken_three_left_O.pattern = std::regex("eooeoe", std::regex_constants::optimize);
 	broken_three_left_O.rest_squares.push_back(1);
@@ -1860,7 +1677,6 @@ void Board::load_threats()
 	broken_three_left_O.cost_squares.push_back(3);
 	broken_three_left_O.cost_squares.push_back(5);
 	m_threat_types_O.push_back(broken_three_left_O);
-
 	Threat_type broken_three_right_O;
 	broken_three_right_O.pattern = std::regex("eoeooe", std::regex_constants::optimize);
 	broken_three_right_O.rest_squares.push_back(1);
@@ -1872,8 +1688,7 @@ void Board::load_threats()
 	m_threat_types_O.push_back(broken_three_right_O);
 }
 
-void Board::load_table(std::unordered_map<std::string, std::vector<std::pair<int, int>>>& table, std::string filename)
-{
+void Board::load_table(std::unordered_map<std::string, std::vector<std::pair<int, int>>>& table, std::string filename) {
 	std::ifstream file;
 	file.open(filename);
 	std::string key;
@@ -1893,8 +1708,7 @@ void Board::load_table(std::unordered_map<std::string, std::vector<std::pair<int
 	file.close();
 }
 
-int Board::index_diag_pp(int k, int l) const
-{
+int Board::index_diag_pp(int k, int l) const {
 	if (k < BOARD_DIM) {
 		int col = l;
 		int row = col + BOARD_DIM - 1 - k;
@@ -1906,9 +1720,7 @@ int Board::index_diag_pp(int k, int l) const
 		return row * BOARD_DIM + col;
 	}
 }
-
-int Board::index_diag_pm(int k, int l) const
-{
+int Board::index_diag_pm(int k, int l) const {
 	if (k < BOARD_DIM) {
 		int col = l;
 		int row = k - col;
@@ -1920,13 +1732,11 @@ int Board::index_diag_pm(int k, int l) const
 		return row * BOARD_DIM + col;
 	}
 }
-
 //class GameState
 GameState::GameState(StateManager* state_manager, GameStateOptions ops) : State(state_manager), m_ops(ops), m_ai(Player::O), m_ai_to_move(false),
 m_menu_button(Assets::MENU_BUTTON, Assets::MENU_BUTTON_PRESSED, D2D1::RectF(688, 2, 798, 33), D2D1::RectF(688, 2, 798, 33), true, false),
 m_board_button(0, 0, D2D1::RectF(OFFSET_X, OFFSET_Y, OFFSET_X + TILE_SIZE * BOARD_DIM, OFFSET_Y + TILE_SIZE * BOARD_DIM), D2D1::RectF(OFFSET_X, OFFSET_Y, OFFSET_X + TILE_SIZE * BOARD_DIM, OFFSET_Y + TILE_SIZE * BOARD_DIM), true, true),
-m_game_over(false), m_board(ops.start_pos), m_last_move(0), m_thinking(false), m_ai_thread(0), m_exiting(false), m_tt(0), m_count(0)
-{
+m_game_over(false), m_board(ops.start_pos), m_last_move(0), m_thinking(false), m_ai_thread(0), m_exiting(false), m_tt(0), m_count(0) {
 	m_tt_size = 1048576; // 2^20
 	m_tt = new TTEntry[m_tt_size];
 	if (ops.ai_to_move) {
@@ -1947,8 +1757,7 @@ m_game_over(false), m_board(ops.start_pos), m_last_move(0), m_thinking(false), m
 	std::cout << "It's your turn. Click to make a move." << std::endl;
 }
 
-GameState::~GameState()
-{
+GameState::~GameState() {
 	m_exiting = true;
 	if (m_ai_thread) {
 		if (m_ai_thread->joinable()) {
@@ -1961,8 +1770,7 @@ GameState::~GameState()
 	}
 }
 
-void GameState::update(const Input& input)
-{
+void GameState::update(const Input& input) {
 	if (m_menu_button.lb_action(input)) {
 		m_exiting = true;
 		if (m_ai_thread) {
@@ -1973,7 +1781,6 @@ void GameState::update(const Input& input)
 		m_state_manager->switch_state("menu");
 		m_state_manager->remove_state("game");
 	}
-
 	if (m_ai_to_move && !m_game_over && !m_thinking) {
 		m_thinking = true;
 		std::cout << "Thinking . . ." << std::endl;
@@ -1988,7 +1795,6 @@ void GameState::update(const Input& input)
 			m_ai_thread = new std::thread(&GameState::generate_move, this, m_ops.max_depth, 10000);
 		}
 	}
-
 	if (m_board_button.lb_action(input) && !m_ai_to_move && !m_game_over) {
 		int row = (input.mouse_click_pos_y - static_cast<int>(OFFSET_Y)) / TILE_SIZE;
 		int col = (input.mouse_click_pos_x - static_cast<int>(OFFSET_X)) / TILE_SIZE;
@@ -2002,18 +1808,15 @@ void GameState::update(const Input& input)
 			m_ai_to_move = true;
 		}
 	}
-
 	m_menu_button.update(input);
 	m_board_button.update(input);
 }
 
-void GameState::render(ID2D1HwndRenderTarget* pRT)
-{
+void GameState::render(ID2D1HwndRenderTarget* pRT) {
 	ID2D1SolidColorBrush* pYellowBrush = 0;
 	ID2D1SolidColorBrush* pRedBrush = 0;
 	ID2D1SolidColorBrush* pBlueBrush = 0;
 	ID2D1SolidColorBrush* pGreenBrush = 0;
-
 	pRT->CreateSolidColorBrush(D2D1::ColorF(1.0f, 1.0f, 0.0f, 0.8f), &pYellowBrush);
 	pRT->CreateSolidColorBrush(D2D1::ColorF(1.0f, 0.0f, 0.0f, 0.8f), &pRedBrush);
 	pRT->CreateSolidColorBrush(D2D1::ColorF(0.0f, 0.0f, 1.0f, 0.8f), &pBlueBrush);
@@ -2021,7 +1824,6 @@ void GameState::render(ID2D1HwndRenderTarget* pRT)
 	m_menu_button.render(pRT);
 	if (Assets::RANK_LABELS) pRT->DrawBitmap(Assets::RANK_LABELS, D2D1::RectF(OFFSET_X - TILE_SIZE, OFFSET_Y, OFFSET_X, OFFSET_Y + BOARD_DIM * TILE_SIZE), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	if (Assets::RANK_LABELS) pRT->DrawBitmap(Assets::RANK_LABELS, D2D1::RectF(OFFSET_X + BOARD_DIM * TILE_SIZE, OFFSET_Y, OFFSET_X + (BOARD_DIM + 1)* TILE_SIZE, OFFSET_Y + BOARD_DIM * TILE_SIZE), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
-
 	if (Assets::FILE_LABELS) pRT->DrawBitmap(Assets::FILE_LABELS, D2D1::RectF(OFFSET_X, OFFSET_Y - TILE_SIZE, OFFSET_X + BOARD_DIM * TILE_SIZE, OFFSET_Y), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	if (Assets::FILE_LABELS) pRT->DrawBitmap(Assets::FILE_LABELS, D2D1::RectF(OFFSET_X, OFFSET_Y + TILE_SIZE * BOARD_DIM, OFFSET_X + BOARD_DIM * TILE_SIZE, OFFSET_Y + TILE_SIZE * (BOARD_DIM + 1)), 1, D2D1_BITMAP_INTERPOLATION_MODE_NEAREST_NEIGHBOR);
 	for (int i = 0; i < BOARD_DIM; i++) {
@@ -2037,53 +1839,42 @@ void GameState::render(ID2D1HwndRenderTarget* pRT)
 			}
 		}
 	}
-
 	/*std::unordered_set<int> boundary = m_board.get_boundary();
 	for (std::unordered_set<int>::iterator it = boundary.begin(); it != boundary.end(); it++) {
 		int col = (*it) % BOARD_DIM;
 		int row = ((*it) - col) / BOARD_DIM;
 		if(pYellowBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pYellowBrush);
 	}*/
-
 	int col = m_last_move % BOARD_DIM;
 	int row = (m_last_move - col) / BOARD_DIM;
-
 	if (pGreenBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pGreenBrush);
-
 	std::pair<std::vector<Threat>, std::vector<Threat>> threats;// = m_board.get_threats();
-
 	/*for (unsigned int i = 0; i < threats.first.size(); i++) {
 		int col = threats.first[i].gain_square % BOARD_DIM;
 		int row = (threats.first[i].gain_square - col) / BOARD_DIM;
 		if (pRedBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pRedBrush);
 	}*/
-
 	/*for (unsigned int i = 0; i < threats.second.size(); i++) {
 		int col = threats.second[i].gain_square % BOARD_DIM;
 		int row = (threats.second[i].gain_square  - col) / BOARD_DIM;
 		if (pRedBrush) pRT->FillRectangle(D2D1::RectF(OFFSET_X + col * TILE_SIZE + 2, OFFSET_Y + row * TILE_SIZE + 2, OFFSET_X + (col + 1) * TILE_SIZE - 2, OFFSET_Y + (row + 1) * TILE_SIZE - 2), pRedBrush);
 	}*/
-
 	SafeRelease(&pYellowBrush);
 	SafeRelease(&pRedBrush);
 	SafeRelease(&pBlueBrush);
 	SafeRelease(&pGreenBrush);
 }
 
-void GameState::start()
-{
+void GameState::start() {
 }
 
-void GameState::stop()
-{
+void GameState::stop() {
 }
 
-int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int depth, bool* failed, const std::chrono::steady_clock::time_point& start_time)
-{
+int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int depth, bool* failed, const std::chrono::steady_clock::time_point& start_time) {
 	if (m_exiting || (*failed)) return 0;
 	uint64_t key = board.get_hash();
 	TTEntry* ptt = probeHash(key);
-
 	if ((ptt->depth >= depth) && (ptt->key == key)) {
 		if (ptt->type == TTEntryType::EXACT) {
 			return ptt->value;
@@ -2095,7 +1886,6 @@ int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int dept
 			return ptt->value;
 		}
 	}
-
 	m_count++;
 	if (m_count > 1000) {
 		m_count = 0;
@@ -2106,7 +1896,6 @@ int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int dept
 			return 0;
 		}
 	}
-
 	Result result = board.check_result(node->move);
 	if (result == Result::DRAW) {
 		save_entry(key, depth, 0, TTEntryType::EXACT);
@@ -2172,8 +1961,7 @@ int GameState::alphabeta(Board& board, Node* node, int alpha, int beta, int dept
 	return best_value;
 }
 
-Player GameState::switch_player(Player player)
-{
+Player GameState::switch_player(Player player) {
 	if (player == Player::X) {
 		return Player::O;
 	}
@@ -2183,8 +1971,7 @@ Player GameState::switch_player(Player player)
 	return Player::EMPTY;
 }
 
-void GameState::generate_move(int max_depth, int time_limit)
-{
+void GameState::generate_move(int max_depth, int time_limit) {
 	std::chrono::steady_clock clock;
 	std::chrono::steady_clock::time_point start = clock.now();
 	Board board(m_board.get_position());
@@ -2215,7 +2002,6 @@ void GameState::generate_move(int max_depth, int time_limit)
 	int move = root.child_nodes[0]->move;
 	int col = move % BOARD_DIM;
 	int row = (move - col) / BOARD_DIM;
-
 	bool moved = m_board.move(row, col, m_ai);
 	m_last_move = move;
 	if (failed) std::cout << "failed" << std::endl;
@@ -2231,13 +2017,11 @@ void GameState::generate_move(int max_depth, int time_limit)
 	m_thinking = false;
 }
 
-TTEntry* GameState::probeHash(uint64_t key)
-{
+TTEntry* GameState::probeHash(uint64_t key) {
 	return &m_tt[key % m_tt_size];
 }
 
-void GameState::save_entry(uint64_t key, int depth, int value, TTEntryType type)
-{
+void GameState::save_entry(uint64_t key, int depth, int value, TTEntryType type) {
 	uint64_t index = key % m_tt_size;
 	m_tt[index].key = key;
 	m_tt[index].depth = depth;
@@ -2246,22 +2030,19 @@ void GameState::save_entry(uint64_t key, int depth, int value, TTEntryType type)
 }
 
 
-Node::Node(const Node& node):move(node.move), value(node.value), player_to_move(node.player_to_move)
-{
+Node::Node(const Node& node):move(node.move), value(node.value), player_to_move(node.player_to_move) {
 	for (unsigned int i = 0; i < node.child_nodes.size(); i++) {
 		child_nodes.push_back(new Node(*(node.child_nodes[i])));
 	}
 }
 
-Node::~Node()
-{
+Node::~Node() {
 	for (unsigned int i = 0; i < child_nodes.size(); i++) {
 		if (child_nodes[i]) delete child_nodes[i];
 	}
 }
 
-void Node::sort_nodes()
-{
+void Node::sort_nodes() {
 	std::sort(child_nodes.begin(), child_nodes.end(), Node_greater());
 	for (unsigned int i = 0; i < child_nodes.size(); i++) {
 		child_nodes[i]->sort_nodes();
