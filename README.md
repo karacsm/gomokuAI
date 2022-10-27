@@ -3,6 +3,16 @@ An AI for the freestyle variant of gomoku also known as connect 5. The goal of t
 
 System requirements:
 
-Windows 64 bit OS and at least 4 GB RAM.
+Windows 64 bit OS
 
-To compile the program use VS2019 to open the project file in the Gomoku folder and set the configuration to Release x64 and then build the project. You can launch the program from VS or copy the executable from the Gomoku/x64/Release folder to somewhere else and also copy the Gomoku/resource folder and the Gomoku/threat_table.txt file to the same folder next to the executable and then you can launch the executable.
+The executable can be built using the commands 
+
+`cd gomoku/source`
+
+`cmake -DCMAKE_INSTALL_PREFIX=<install prefix> -B ./build .`
+
+`cmake --build ./build --config=Release`
+
+To run the executable it needs to be installed using the command
+
+`cmake --install ./build`
