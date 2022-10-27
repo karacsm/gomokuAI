@@ -20,6 +20,8 @@ The executable can be built using the commands
 
 `cmake -DCMAKE_INSTALL_PREFIX=<install prefix> -B ./build .`
 
+Replace <install prefix> with the path where you want to install the executable in the command above.
+
 `cmake --build ./build --config=Release`
 
 The executable needs to be installed using the command
